@@ -1,6 +1,10 @@
-### Hi there 👋
+![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=synthwave&hide=HTML)
+
+![EXP's github stats](https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=radical)
 
 <!--
+### Hi there 👋
+
 **lyy289065406/lyy289065406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,7 +27,5 @@ https://github.com/lyy289065406/anuraghazra
 https://github.com/lyy289065406/simonw
 -->
 
-![EXP's github stats](https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=radical)
 
 
-![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=synthwave)
