@@ -1,28 +1,58 @@
-name: Greet Everyone
-# This workflow is triggered on pushes to the repository.
-# on: [push]
+name: Automatically crawl CVEs 
 on:
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '2 * * * *'
 
 
 jobs:
-  build:
-    # 作业名称为 Greeting
-    name: Greeting
-    # 此作业在 Linux 上运行
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      # 此步骤使用 GitHub 的 hello-world-javascript-action：https://github.com/actions/hello-world-javascript-action
-      - name: Hello world
-        uses: actions/hello-world-javascript-action@v1
-        with:
-          who-to-greet: 'Mona the Octocat'
-        id: hello
-      # 此步骤打印上一步操作的输出（时间）。
-      - name: Echo the greeting's time
-        run: echo 'The time was ${{ steps.hello.outputs.time }}.'
 
+    - name: Check out repo
+      uses: actions/checkout@v2
 
-# https://docs.github.com/cn/actions/configuring-and-managing-workflows/configuring-a-workflow
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 2.7
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install Python dependencies
+      run: |
+        python -m pip install -r requirements.txt
+
+    - name: Crawl CVEs
+      run: |-
+        python main.py
+
+    # 若该时间段没有 CVE， 则 file://cache/mail.dat 文件不会生成，此时不会发送邮件
+    - name: Send mail
+      uses: lyy289065406/action-send-mail@v3
+      with:
+        server_address: ${{ secrets.MAIL_SMTP }}
+        server_port: 465
+        username: ${{ secrets.MAIL_USER }}
+        password: ${{ secrets.MAIL_PASS }}
+        from: ${{ secrets.MAIL_USER }}
+        to: ${{ secrets.MAIL_RECV }}
+        subject: 威胁情报播报
+        body: file://cache/mail.dat
+        content_type: text/html
+
+    # readme-bot 是 Github runner 的固定账号，不用改
+    - name: Commit and push Github page (if changed)
+      run: |-
+        git diff
+        git config --global user.email "readme-bot@example.com"
+        git config --global user.name "README-bot"
+        git add -A
+        git commit -m "Updated by Github Robot" || exit 0
+        git push
 
