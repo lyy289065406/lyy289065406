@@ -1,8 +1,10 @@
 
 
-![EXP's github stats](https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=radical)
+<!-- Create By https://github.com/anuraghazra/github-readme-stats -->
 
-![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=cobalt&hide=HTML,CSS)
+[![EXP's github stats](https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=radical)](https://exp-blog.com)
+
+[![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=cobalt&hide=HTML)](https://exp-blog.com)
 
 <!--
 ### Hi there 👋
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
 https://my.oschina.net/u/2446442/blog/4422846
 https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 https://github.com/lyy289065406/gautamkrishnar
-https://github.com/lyy289065406/anuraghazra
 https://github.com/lyy289065406/simonw
 -->
 
