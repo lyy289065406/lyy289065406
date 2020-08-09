@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+https://my.oschina.net/u/2446442/blog/4422846
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+https://github.com/lyy289065406/gautamkrishnar
+https://github.com/lyy289065406/anuraghazra
+https://github.com/lyy289065406/simonw
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyy289065406)](https://github.com/anuraghazra/github-readme-stats)

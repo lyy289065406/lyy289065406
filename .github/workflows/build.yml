@@ -38,14 +38,14 @@ jobs:
       run: |-
         python main.py
 
-    - name: push
+    - name: commit and push
       uses: lyy289065406/commit@v3
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
+        email: ${{ secrets.GITHUB_EMAIL }}
+        name: ${{ secrets.GITHUB_NAME }}
         push-branch: 'master'
-        commit-message: 'publish'
+        commit-message: 'update progress'
         force-add: 'true'
         files: '.'
-        name: EXP
-        email: 289065406@qq.com 
 
