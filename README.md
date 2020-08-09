@@ -2,7 +2,7 @@
 
 ![EXP's github stats](https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=radical)
 
-![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=synthwave&hide=HTML,JavaScript,CSS)
+![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=cobalt&hide=HTML,CSS)
 
 <!--
 ### Hi there 👋
