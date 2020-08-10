@@ -16,6 +16,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=radical&hide=HTML" alt="EXP's Top Langs" />
 </a>
 
+
+<!-- repo -->
+
+<a href="https://github.com/lyy289065406/exp-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=cobalt" />
+</a>    
+
 <a href="https://github.com/lyy289065406/re0-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=re0-web&theme=cobalt" />
 </a>    
