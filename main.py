@@ -8,22 +8,25 @@
 from python_graphql_client import GraphqlClient
 import pathlib
 import os
+import json
 
 PRJ_ROOT = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
-TOKEN = os.environ.get("GITHUB_TOKEN", "")
+TOKEN = os.environ.get("GRAPHQL_TOKEN", "")
 
 def make_query(after_cursor=None):
     return """
 query {
-    viewer {
-        login
-    }
     repository(owner: "lyy289065406", name: "threat-broadcast") {
-        issues(first: 2, after:AFTER) {
-            id
-            title
-            body
+        issues(orderBy:{field: UPDATED_AT, direction: DESC} , labels: null, first: 10, after: AFTER) {
+            edges{
+                node {
+                    title
+                    updatedAt
+                    bodyText
+                    number
+                }
+            }
             pageInfo {
                 hasNextPage
                 endCursor
