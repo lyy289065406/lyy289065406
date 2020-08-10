@@ -6,6 +6,22 @@
 
 [![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=cobalt&hide=HTML)](https://exp-blog.com)
 
+
+
+<a href="https://exp-blog.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=radical" alt="EXP's github stats" />
+</a>
+<a href="https://exp-blog.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=cobalt&hide=HTML" alt="EXP's Top Langs" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=re0-web&theme=radical" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=lyy289065406.github.io&theme=radical" />
+</a>
+
 <!--
 ### Hi there 👋
 
@@ -25,6 +41,7 @@ Here are some ideas to get you started:
 
 
 https://my.oschina.net/u/2446442/blog/4422846
+https://juejin.im/post/6857655197020356621
 https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 https://github.com/lyy289065406/gautamkrishnar
 https://github.com/lyy289065406/simonw
