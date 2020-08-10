@@ -23,10 +23,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=cobalt" />
 </a>    
 
-<a href="https://github.com/lyy289065406/re0-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=re0-web&theme=cobalt" />
+<a href="https://github.com/lyy289065406/threat-broadcast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=cobalt" />
 </a>    
 
+<a href="https://github.com/lyy289065406/CTF-Solving-Reports">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=CTF-Solving-Reports&theme=cobalt" />
+</a>
+
+<a href="https://github.com/lyy289065406/POJ-Solving-Reports">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=cobalt" />
+</a>
 
 <!--
 ### Hi there 👋
