@@ -15,12 +15,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=cobalt&hide=HTML" alt="EXP's Top Langs" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lyy289065406/re0-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=re0-web&theme=radical" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=lyy289065406.github.io&theme=radical" />
-</a>
+
 
 <!--
 ### Hi there 👋
