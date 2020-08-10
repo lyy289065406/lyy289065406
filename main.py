@@ -8,6 +8,7 @@
 from python_graphql_client import GraphqlClient
 import pathlib
 import os
+import sys
 import json
 
 PRJ_ROOT = pathlib.Path(__file__).parent.resolve()
