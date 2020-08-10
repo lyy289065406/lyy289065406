@@ -12,7 +12,7 @@ import json
 
 PRJ_ROOT = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
-TOKEN = os.environ.get("GRAPHQL_TOKEN", "")
+
 
 def make_query(after_cursor=None):
     return """
@@ -38,7 +38,7 @@ query {
         "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
     )
 
-def fetch_releases(oauth_token):
+def main(help, oauth_token):
     repos = []
     releases = []
     repo_names = set()
@@ -76,6 +76,29 @@ def fetch_releases(oauth_token):
         after_cursor = data["data"]["repository"]["issues"]["pageInfo"]["endCursor"]
     return releases
 
-if __name__ == '__main__':
-    fetch_releases(TOKEN)
+
         
+
+def get_sys_args(sys_args) :
+    help = False
+    oauth_token = ''
+
+    idx = 1
+    size = len(sys_args)
+    while idx < size :
+        try :
+            if sys_args[idx] == '-h' :
+                help = True
+
+            elif sys_args[idx] == '-tk' :
+                idx += 1
+                oauth_token = sys_args[idx]
+
+        except :
+            pass
+        idx += 1
+    return help, oauth_token
+
+
+if __name__ == '__main__':
+    main(*get_sys_args(sys.argv))
