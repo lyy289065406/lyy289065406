@@ -1,1 +1,1 @@
-GraphqlClient
+python-graphql-client
