@@ -1,3 +1,4 @@
+## Hi there 👋 I'm ✨ [EXP](https://exp-blog.com) !✨
 
 <!--START_SECTION:github-readme-stats-->
 
@@ -28,9 +29,7 @@
 
 <!--END_SECTION:github-readme-stats-->
 
-### Hi there 👋
 
-I'm ✨[EXP](https://exp-blog.com)!✨
 
 <!--START_SECTION:weektime-->
 
