@@ -1,14 +1,12 @@
 ## Hi there 👋 I'm ✨ [EXP](https://exp-blog.com) ✨
 
 <!--START_SECTION:github-readme-stats-->
-
 <a href="https://exp-blog.com">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML,CSS&theme=great-gatsby" alt="EXP's Top Langs" />
 </a>
 <a href="https://exp-blog.com">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
 </a>
-
 
 
 <a href="https://github.com/lyy289065406/exp-blog">
@@ -26,21 +24,19 @@
 <a href="https://github.com/lyy289065406/POJ-Solving-Reports">
   <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=nord" />
 </a>
-
 <!--END_SECTION:github-readme-stats-->
 
 
 
 <!--START_SECTION:weektime-->
-
-### 📊 This week I spent my time on
+### 📊 This week I spent my free time on
 
 ```text
-TypeScript   4 hrs 51 mins   ▣▣▣▣▣▣▣▣▣▣▣☒☒☒☒☒   42.52 % 
-JavaScript   3 hrs 13 mins   ▣▣▣▣▣▣▣▣▣☒☒☒☒☒☒☒   28.14 % 
-Markdown     1 hr 15 mins    ▣▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒   10.95 % 
-JSON         1 hr 7 mins     ▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒   09.78 % 
-Other        24 mins         ▣▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒   03.60 %
+Github-Actions  15 hrs    ▣▣▣▣▣☒☒☒☒☒    50.00 %
+GraphQL          4 hrs    ▣▣☒☒☒☒☒☒☒☒    13.33 %
+Blog             2 hrs    ▣☒☒☒☒☒☒☒☒☒    00.07 %
+My Lovely Cat    7 hrs    ▣▣▣☒☒☒☒☒☒☒    23.33 %
+Other            2 hrs    ▣☒☒☒☒☒☒☒☒☒    00.07 %
 ```
 <!--END_SECTION:weektime-->
 
