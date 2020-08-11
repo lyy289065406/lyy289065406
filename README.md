@@ -31,7 +31,7 @@
 ### 😄 I'm a developer from China, and this is the place where I opensource stuff.
 
 - 🔭 I’m currently working on [Github Profile Readme](https://github.com/lyy289065406/lyy289065406).
-- 🌱 I’m currently learning K8S, GraphQL and Github Actions.
+- 🌱 I’m currently learning [K8S](https://github.com/kubernetes/kubernetes), [GraphQL](https://developer.github.com/v4/) and [Github Actions](https://docs.github.com/en/actions).
 - 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues)
 <!--START_SECTION:introduction-->
 
@@ -47,3 +47,7 @@ My Lovely Cat      7 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒�
 ```
 <!--END_SECTION:weektime-->
 
+
+<!--
+TODO: 动态自更新，参考 https://github.com/simonw
+-->
