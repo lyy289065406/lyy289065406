@@ -4,7 +4,7 @@
 
 [![EXP's github stats](https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=radical)](https://exp-blog.com)
 
-[![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=cobalt&hide=HTML)](https://exp-blog.com)
+[![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=dracula&hide=HTML)](https://exp-blog.com)
 
 -->
 
