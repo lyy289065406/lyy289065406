@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=radical" alt="EXP's github stats" />
 </a>
 <a href="https://exp-blog.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=radical&hide=HTML" alt="EXP's Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=material-palenight&hide=HTML" alt="EXP's Top Langs" />
 </a>
 
 ------
