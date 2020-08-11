@@ -1,12 +1,5 @@
 
-
-<!-- Create By https://github.com/anuraghazra/github-readme-stats 
-
-[![EXP's github stats](https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=radical)](https://exp-blog.com)
-
-[![EXP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&layout=compact&theme=dracula&hide=HTML)](https://exp-blog.com)
-
--->
+<!--START_SECTION:github-readme-stats-->
 
 <a href="https://exp-blog.com">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML,CSS&theme=great-gatsby" alt="EXP's Top Langs" />
@@ -16,7 +9,6 @@
 </a>
 
 
-<!-- repo -->
 
 <a href="https://github.com/lyy289065406/exp-blog">
   <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=nord" />
@@ -34,8 +26,28 @@
   <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=nord" />
 </a>
 
-<!--
+<!--END_SECTION:github-readme-stats-->
+
 ### Hi there 👋
+
+I'm ✨[EXP](https://exp-blog.com)!✨
+
+<!--START_SECTION:weektime-->
+
+📊 **This week I spent my time on**
+
+```text
+TypeScript   4 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   42.52 % 
+JavaScript   3 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+Markdown     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+JSON         1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+```
+<!--END_SECTION:weektime-->
+
+
+<!--
+
 
 **lyy289065406/lyy289065406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
