@@ -9,10 +9,10 @@
 -->
 
 <a href="https://exp-blog.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML&theme=material-palenight" alt="EXP's Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML&theme=nord" alt="EXP's Top Langs" />
 </a>
 <a href="https://exp-blog.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=nord" alt="EXP's github stats" />
 </a>
 
 
@@ -21,19 +21,19 @@
 <!-- repo -->
 
 <a href="https://github.com/lyy289065406/exp-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=graywhite " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=nord" />
 </a>    
 
 <a href="https://github.com/lyy289065406/threat-broadcast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=graywhite " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=nord" />
 </a>    
 
 <a href="https://github.com/lyy289065406/CTF-Solving-Reports">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=CTF-Solving-Reports&theme=graywhite " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=CTF-Solving-Reports&theme=nord" />
 </a>
 
 <a href="https://github.com/lyy289065406/POJ-Solving-Reports">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=graywhite " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=nord" />
 </a>
 
 <!--
