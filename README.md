@@ -21,19 +21,19 @@
 <!-- repo -->
 
 <a href="https://github.com/lyy289065406/exp-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=graywhite " />
 </a>    
 
 <a href="https://github.com/lyy289065406/threat-broadcast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=graywhite " />
 </a>    
 
 <a href="https://github.com/lyy289065406/CTF-Solving-Reports">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=CTF-Solving-Reports&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=CTF-Solving-Reports&theme=graywhite " />
 </a>
 
 <a href="https://github.com/lyy289065406/POJ-Solving-Reports">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=graywhite " />
 </a>
 
 <!--
