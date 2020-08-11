@@ -9,10 +9,10 @@
 -->
 
 <a href="https://exp-blog.com">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML&theme=great-gatsby" alt="EXP's Top Langs" />
+  <img height="220" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML&theme=great-gatsby" alt="EXP's Top Langs" />
 </a>
 <a href="https://exp-blog.com">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
+  <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
 </a>
 
 
