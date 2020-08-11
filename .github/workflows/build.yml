@@ -1,13 +1,13 @@
-name: Automatically crawl CVEs 
+name: For Test
 on:
   push:
     branches:
       - master
-  workflow_dispatch:
-    branches:
-      - master
-  schedule:
-    - cron:  '25 * * * *'
+  # workflow_dispatch:
+  #   branches:
+  #     - master
+  # schedule:
+  #   - cron:  '25 * * * *'
 
 
 jobs:
@@ -36,16 +36,5 @@ jobs:
 
     - name: test
       run: |-
-        python main.py
-
-    - name: commit and push
-      uses: lyy289065406/commit@v3
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        email: ${{ secrets.GITHUB_EMAIL }}
-        name: ${{ secrets.GITHUB_NAME }}
-        push-branch: 'master'
-        commit-message: 'update progress'
-        force-add: 'true'
-        files: '.'
+        python main.py -tk ${{ secrets.GITHUB_TOKEN }}
 
