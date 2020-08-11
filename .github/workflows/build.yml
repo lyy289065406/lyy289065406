@@ -36,5 +36,5 @@ jobs:
 
     - name: test
       run: |-
-        python main.py -tk ${{ secrets.GITHUB_TOKEN }}
+        python main.py -gtk ${{ secrets.GITHUB_TOKEN }}
 
