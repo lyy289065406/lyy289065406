@@ -36,5 +36,5 @@ jobs:
 
     - name: test
       run: |-
-        python main.py -gtk ${{ secrets.GITHUB_TOKEN }}
+        python refresh_readme.py -gtk ${{ secrets.GITHUB_TOKEN }}
 
