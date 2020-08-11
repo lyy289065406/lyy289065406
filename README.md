@@ -1,4 +1,4 @@
-## Hi there 👋 I'm ✨ [EXP](https://exp-blog.com) !✨
+## Hi there 👋 I'm ✨ [EXP](https://exp-blog.com) ✨
 
 <!--START_SECTION:github-readme-stats-->
 
@@ -33,7 +33,7 @@
 
 <!--START_SECTION:weektime-->
 
-📊 **This week I spent my time on**
+### 📊 This week I spent my time on
 
 ```text
 TypeScript   4 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   42.52 % 
