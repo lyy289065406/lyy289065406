@@ -1,27 +1,27 @@
 ## ✨ Hi there 👋 I'm [EXP](https://exp-blog.com) ✨
 
 <!--START_SECTION:github-readme-stats-->
-<a href="https://exp-blog.com">
+<a href="https://exp-blog.com" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML,CSS,TSQL&theme=great-gatsby" alt="EXP's Top Langs" />
 </a>
-<a href="https://exp-blog.com">
+<a href="https://exp-blog.com" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
 </a>
 
 
-<a href="https://github.com/lyy289065406/exp-blog">
+<a href="https://github.com/lyy289065406/exp-blog" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=nord" />
 </a>    
 
-<a href="https://github.com/lyy289065406/threat-broadcast">
+<a href="https://github.com/lyy289065406/threat-broadcast" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=nord" />
 </a>    
 
-<a href="https://github.com/lyy289065406/CTF-Solving-Reports">
+<a href="https://github.com/lyy289065406/CTF-Solving-Reports" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=CTF-Solving-Reports&theme=nord" />
 </a>
 
-<a href="https://github.com/lyy289065406/POJ-Solving-Reports">
+<a href="https://github.com/lyy289065406/POJ-Solving-Reports" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=nord" />
 </a>
 <!--END_SECTION:github-readme-stats-->
