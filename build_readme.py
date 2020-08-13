@@ -47,7 +47,6 @@ query {
     )
 
 
-
 def query_issues(github_token, owner=GITHUB_REPO_OWNER, repo=GITHUB_REPO, iter=100):
     titles = []
     client = GraphqlClient(endpoint=GITHUB_GRAPHQL)
