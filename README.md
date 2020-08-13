@@ -1,4 +1,4 @@
-## ✨ Hi there 👋 I'm [EXP](https://exp-blog.com) ✨
+## 👋 Hi there  I'm [EXP](https://exp-blog.com)
 
 <!--START_SECTION:github-readme-stats-->
 <a href="https://exp-blog.com" target="_blank">
@@ -49,20 +49,33 @@ My Lovely Cat      7 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒�
 <!--END_SECTION:weektime-->
 
 
-<!--START_SECTION:recent-->
-### Recent activity
+<!--START_SECTION:activity-->
+### ✨ Recent activity
 
 | repo |commit count | push time |
 |:------:|:------:|:------|
 | [crop-circles](https://github.com/lyy289065406/crop-circles) | 4411 | 2020-08-13 00:08:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 578 | 2020-08-12 14:44:03 |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 230 | 2020-08-12 00:46:15 |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | 291 | 2020-08-09 16:19:56 |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 454 | 2020-07-22 13:49:42 |
-<!--END_SECTION:recent-->
+<!--END_SECTION:activity-->
 
+
+<!--START_SECTION:articles-->
+### ✍ Recent articles
+
+<!--END_SECTION:articles-->
 
 <!--
+more emoji : http://emojihomepage.com/
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 TODO: 动态自更新，参考 https://github.com/simonw
 -->
 
