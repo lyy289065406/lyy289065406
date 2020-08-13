@@ -30,7 +30,7 @@
 <!--START_SECTION:introduction-->
 ### 👨‍💻  I'm a developer from China, and this is the place where I opensource stuff.
 
-- 🐾 I’m currently working on [Github Profile](https://github.com/lyy289065406/lyy289065406).
+- 💻 I’m currently working on [Github Profile](https://github.com/lyy289065406/lyy289065406).
 - ✨ I’m currently rebuilding my [Blog Site](https://exp-blog.com).
 - 🎓 I’m currently learning [K8S](https://github.com/kubernetes/kubernetes), [GraphQL](https://developer.github.com/v4/) and [Github Actions](https://docs.github.com/en/actions).
 - 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues).
