@@ -52,13 +52,13 @@ My Lovely Cat      7 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒�
 <!--START_SECTION:recent-->
 ### Recent activity
 
-| repo | desc | time | count |
-|:------:|:------:|:------:|:------:|
-| [crop-circles](https://github.com/lyy289065406/crop-circles) | Github 麦田圈 | 2020-08-13 00:08:36 | 4411 |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 威胁情报播报 | 2020-08-12 14:44:03 | 578 |
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 2020-08-12 00:46:15 | 230 |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | EXP 技术博客 | 2020-08-09 16:19:56 | 291 |
-| [re0-web](https://github.com/lyy289065406/re0-web) | RE0：从零开始的异世界生活 （WEB版） | 2020-07-22 13:49:42 | 454 |
+| repo |commit count | push time |
+|:------:|:------:|:------:|
+| [crop-circles](https://github.com/lyy289065406/crop-circles) | 4411 | 2020-08-13 00:08:36 |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 578 | 2020-08-12 14:44:03 |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 230 | 2020-08-12 00:46:15 |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | 291 | 2020-08-09 16:19:56 |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 454 | 2020-07-22 13:49:42 |
 <!--END_SECTION:recent-->
 
 
