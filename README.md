@@ -53,7 +53,7 @@ My Lovely Cat      7 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒�
 ### Recent activity
 
 | repo |commit count | push time |
-|:------:|:------:|:------:|
+|:------:|:------:|:------|
 | [crop-circles](https://github.com/lyy289065406/crop-circles) | 4411 | 2020-08-13 00:08:36 ![news](imgs/new.gif) |
 | [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 578 | 2020-08-12 14:44:03 |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 230 | 2020-08-12 00:46:15 |
