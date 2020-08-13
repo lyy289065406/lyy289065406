@@ -1,4 +1,4 @@
-## 👋  Hi there  I'm [EXP](https://exp-blog.com)
+## 👋  Hi there, I'm [EXP](https://exp-blog.com)
 
 <!--START_SECTION:github-readme-stats-->
 <a href="https://exp-blog.com" target="_blank">
