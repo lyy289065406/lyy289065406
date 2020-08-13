@@ -31,6 +31,7 @@ query {
         object(expression: "master") {
           ... on Commit {
             history(first: 3) {
+              totalCount
               nodes {
                 committedDate
                 message
