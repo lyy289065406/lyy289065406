@@ -4,9 +4,10 @@
 # @Time   : 2020/4/28 21:56
 # -----------------------------------------------
 
+from src.bean.repo import *
+from python_graphql_client import GraphqlClient
 
 GITHUB_GRAPHQL = 'https://api.github.com/graphql'
-GITHUB_REPO_OWNER = 'lyy289065406'
 
 
 def query_repos(github_token, iter=100):
