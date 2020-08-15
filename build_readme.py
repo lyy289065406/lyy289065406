@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 # @Author : EXP
 # @Time   : 2020/8/11 22:17
-# @File   : main.py
 # -----------------------------------------------
 
 import sys
@@ -12,49 +11,15 @@ from python_graphql_client import GraphqlClient
 GITHUB_GRAPHQL = 'https://api.github.com/graphql'
 GITHUB_REPO_OWNER = 'lyy289065406'
 
-TOPIC_WRITING = 'writing'
-TOPIC_LEARNING = 'learning'
-TOPIC_PROGRAMMING = 'programming'
-TOPIC_PLAYING = 'playing'
 
-BIT_WRITING = 1
-BIT_LEARNING = 2
-BIT_PROGRAMMING = 4
-BIT_PLAYING = 8
 
 
 def main(help, github_token):
     repos = query_repos(github_token)
+    print(repos)
+    load_weektime(repos)
     #TODO 更新 Github Repo、Blog 状态到 README
     
-
-
-def load_weektime(repos) :
-    cnt_writing = 0
-    cnt_learning = 0
-    cnt_programming = 0
-    cnt_playing = 0
-    cnt_other = 0
-
-    for repo in repos :
-        if repo.is_for_writing :
-            cnt_writing += repo.commit_cnt
-        elif repo.is_for_learning :
-            cnt_learning += repo.commit_cnt
-        elif repo.is_for_programming :
-            cnt_programming += repo.commit_cnt
-        elif repo.is_for_playing :
-            cnt_playing += repo.commit_cnt
-        else :
-            cnt_other += repo.commit_cnt
-
-    total = cnt_writing + cnt_learning + cnt_programming + cnt_playing + cnt_other
-    print('%i / %i' % (cnt_writing, total))
-    print('%i / %i' % (cnt_learning, total))
-    print('%i / %i' % (cnt_programming, total))
-    print('%i / %i' % (cnt_playing, total))
-    print('%i / %i' % (cnt_other, total))
-        
 
 
 def load_activity() :
@@ -90,6 +55,7 @@ def query_repos(github_token, iter=100):
                 repo.add_topic(topic["topic"]["name"])
             repos.append(repo)
 
+        
         pageInfo = data["data"]["viewer"]["repositories"]["pageInfo"]
         has_next_page = pageInfo["hasNextPage"]
         next_cursor = pageInfo["endCursor"]
@@ -100,7 +66,7 @@ def _to_graphql(next_cursor, iter):
     return """
 query {
   viewer {
-    repositories(first: 50, orderBy: {field: PUSHED_AT, direction: DESC}, isFork: false, after: null) {
+    repositories(first: 50, orderBy: {field: PUSHED_AT, direction: DESC}, isFork: false, after: NEXT) {
       pageInfo {
         hasNextPage
         endCursor
@@ -112,9 +78,9 @@ query {
         pushedAt
         repositoryTopics(first: 5) {
           nodes {
-              topic {
-                name
-              }
+            topic {
+              name
+            }
           }
         }
         object(expression: "master") {
