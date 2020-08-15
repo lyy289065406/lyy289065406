@@ -1,0 +1,1 @@
+| %(repo)s | %(count)i | %(time)s %(new_flag)s |

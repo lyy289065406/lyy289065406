@@ -1,0 +1,1 @@
+%(what)s    %(hour) hrs    %(progress)s    %(percentage)s
