@@ -64,12 +64,8 @@ query {
         }
         object(expression: "master") {
           ... on Commit {
-            history(first: 2) {
+            history(first: 1) {
               totalCount
-              nodes {
-                committedDate
-                message
-              }
             }
           }
         }
