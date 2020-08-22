@@ -7,39 +7,45 @@
 import os
 import requests
 import re
+import time
 from src.cfg.env import *
 
 
-EXP_BLOG_SITEMAP = 'http://exp-blog.com/gitbook/book/sitemap.xml'
-EXP_BLOG_SAVE_PATH = '%s/cache/article_exp_blog.dat' % PRJ_DIR
-EXP_BLOG_SAVE_CACHE = []
+PROXY_TROJAN = 'http://127.0.0.1:8888'
+TPL_PATH = '%s/tpl/article.tpl' % PRJ_DIR
+SAVE_PATH = PRJ_DIR + '/cache/article_%s.dat'
 
-RE0_WEB_SITEMAP = 'http://lyy289065406.github.io/re0-web/gitbook/book/sitemap.xml'
-RE0_WEB_SAVE_PATH = '%s/cache/article_re0_web.dat' % PRJ_DIR
-RE0_WEB_SAVE_CACHE = []
+EXP_BLOG_REPO = 'exp-blog'
+EXP_BLOG_SITEMAP = 'https://exp-blog.com/gitbook/book/sitemap.xml'
+
+RE0_WEB_REPO = 're0-web'
+RE0_WEB_SITEMAP = 'https://lyy289065406.github.io/re0-web/gitbook/book/sitemap.xml'
+
 
 
 def build(repos) :
-    # ar = ArticleRefresher(EXP_BLOG_SITEMAP, EXP_BLOG_SAVE_PATH, EXP_BLOG_SAVE_CACHE)
-    # ar.reflash()
-    # url = ar.take_newly()
-    # print(url)
-
-    ar = ArticleRefresher(RE0_WEB_SITEMAP, RE0_WEB_SAVE_PATH, RE0_WEB_SAVE_CACHE)
+    ar = ArticleRefresher(EXP_BLOG_REPO, EXP_BLOG_SITEMAP, PROXY_TROJAN)
     ar.reflash()
-    url = ar.take_newly()
-    print(url)
+    row = ar.get_top1()
+    print(row)
+
+    ar = ArticleRefresher(RE0_WEB_REPO, RE0_WEB_SITEMAP, PROXY_TROJAN)
+    ar.reflash()
+    row = ar.get_top1()
+    print(row)
 
 
 
 class ArticleRefresher :
 
-    def __init__(self, sitemap_url, save_path, save_cache, charset=CHARSET, timeout=60) :
+    def __init__(self, repo_name, sitemap_url, proxy='', timeout=60, charset=CHARSET) :
+        self.repo_name = repo_name
         self.sitemap_url = sitemap_url
-        self.save_path = save_path
-        self.save_cache = save_cache
+        self.save_path = SAVE_PATH % self.repo_name
+        self.save_cache = []
         self.charset = charset
         self.timeout = timeout
+        self.proxies = { "http": proxy, "https": proxy } if proxy else {}
 
 
     def reflash(self) :
@@ -48,18 +54,44 @@ class ArticleRefresher :
             self.sitemap_url, 
             headers = self._headers(), 
             timeout = self.timeout,
-            proxies = {}
+            proxies = self.proxies
         )
         if rsp.status_code == 200 :
-            urls = re.findall('<loc>(.+\.html)</loc>', rsp.text)
+            urls = re.findall('<loc>(.+?\.html)</loc>', rsp.text)
             for url in urls :
                 if url not in self.save_cache :
                     self.save_cache.insert(0, url)
         self._save()
 
 
-    def take_newly(self) :
+    def get_top1(self) :
+        now = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
+        with open(TPL_PATH, 'r') as file :
+            tpl = file.read()
+            top1 = tpl % {
+                'repo': self.repo_name, 
+                'article': self._get_top1_title(), 
+                'time': now, 
+                'new_flag': NEW_FLAG
+            }
+        return top1
+
+
+    def _get_top1_url(self) :
         return self.save_cache[0] if len(self.save_cache) > 0 else ''
+
+
+    def _get_top1_title(self) :
+        rsp = requests.get(
+            self._get_top1_url(), 
+            headers = self._headers(), 
+            timeout = self.timeout,
+            proxies = self.proxies
+        )
+        if rsp.status_code == 200 :
+            rst = re.findall('<h1 id=".+?">(.+?)</h1>', rsp.text)
+            title = rst[0] if len(rst) > 0 else ''
+        return title
 
 
     def _headers(self):

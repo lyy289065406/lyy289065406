@@ -8,3 +8,4 @@ import os
 PRJ_DIR = os.path.dirname(os.path.abspath(__file__)).replace(r'/src/cfg', '').replace(r'\src\cfg', '')
 
 CHARSET = 'utf-8'
+NEW_FLAG = '![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif)'

@@ -7,7 +7,6 @@
 from src.cfg.env import *
 
 TPL_PATH = '%s/tpl/activity.tpl' % PRJ_DIR
-NEW_FLAG = '![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif)'
 GITHUB_REPO_OWNER = 'lyy289065406'
 TOP = 3
 
