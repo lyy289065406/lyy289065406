@@ -13,12 +13,15 @@ from src.builder import article
 
 
 
+# '<!-- START_SECTION:articles -->'
+# '<!-- END_SECTION:articles -->'
+
 
 def main(help, github_token):
-    repos = _git.query_repos(github_token)
-    print(weektime.build(repos))
-    print(activity.build(repos))
-    print(article.build(repos))
+    # repos = _git.query_repos(github_token)
+    # print(weektime.build(repos))
+    # print(activity.build(repos))
+    print(article.build('repos'))
 
 
 
