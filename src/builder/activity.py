@@ -22,6 +22,7 @@ def build(repos) :
 
         row = tpl % {
             'repo': repo.name, 
+            'repo_url': repo.url, 
             'count': repo.commit_cnt, 
             'time': repo.pushtime, 
             'new_flag': NEW_FLAG if cnt == 0 else ''

@@ -64,24 +64,26 @@ class ArticleRefresher :
         self._save()
 
 
-    def get_top1(self) :
+    def get_topN(self, top=1) :
         now = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
         with open(TPL_PATH, 'r') as file :
             tpl = file.read()
             top1 = tpl % {
                 'repo': self.repo_name, 
+                'repo_url': '', 
                 'article': self._get_top1_title(), 
+                'article_url': '', 
                 'time': now, 
                 'new_flag': NEW_FLAG
             }
         return top1
 
 
-    def _get_top1_url(self) :
+    def _get_top_urls(self) :
         return self.save_cache[0] if len(self.save_cache) > 0 else ''
 
 
-    def _get_top1_title(self) :
+    def _get_top_titles(self) :
         rsp = requests.get(
             self._get_top1_url(), 
             headers = self._headers(), 
@@ -116,4 +118,12 @@ class ArticleRefresher :
         with open(self.save_path, 'w+', encoding=self.charset) as file :
             file.write('\n'.join(self.save_cache))
 
+
+
+
+class Article :
+
+    def __init__(self, title, url) :
+        self.title = title
+        self.url = url
 
