@@ -77,5 +77,3 @@ My Lovely Cat      7 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒�
 <!-- more emoji : http://emojihomepage.com/ -->
 <!-- -------------------------------------- -->
 
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTwsvEgw-CBpYVe-mDaU6xhigDlz909z3fb13cAnGl31l0HkAcsgbpDdy9WCgKVL8eAJ8_lkC6-5nG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
