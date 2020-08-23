@@ -27,7 +27,7 @@ def query_repos(github_token, iter=100):
                 _repo["name"], 
                 _repo["url"], 
                 _repo["description"], 
-                _repo["pushedAt"], 
+                _utc_to_local(_repo["pushedAt"]), 
                 _repo["object"]["history"]["totalCount"]
             )
             topics = _repo["repositoryTopics"]["nodes"]
@@ -88,7 +88,7 @@ def query_filetime(github_token, repo, filepath):
     )
     fileinfo = data["repository"]["object"]["blame"]["ranges"]
     filetime = fileinfo[0]["commit"]["committedDate"]
-    return filetime
+    return _utc_to_local(filetime)
 
 
 def _to_graphql_filetime(owner, repo, filepath) :
@@ -109,3 +109,9 @@ query {
   }
 }
 """ % (owner, repo, filepath)
+
+
+
+def _utc_to_local(utc) :
+    return utc.replace('T', ' ').replace('Z', '')
+
