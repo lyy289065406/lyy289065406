@@ -5,7 +5,6 @@
 # -----------------------------------------------
 
 import sys
-import json
 import re
 from src.cfg.env import *
 from src.utils import _git

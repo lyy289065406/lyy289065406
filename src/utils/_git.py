@@ -6,8 +6,7 @@
 
 from src.cfg.env import *
 from src.bean.repo import *
-from src.utils.graphql_client import *
-
+from src.utils.graphql_client import _GraphqlClient
 
 
 def query_repos(github_token, proxy='', iter=100):
