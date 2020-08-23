@@ -4,7 +4,6 @@
 # @Time   : 2020/8/11 22:17
 # -----------------------------------------------
 
-import os
 import requests
 import re
 import time
@@ -39,6 +38,7 @@ def build(github_token, proxy='') :
 |:------|:------|:------|
 %s
 """ % '\n'.join(rows)
+
 
 
 class ArticleRefresher :

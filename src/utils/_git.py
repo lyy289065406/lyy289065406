@@ -6,19 +6,19 @@
 
 from src.cfg.env import *
 from src.bean.repo import *
-from python_graphql_client import GraphqlClient
+from src.utils.graphql_client import _GraphqlClient
 
 
-
-def query_repos(github_token, iter=100):
+def query_repos(github_token, proxy='', iter=100):
     repos = []
-    client = GraphqlClient(endpoint=GITHUB_GRAPHQL)
+    client = _GraphqlClient(endpoint=GITHUB_GRAPHQL)
     has_next_page = True
     next_cursor = None
     while has_next_page:
-        data = client.execute(
+        data = client.exec(
             query=_to_graphql_repoinfo(next_cursor, iter),
             headers={ "Authorization": "Bearer {}".format(github_token) },
+            proxy=proxy
         )
         
         _repos = data["data"]["viewer"]["repositories"]["nodes"]
@@ -39,6 +39,7 @@ def query_repos(github_token, iter=100):
         has_next_page = pageInfo["hasNextPage"]
         next_cursor = pageInfo["endCursor"]
     return repos
+
 
 
 def _to_graphql_repoinfo(next_cursor, iter):
@@ -80,15 +81,17 @@ query {
 
 
 
-def query_filetime(github_token, repo, filepath):
-    client = GraphqlClient(endpoint=GITHUB_GRAPHQL)
-    data = client.execute(
+def query_filetime(github_token, repo, filepath, proxy=''):
+    client = _GraphqlClient(endpoint=GITHUB_GRAPHQL)
+    data = client.exec(
         query=_to_graphql_filetime(GITHUB_OWNER, repo, filepath),
         headers={ "Authorization": "Bearer {}".format(github_token) },
+        proxy=proxy
     )
-    fileinfo = data["repository"]["object"]["blame"]["ranges"]
+    fileinfo = data["data"]["repository"]["object"]["blame"]["ranges"]
     filetime = fileinfo[0]["commit"]["committedDate"]
     return _utc_to_local(filetime)
+
 
 
 def _to_graphql_filetime(owner, repo, filepath) :

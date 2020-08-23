@@ -32,7 +32,6 @@ def build(repos) :
     percent_pl = cnt_playing / cnt_total
     percent_ln = cnt_learning / cnt_total
 
-    
     hour_wr = to_hour(percent_wr)
     hour_pr = to_hour(percent_pr)
     hour_pl = to_hour(percent_pl)
