@@ -7,6 +7,7 @@
 import requests
 from python_graphql_client import GraphqlClient
 
+# 重载 GraphqlClient 类，增加代理支持
 class _GraphqlClient(GraphqlClient) :
 
     def exec(

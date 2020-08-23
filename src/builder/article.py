@@ -40,6 +40,7 @@ def build(github_token, proxy='') :
 """ % '\n'.join(rows)
 
 
+
 class ArticleRefresher :
 
     def __init__(self, github_token, repo_name, sitemap_url, proxy='', timeout=60, charset=CHARSET) :

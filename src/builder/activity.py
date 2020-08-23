@@ -7,9 +7,8 @@
 from src.cfg.env import *
 
 TPL_PATH = '%s/tpl/activity.tpl' % PRJ_DIR
-TOP = 3
 
-def build(repos) :
+def build(repos, top=3) :
     with open(TPL_PATH, 'r') as file :
         tpl = file.read()
 
@@ -29,7 +28,7 @@ def build(repos) :
         rows.append(row)
 
         cnt += 1
-        if cnt >= TOP :
+        if cnt >= top :
             break
 
     return """

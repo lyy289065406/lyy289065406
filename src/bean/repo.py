@@ -4,6 +4,7 @@
 # @Time   : 2020/8/11 22:17
 # -----------------------------------------------
 
+# 在 Github 为项目仓库打的标签，主要用于统计不同领域的工作时间分配
 TOPIC_WRITING = 'writing'
 TOPIC_PROGRAMMING = 'programming'
 TOPIC_PLAYING = 'playing'
