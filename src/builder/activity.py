@@ -7,7 +7,6 @@
 from src.cfg.env import *
 
 TPL_PATH = '%s/tpl/activity.tpl' % PRJ_DIR
-GITHUB_REPO_OWNER = 'lyy289065406'
 TOP = 3
 
 def build(repos) :
@@ -17,7 +16,7 @@ def build(repos) :
     rows = []
     cnt = 0
     for repo in repos :
-        if repo.name == GITHUB_REPO_OWNER :
+        if repo.name == GITHUB_OWNER :
             continue
 
         row = tpl % {

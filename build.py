@@ -6,22 +6,30 @@
 
 import sys
 import json
+import re
+from src.cfg.env import *
 from src.utils import _git
 from src.builder import weektime
 from src.builder import activity
 from src.builder import article
 
 
-
-# '<!-- START_SECTION:articles -->'
-# '<!-- END_SECTION:articles -->'
+README_PATH = '%s/README.md' % PRJ_DIR
 
 
 def main(help, github_token):
-    # repos = _git.query_repos(github_token)
-    # print(weektime.build(repos))
-    # print(activity.build(repos))
-    print(article.build('repos'))
+    repos = _git.query_repos(github_token)
+    table_wt = weektime.build(repos)
+    table_ac = activity.build(repos)
+    table_ar = article.build(github_token)
+
+
+
+def reflash(data, tag) :
+    TAG_BGN = '<!-- BGN_SECTION:%s -->' % tag
+    TAG_END = '<!-- END_SECTION:%s -->' % tag
+    RGX = '%s([\s|S]+?)%s' % (TAG_BGN, TAG_END)
+    
 
 
 
@@ -49,4 +57,3 @@ def get_sys_args(sys_args) :
 
 if __name__ == '__main__':
     main(*get_sys_args(sys.argv))
-

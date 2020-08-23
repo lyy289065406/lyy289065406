@@ -9,6 +9,7 @@ import requests
 import re
 import time
 from src.cfg.env import *
+from src.utils import _git
 
 
 PROXY_TROJAN = 'http://127.0.0.1:8888'
@@ -23,23 +24,32 @@ RE0_WEB_SITEMAP = 'https://lyy289065406.github.io/re0-web/gitbook/book/sitemap.x
 
 
 
-def build(repos) :
-    ar = ArticleRefresher(EXP_BLOG_REPO, EXP_BLOG_SITEMAP, PROXY_TROJAN)
-    ar.reflash()
-    row = ar.get_top1()
-    print(row)
+def build(github_token) :
+    rows = []
 
-    ar = ArticleRefresher(RE0_WEB_REPO, RE0_WEB_SITEMAP, PROXY_TROJAN)
+    ar = ArticleRefresher(github_token, EXP_BLOG_REPO, EXP_BLOG_SITEMAP, PROXY_TROJAN)
     ar.reflash()
-    row = ar.get_top1()
-    print(row)
+    rows.extend(ar.get_tops(2))
 
+    ar = ArticleRefresher(github_token, RE0_WEB_REPO, RE0_WEB_SITEMAP, PROXY_TROJAN)
+    ar.reflash()
+    rows.extend(ar.get_tops(1))
+
+    return """
+<!-- START_SECTION:articles -->
+| repo | article | push time |
+|:------|:------|:------|
+%s
+<!-- END_SECTION:articles -->
+""" % '\n'.join(rows)
 
 
 class ArticleRefresher :
 
-    def __init__(self, repo_name, sitemap_url, proxy='', timeout=60, charset=CHARSET) :
+    def __init__(self, github_token, repo_name, sitemap_url, proxy='', timeout=60, charset=CHARSET) :
+        self.gtk = github_token
         self.repo_name = repo_name
+        self.github_url = GITHUB_URL + repo_name
         self.sitemap_url = sitemap_url
         self.save_path = SAVE_PATH % self.repo_name
         self.save_cache = []
@@ -64,36 +74,60 @@ class ArticleRefresher :
         self._save()
 
 
-    def get_topN(self, top=1) :
-        now = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
+    def get_tops(self, top=1) :
+        tops = []
         with open(TPL_PATH, 'r') as file :
             tpl = file.read()
-            top1 = tpl % {
-                'repo': self.repo_name, 
-                'repo_url': '', 
-                'article': self._get_top1_title(), 
-                'article_url': '', 
-                'time': now, 
-                'new_flag': NEW_FLAG
-            }
-        return top1
+
+            cnt = 0
+            articles = self._get_top_articles(top)
+            for article in articles :
+                tops.append(tpl % {
+                    'repo': self.repo_name, 
+                    'repo_url': self.github_url, 
+                    'article': article.title, 
+                    'article_url': article.url, 
+                    'time': article.time, 
+                    'new_flag': NEW_FLAG if cnt == 0 else ''
+                })
+                cnt += 1
+        return tops
 
 
-    def _get_top_urls(self) :
-        return self.save_cache[0] if len(self.save_cache) > 0 else ''
+    def _get_top_articles(self, top=1) :
+        articles = []
+        urls = self._get_top_urls(top)
+        for url in urls :
+            rsp = requests.get(
+                url, 
+                headers = self._headers(), 
+                timeout = self.timeout,
+                proxies = self.proxies
+            )
+            if rsp.status_code == 200 :
+                rst = re.findall('<h1 id=".+?">(.+?)</h1>', rsp.text)
+                title = rst[0] if len(rst) > 0 else ''
+                time = self._query_filetime(url)
+                article = Article(title, url, time)
+                articles.append(article)
+        return articles
 
 
-    def _get_top_titles(self) :
-        rsp = requests.get(
-            self._get_top1_url(), 
-            headers = self._headers(), 
-            timeout = self.timeout,
-            proxies = self.proxies
-        )
-        if rsp.status_code == 200 :
-            rst = re.findall('<h1 id=".+?">(.+?)</h1>', rsp.text)
-            title = rst[0] if len(rst) > 0 else ''
-        return title
+    def _get_top_urls(self, top=1) :
+        return self.save_cache[:top]
+
+
+    def _query_filetime(self, file_url) :
+        try :
+            filepath = self._to_filepath(file_url)
+            filetime = _git.query_filetime(self.gtk, self.repo_name, filepath)
+        except :
+            filetime = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
+        return filetime
+
+    
+    def _to_filepath(self, file_url) :
+        return re.sub(r'.*?/markdown', 'gitbook/markdown', file_url.replace('.html', '.md'))
 
 
     def _headers(self):
@@ -123,7 +157,8 @@ class ArticleRefresher :
 
 class Article :
 
-    def __init__(self, title, url) :
+    def __init__(self, title, url, time) :
         self.title = title
         self.url = url
+        self.time = time
 
