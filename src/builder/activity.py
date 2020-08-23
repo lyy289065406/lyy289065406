@@ -7,6 +7,10 @@
 from src.cfg.env import *
 
 TPL_PATH = '%s/tpl/activity.tpl' % PRJ_DIR
+SKIP_REPOS = [
+    GITHUB_OWNER, 
+    'crop-circles'
+]
 
 def build(repos, top=3) :
     with open(TPL_PATH, 'r') as file :
@@ -15,7 +19,7 @@ def build(repos, top=3) :
     rows = []
     cnt = 0
     for repo in repos :
-        if repo.name == GITHUB_OWNER :
+        if repo.name in SKIP_REPOS :
             continue
 
         row = tpl % {
