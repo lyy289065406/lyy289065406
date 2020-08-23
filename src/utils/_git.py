@@ -21,8 +21,7 @@ def query_repos(github_token, proxy='', iter=100):
             headers={ "Authorization": "Bearer {}".format(github_token) },
             proxy=proxy
         )
-        log.debug(data)
-        
+        # log.debug(data)
         _repos = data["data"]["viewer"]["repositories"]["nodes"]
         for _repo in _repos :
             repo = Repo(
@@ -90,8 +89,7 @@ def query_filetime(github_token, repo, filepath, proxy=''):
         headers={ "Authorization": "Bearer {}".format(github_token) },
         proxy=proxy
     )
-    log.debug(data)
-    
+    # log.debug(data)
     fileinfo = data["data"]["repository"]["object"]["blame"]["ranges"]
     filetime = fileinfo[0]["commit"]["committedDate"]
     return _utc_to_local(filetime)

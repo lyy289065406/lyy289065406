@@ -70,7 +70,7 @@ def to_hour(percent) :
 
 
 def to_progress(percent) :
-    BLACK = 'x'
-    WHITE = 'o'
+    BLACK = 'o'
+    WHITE = 'x'
     cnt = math.ceil(percent * 10) * 2
     return '%s%s' % (BLACK * cnt, WHITE * (20 - cnt))
