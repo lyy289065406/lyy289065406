@@ -62,13 +62,13 @@ My Lovely Cat      7 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒�
 
 
 ### 📝  Recent articles
-<!-- BGN_SECTION:articles -->
+<!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
 | [re0-web](https://github.com/lyy289065406/re0-web) | 《[READY STEADY GO](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/79.html)》 | 2020-08-07 03:46:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [exp-blog](https://github.com/lyy289065406/exp-blog) | 《[各种语言的一句话反弹shell命令](http://exp-blog.com/gitbook/book/markdown/technical/safe/pentest/%E5%90%84%E7%A7%8D%E8%AF%AD%E8%A8%80%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%8F%8D%E5%BC%B9shell.html)》 | 2020-04-12 14:44:03 |
 | [exp-blog](https://github.com/lyy289065406/exp-blog) | 《[N 皇后问题 – 构造法原理与证明: 时间复杂度 O(1)](http://exp-blog.com/gitbook/book/markdown/technical/algorithm/N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.html)》 | 2019-12-22 00:08:36 |
-<!-- END_SECTION:articles -->
+<!-- END_SECTION:article -->
 
 
 <a align="right" href="https://github.com/lyy289065406/lyy289065406/How_this_works.md">How this works</a>
