@@ -1,6 +1,6 @@
 ## 👋  Hi there, I'm [EXP](https://exp-blog.com)
 
-<!--START_SECTION:github-readme-stats-->
+<!--BGN_SECTION:github-readme-stats-->
 <a href="https://exp-blog.com" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML,CSS,TSQL&theme=great-gatsby" alt="EXP's Top Langs" />
 </a>
@@ -27,52 +27,53 @@
 <!--END_SECTION:github-readme-stats-->
 
 
-<!--START_SECTION:introduction-->
-### 👨‍💻  I'm a developer from China, and this is the place where I opensource stuff.
 
+### 👨‍💻  I'm a developer from China, and this is the place where I opensource stuff.
+<!--BGN_SECTION:introduction-->
 - 🐾 I’m currently working on [Github Profile](https://github.com/lyy289065406/lyy289065406).
 - ✨ I’m currently rebuilding my [Blog Site](https://exp-blog.com).
 - 🎓 I’m currently learning [K8S](https://github.com/kubernetes/kubernetes), [GraphQL](https://developer.github.com/v4/) and [Github Actions](https://docs.github.com/en/actions).
 - 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues).
-<!--START_SECTION:introduction-->
+<!--BGN_SECTION:introduction-->
 
 
-<!--START_SECTION:weektime-->
+
 ### ⏰  This week I spent my free time on
-
+<!-- BGN_SECTION:weektime -->
 ```text
-Learning          16 hrs    ▣▣▣▣▣▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒    53.33 %
-Writing or Trans   2 hrs    ▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒    06.67 %
-Programming        5 hrs    ▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒    16.67 %
-My Lovely Cat      7 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒☒    23.33 %
+Writing        02 hrs    ▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒    4.97%
+Programming    26 hrs    ▣▣▣▣▣▣▣▣▣▣▣▣▣▣☒☒☒☒☒☒    63.44%
+Playing        03 hrs    ▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒    5.24%
+Learning       11 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒☒    26.35%
 ```
-<!--END_SECTION:weektime-->
+<!-- END_SECTION:weektime -->
 
 
-<!--START_SECTION:activity-->
+
 ### 🔥  Recent activity
-
+<!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
-|:------|:------:|:------|
-| [crop-circles](https://github.com/lyy289065406/crop-circles) | 4411 | 2020-08-13 00:08:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 578 | 2020-08-12 14:44:03 |
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 230 | 2020-08-12 00:46:15 |
-<!--END_SECTION:activity-->
+|:------|:------|:------|
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 639 | 2020-08-23 03:21:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [crop-circles](https://github.com/lyy289065406/crop-circles) | 4576 | 2020-08-23 00:08:33  |
+| [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | 251 | 2020-08-22 04:22:57  |
+<!-- END_SECTION:activity -->
 
 
-<!--START_SECTION:articles-->
+
 ### 📝  Recent articles
-
+<!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [re0-web](https://github.com/lyy289065406/re0-web) | 《[READY STEADY GO](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/79.html)》 | 2020-08-07 03:46:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | 《[各种语言的一句话反弹shell命令](http://exp-blog.com/gitbook/book/markdown/technical/safe/pentest/%E5%90%84%E7%A7%8D%E8%AF%AD%E8%A8%80%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%8F%8D%E5%BC%B9shell.html)》 | 2020-04-12 14:44:03 |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | 《[N 皇后问题 – 构造法原理与证明: 时间复杂度 O(1)](http://exp-blog.com/gitbook/book/markdown/technical/algorithm/N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.html)》 | 2019-12-22 00:08:36 |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | [各种语言的一句话反弹shell命令](https://exp-blog.com/gitbook/markdown/technical/safe/pentest/各种语言一句话反弹shell.html) | 2020-08-23 11:52:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | [N 皇后问题 – 构造法原理与证明: 时间复杂度O(1)](https://exp-blog.com/gitbook/markdown/technical/algorithm/N皇后问题.html) | 2020-08-23 11:52:37  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [『READY STEADY GO』](https://lyy289065406.github.io/re0-web/gitbook/markdown/ch/chapter060/79.html) | 2020-08-23 11:52:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+<!-- END_SECTION:article -->
 
-<!--END_SECTION:articles-->
 
-
+<a align="right" href="https://github.com/lyy289065406/lyy289065406/How_this_works.md">How this works</a>
 
 <!-- -------------------------------------- -->
 <!-- more emoji : http://emojihomepage.com/ -->
 <!-- -------------------------------------- -->
+
