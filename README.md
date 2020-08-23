@@ -30,9 +30,9 @@
 
 ### 👨‍💻  I'm a developer from China, and this is the place where I opensource stuff.
 <!--BGN_SECTION:introduction-->
-- 🐾 I’m currently working on [Github Profile](https://github.com/lyy289065406/lyy289065406).
+- 🐾 I’m currently working on ShenZhen.
 - ✨ I’m currently rebuilding my [Blog Site](https://exp-blog.com).
-- 🎓 I’m currently learning [K8S](https://github.com/kubernetes/kubernetes), [GraphQL](https://developer.github.com/v4/) and [Github Actions](https://docs.github.com/en/actions).
+- 🎓 I’m currently learning [K8S](https://github.com/kubernetes/kubernetes), [GraphQL](https://developer.github.com/v4/) and ZT.
 - 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues).
 <!--BGN_SECTION:introduction-->
 
