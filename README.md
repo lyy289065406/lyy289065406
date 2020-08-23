@@ -71,7 +71,7 @@ Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.71%
 <!-- END_SECTION:article -->
 
 
-<a align="right" href="https://github.com/lyy289065406/lyy289065406/How_this_works.md">How this works</a>
+<a align="right" href="https://github.com/lyy289065406/lyy289065406/blob/master/How_this_works.md">How this works</a>
 
 <!-- -------------------------------------- -->
 <!-- more emoji : http://emojihomepage.com/ -->
