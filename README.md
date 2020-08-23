@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Writing        02 hrs    ▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒    4.95%
-Programming    26 hrs    ▣▣▣▣▣▣▣▣▣▣▣▣▣▣☒☒☒☒☒☒    63.23%
-Playing        03 hrs    ▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒    5.23%
-Learning       11 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒☒☒☒    26.59%
+Writing        00 hrs    ☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒    0.00%
+Programming    00 hrs    ☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒    0.00%
+Playing        00 hrs    ☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒☒    0.00%
+Learning       40 hrs    ▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣    100.00%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,7 @@ Learning       11 hrs    ▣▣▣▣▣▣☒☒☒☒☒☒☒☒☒☒☒☒�
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 639 | 2020-08-23 03:21:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [crop-circles](https://github.com/lyy289065406/crop-circles) | 4576 | 2020-08-23 00:08:33  |
-| [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | 251 | 2020-08-22 04:22:57  |
+
 <!-- END_SECTION:activity -->
 
 
