@@ -36,11 +36,9 @@ def build(github_token) :
     rows.extend(ar.get_tops(1))
 
     return """
-<!-- START_SECTION:articles -->
 | repo | article | push time |
 |:------|:------|:------|
 %s
-<!-- END_SECTION:articles -->
 """ % '\n'.join(rows)
 
 

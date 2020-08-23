@@ -23,6 +23,7 @@ def main(help, github_token):
     data_ac = activity.build(repos)
     data_ar = article.build(github_token)
 
+
     with open(README_PATH, 'r', encoding=CHARSET) as file :
         readme = file.read()
         readme = reflash(readme, data_wt, 'weektime')
@@ -41,6 +42,7 @@ def reflash(readme, data, tag) :
     RGX = '%s([\s|S]+?)%s' % (TAG_BGN, TAG_END)
     ptn = re.compile(RGX)
     mth = re.search(RGX, readme)
+    print(mth)
     if mth :
         readme = readme.replace(mth.group(1), data)
     return readme

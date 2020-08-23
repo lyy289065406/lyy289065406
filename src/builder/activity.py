@@ -32,5 +32,9 @@ def build(repos) :
         if cnt >= TOP :
             break
 
-    return '\n'.join(rows)
+    return """
+| repo | commit count | push time |
+|:------|:------|:------|
+%s
+""" % '\n'.join(rows)
 
