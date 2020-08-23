@@ -41,6 +41,7 @@ def query_repos(github_token, proxy='', iter=100):
     return repos
 
 
+
 def _to_graphql_repoinfo(next_cursor, iter):
     return """
 query {
@@ -87,9 +88,10 @@ def query_filetime(github_token, repo, filepath, proxy=''):
         headers={ "Authorization": "Bearer {}".format(github_token) },
         proxy=proxy
     )
-    fileinfo = data["repository"]["object"]["blame"]["ranges"]
+    fileinfo = data["data"]["repository"]["object"]["blame"]["ranges"]
     filetime = fileinfo[0]["commit"]["committedDate"]
     return _utc_to_local(filetime)
+
 
 
 def _to_graphql_filetime(owner, repo, filepath) :

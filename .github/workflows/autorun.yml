@@ -3,11 +3,11 @@ on:
   push:
     branches:
       - master
-  # workflow_dispatch:
-  #   branches:
-  #     - master
-  # schedule:
-  #   - cron:  '0 1 * * *'
+  workflow_dispatch:
+    branches:
+      - master
+  schedule:
+    - cron:  '0 1 * * *'
 
 
 jobs:
@@ -34,9 +34,9 @@ jobs:
       run: |
         python -m pip install -r requirements.txt
 
-    - name: refresh
+    - name: refresh README.md
       run: |-
-        python refresh_readme.py -gtk ${{ secrets.GITHUB_TOKEN }}
+        python build.py -gtk ${{ secrets.GITHUB_TOKEN }}
 
     # 如果不希望污染 commit 记录，user.email 和 user.name 随便填即可
     # Github Runner 是有权限提交到仓库的，只要 user 不是 owner ，当次 commit 不会被记录
