@@ -12,7 +12,6 @@ from src.cfg.env import *
 from src.utils import _git
 
 
-PROXY_TROJAN = 'http://127.0.0.1:8888'
 TPL_PATH = '%s/tpl/article.tpl' % PRJ_DIR
 SAVE_PATH = PRJ_DIR + '/cache/article_%s.dat'
 
@@ -24,14 +23,14 @@ RE0_WEB_SITEMAP = 'https://lyy289065406.github.io/re0-web/gitbook/book/sitemap.x
 
 
 
-def build(github_token) :
+def build(github_token, proxy='') :
     rows = []
 
-    ar = ArticleRefresher(github_token, EXP_BLOG_REPO, EXP_BLOG_SITEMAP, PROXY_TROJAN)
+    ar = ArticleRefresher(github_token, EXP_BLOG_REPO, EXP_BLOG_SITEMAP, proxy)
     ar.reflash()
     rows.extend(ar.get_tops(2))
 
-    ar = ArticleRefresher(github_token, RE0_WEB_REPO, RE0_WEB_SITEMAP, PROXY_TROJAN)
+    ar = ArticleRefresher(github_token, RE0_WEB_REPO, RE0_WEB_SITEMAP, proxy)
     ar.reflash()
     rows.extend(ar.get_tops(1))
 

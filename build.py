@@ -17,11 +17,11 @@ from src.builder import article
 README_PATH = '%s/README.md' % PRJ_DIR
 
 
-def main(help, github_token):
+def main(help, github_token, proxy):
     repos = _git.query_repos(github_token)
     data_wt = weektime.build(repos)
     data_ac = activity.build(repos)
-    data_ar = article.build(github_token)
+    data_ar = article.build(github_token, proxy)
 
     with open(README_PATH, 'r', encoding=CHARSET) as file :
         readme = file.read()
@@ -51,6 +51,7 @@ def reflash(readme, data, tag) :
 def get_sys_args(sys_args) :
     help = False
     github_token = ''
+    proxy = ''
 
     idx = 1
     size = len(sys_args)
@@ -63,10 +64,14 @@ def get_sys_args(sys_args) :
                 idx += 1
                 github_token = sys_args[idx]
 
+            elif sys_args[idx] == '-proxy' :
+                idx += 1
+                proxy = sys_args[idx]
+
         except :
             pass
         idx += 1
-    return help, github_token
+    return help, github_token, proxy
 
 
 
