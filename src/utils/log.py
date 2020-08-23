@@ -48,7 +48,7 @@ def init(runlog = RUN_LOG, errlog = ERR_LOG):
     logger.addHandler(exfh)
 
     # 禁用第三方日志
-    # logging.getLogger("requests").setLevel(logging.FATAL)
+    logging.getLogger("requests").setLevel(logging.FATAL)
 
 
 

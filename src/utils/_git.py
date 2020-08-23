@@ -4,6 +4,7 @@
 # @Time   : 2020/4/28 21:56
 # -----------------------------------------------
 
+from src.utils import log
 from src.cfg.env import *
 from src.bean.repo import *
 from src.utils.graphql_client import _GraphqlClient
@@ -20,6 +21,7 @@ def query_repos(github_token, proxy='', iter=100):
             headers={ "Authorization": "Bearer {}".format(github_token) },
             proxy=proxy
         )
+        log.debug(data)
         
         _repos = data["data"]["viewer"]["repositories"]["nodes"]
         for _repo in _repos :
@@ -88,6 +90,8 @@ def query_filetime(github_token, repo, filepath, proxy=''):
         headers={ "Authorization": "Bearer {}".format(github_token) },
         proxy=proxy
     )
+    log.debug(data)
+    
     fileinfo = data["data"]["repository"]["object"]["blame"]["ranges"]
     filetime = fileinfo[0]["commit"]["committedDate"]
     return _utc_to_local(filetime)
