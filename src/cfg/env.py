@@ -10,5 +10,5 @@ CHARSET = 'utf-8'
 
 GITHUB_OWNER = 'lyy289065406'
 GITHUB_URL = 'https://github.com/lyy289065406/'
-GITHUB_GRAPHQL = 'https://api.github.com/graphql/'
+GITHUB_GRAPHQL = 'https://api.github.com/graphql'
 NEW_FLAG = '![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif)'

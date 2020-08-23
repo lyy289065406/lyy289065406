@@ -23,13 +23,13 @@ def main(help, github_token):
     data_ac = activity.build(repos)
     data_ar = article.build(github_token)
 
-    with open(README_PATH, 'r') as file :
+    with open(README_PATH, 'r', encoding=CHARSET) as file :
         readme = file.read()
         readme = reflash(readme, data_wt, 'weektime')
         readme = reflash(readme, data_ac, 'activity')
         readme = reflash(readme, data_ar, 'article')
 
-    with open(README_PATH, 'w') as file :
+    with open(README_PATH, 'w', encoding=CHARSET) as file :
         file.write(readme)
 
 
