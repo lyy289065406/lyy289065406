@@ -70,7 +70,7 @@ query {
   }
 }
 """.replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+        "AFTER", '"{}"'.format(next_cursor) if next_cursor else "null"
     )
 
 
