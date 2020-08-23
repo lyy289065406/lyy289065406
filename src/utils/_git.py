@@ -23,19 +23,19 @@ def query_repos(github_token, proxy='', iter=100):
         )
         log.debug(data)
         
-        _repos = data["data"]["viewer"]["repositories"]["nodes"]
-        for _repo in _repos :
-            repo = Repo(
-                _repo["name"], 
-                _repo["url"], 
-                _repo["description"], 
-                _utc_to_local(_repo["pushedAt"]), 
-                _repo["object"]["history"]["totalCount"]
-            )
-            topics = _repo["repositoryTopics"]["nodes"]
-            for topic in topics :
-                repo.add_topic(topic["topic"]["name"])
-            repos.append(repo)
+        # _repos = data["data"]["viewer"]["repositories"]["nodes"]
+        # for _repo in _repos :
+        #     repo = Repo(
+        #         _repo["name"], 
+        #         _repo["url"], 
+        #         _repo["description"], 
+        #         _utc_to_local(_repo["pushedAt"]), 
+        #         _repo["object"]["history"]["totalCount"]
+        #     )
+        #     topics = _repo["repositoryTopics"]["nodes"]
+        #     for topic in topics :
+        #         repo.add_topic(topic["topic"]["name"])
+        #     repos.append(repo)
         
         pageInfo = data["data"]["viewer"]["repositories"]["pageInfo"]
         has_next_page = pageInfo["hasNextPage"]
@@ -48,7 +48,7 @@ def _to_graphql_repoinfo(next_cursor, iter):
     return """
 query {
   viewer {
-    repositories(first: 100, orderBy: {field: PUSHED_AT, direction: DESC}, isFork: false, after: NEXT) {
+    repositories(first: 100, privacy: PUBLIC, after:AFTER) {
       pageInfo {
         hasNextPage
         endCursor
@@ -57,19 +57,12 @@ query {
         name
         description
         url
-        pushedAt
-        repositoryTopics(first: 5) {
+        releases(last:1) {
+          totalCount
           nodes {
-            topic {
-              name
-            }
-          }
-        }
-        object(expression: "master") {
-          ... on Commit {
-            history(first: 1) {
-              totalCount
-            }
+            name
+            publishedAt
+            url
           }
         }
       }
@@ -77,9 +70,8 @@ query {
   }
 }
 """.replace(
-        "NEXT", '"{}"'.format(next_cursor) if next_cursor else "null"
+        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
     )
-
 
 
 
