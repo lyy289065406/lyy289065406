@@ -19,17 +19,31 @@ README_PATH = '%s/README.md' % PRJ_DIR
 
 def main(help, github_token):
     repos = _git.query_repos(github_token)
-    table_wt = weektime.build(repos)
-    table_ac = activity.build(repos)
-    table_ar = article.build(github_token)
+    data_wt = weektime.build(repos)
+    data_ac = activity.build(repos)
+    data_ar = article.build(github_token)
+
+    with open(README_PATH, 'r') as file :
+        readme = file.read()
+        readme = reflash(readme, data_wt, 'weektime')
+        readme = reflash(readme, data_ac, 'activity')
+        readme = reflash(readme, data_ar, 'article')
+
+    with open(README_PATH, 'w') as file :
+        file.write(readme)
 
 
 
-def reflash(data, tag) :
+
+def reflash(readme, data, tag) :
     TAG_BGN = '<!-- BGN_SECTION:%s -->' % tag
     TAG_END = '<!-- END_SECTION:%s -->' % tag
     RGX = '%s([\s|S]+?)%s' % (TAG_BGN, TAG_END)
-    
+    ptn = re.compile(RGX)
+    mth = re.search(RGX, readme)
+    if mth :
+        readme = readme.replace(mth.group(1), data)
+    return readme
 
 
 
