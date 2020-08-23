@@ -54,10 +54,10 @@ def build(repos) :
             'progress_pr': progress_pr,
             'progress_pl': progress_pl,
             'progress_ln': progress_ln,
-            'percent_wr': '{:.2%}'.format(percent_wr),
-            'percent_pr': '{:.2%}'.format(percent_pr),
-            'percent_pl': '{:.2%}'.format(percent_pl),
-            'percent_ln': '{:.2%}'.format(percent_ln)
+            'percent_wr': '{:06.2%}'.format(percent_wr),
+            'percent_pr': '{:06.2%}'.format(percent_pr),
+            'percent_pl': '{:06.2%}'.format(percent_pl),
+            'percent_ln': '{:06.2%}'.format(percent_ln)
         }
     return content
 
