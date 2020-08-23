@@ -115,14 +115,10 @@ class ArticleRefresher :
 
 
     def _query_filetime(self, file_url) :
-        try :
-            filepath = self._to_filepath(file_url)
-            filetime = _git.query_filetime(self.gtk, self.repo_name, filepath)
-        except :
-            filetime = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
-        return filetime
+        filepath = self._to_filepath(file_url)
+        return _git.query_filetime(self.gtk, self.repo_name, filepath)
 
-    
+
     def _to_filepath(self, file_url) :
         return re.sub(r'.*?/markdown', 'gitbook/markdown', file_url.replace('.html', '.md'))
 

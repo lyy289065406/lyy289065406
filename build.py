@@ -14,6 +14,7 @@ from src.builder import activity
 from src.builder import article
 
 
+sys.stdout.reconfigure(encoding=CHARSET)
 README_PATH = '%s/README.md' % PRJ_DIR
 
 
@@ -26,14 +27,19 @@ def main(help, github_token, proxy):
         with open(README_PATH, 'r', encoding=CHARSET) as file :
             readme = file.read()
 
-        log.info("正在读取所有项目仓库的活动信息 ...")
+        log.info("正在读取所有项目仓库的活动数据 ...")
         repos = _git.query_repos(github_token)
+        
+        if not repos or len(repos) <= 0 :
+            log.warn("获取项目仓库数据失败")
+        else :
+            log.info("获得 [%i] 个项目仓库的数据" % len(repos))
 
-        if repos and len(repos) > 0 :
             log.info("正在构造 [时间分配] 数据 ...")
             try :
                 data_wt = weektime.build(repos)
                 readme = reflash(readme, data_wt, 'weektime')
+                log.info(data_wt)
             except :
                 log.error("构造数据异常")
 
@@ -41,6 +47,7 @@ def main(help, github_token, proxy):
             try :
                 data_ac = activity.build(repos)
                 readme = reflash(readme, data_ac, 'activity')
+                log.info(data_ac)
             except :
                 log.error("构造数据异常")
 
@@ -48,12 +55,14 @@ def main(help, github_token, proxy):
         try :
             data_ar = article.build(github_token, proxy)
             readme = reflash(readme, data_ar, 'article')
+            log.info(data_ar)
         except :
             log.error("构造数据异常")
 
         log.info("正在更新 [README.md] ...")
         with open(README_PATH, 'w', encoding=CHARSET) as file :
             file.write(readme)
+        log.info("已更新 [README.md]")
 
 
 
