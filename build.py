@@ -29,22 +29,20 @@ def main(help, github_token, proxy):
         log.info("正在读取所有项目仓库的活动信息 ...")
         repos = _git.query_repos(github_token)
 
+        if repos and len(repos) > 0 :
+            log.info("正在构造 [时间分配] 数据 ...")
+            try :
+                data_wt = weektime.build(repos)
+                readme = reflash(readme, data_wt, 'weektime')
+            except :
+                log.error("构造数据异常")
 
-        log.info("正在构造 [时间分配] 数据 ...")
-        try :
-            data_wt = weektime.build(repos)
-            readme = reflash(readme, data_wt, 'weektime')
-        except :
-            log.error("构造数据异常")
-
-
-        log.info("正在构造 [最近活跃] 数据 ...")
-        try :
-            data_ac = activity.build(repos)
-            readme = reflash(readme, data_ac, 'activity')
-        except :
-            log.error("构造数据异常")
-
+            log.info("正在构造 [最近活跃] 数据 ...")
+            try :
+                data_ac = activity.build(repos)
+                readme = reflash(readme, data_ac, 'activity')
+            except :
+                log.error("构造数据异常")
 
         log.info("正在构造 [最新文章] 数据 ...")
         try :
@@ -52,7 +50,6 @@ def main(help, github_token, proxy):
             readme = reflash(readme, data_ar, 'article')
         except :
             log.error("构造数据异常")
-
 
         log.info("正在更新 [README.md] ...")
         with open(README_PATH, 'w', encoding=CHARSET) as file :
