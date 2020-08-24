@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.04%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.82%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.94%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.05%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.81%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.93%
 Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.21%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,7 +54,7 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.21%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 640 | 2020-08-23 16:22:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 641 | 2020-08-24 00:55:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | 251 | 2020-08-22 04:22:57  |
 | [bilibili-plugin](https://github.com/lyy289065406/bilibili-plugin) | 144 | 2020-08-22 03:57:55  |
 <!-- END_SECTION:activity -->
