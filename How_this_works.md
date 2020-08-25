@@ -16,7 +16,7 @@
 
 ### 时间分配
 
-每个 repo 通过设置 Topic 标签标记其属于 `Programming`、 `Learning`、 `Writing` 或 `Playing` 中的一种， 通过统计每种 repo 投入的 commit 多寡，换算为时间分配情况。
+每个 repo 通过设置 Topic 标签标记其属于 `Programming`、 `Learning`、 `Writing` 或 `Playing` 中的一种， 通过 [GraphQL](https://developer.github.com/v4/) 接口提取每种 repo 投入的 commit 数量多寡，把统计结果换算为时间分配情况。
 
 
 ### 最近动态
@@ -26,5 +26,5 @@
 
 ### 最近文章
 
-直接读取 [exp-blog.com](https://exp-blog.com) 的 sitemap 提取最近发表的 TOP3 文章列表。
+直接读取 [exp-blog.com](https://exp-blog.com) 的 [sitemap](https://exp-blog.com/gitbook/book/sitemap.xml) 或 [rss](https://exp-blog.com/gitbook/book/rss.xml) 提取最近发表的 TOP3 文章列表。
 
