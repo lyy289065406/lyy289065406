@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.33%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.63%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.88%
-Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.16%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.40%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.61%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.86%
+Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.13%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,8 +54,8 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.16%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 667 | 2020-08-27 18:23:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 2 | 2020-08-27 17:32:45  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 678 | 2020-08-28 21:21:46 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 14 | 2020-08-28 17:08:58  |
 | [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | 251 | 2020-08-22 04:22:57  |
 <!-- END_SECTION:activity -->
 
