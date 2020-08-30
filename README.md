@@ -41,8 +41,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.34%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.66%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.33%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.67%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.88%
 Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.12%
 ```
@@ -65,9 +65,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.12%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | [trojan 科学上网教程](https://exp-blog.com/gitbook/markdown/notes/net/trojan科学上网教程.html) | 2020-08-29 13:41:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | [各种语言的一句话反弹shell命令](https://exp-blog.com/gitbook/markdown/technical/safe/pentest/各种语言一句话反弹shell.html) | 2020-08-17 16:01:28  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [『READY STEADY GO』](https://lyy289065406.github.io/re0-web/gitbook/markdown/ch/chapter060/79.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | [<a name="trojan-&#x79D1;&#x5B66;&#x4E0A;&#x7F51;&#x6559;&#x7A0B;" class="anchor-navigation-ex-anchor" href="#trojan-&#x79D1;&#x5B66;&#x4E0A;&#x7F51;&#x6559;&#x7A0B;"><i class="fa fa-link" aria-hidden="true"></i></a>trojan &#x79D1;&#x5B66;&#x4E0A;&#x7F51;&#x6559;&#x7A0B;](https://exp-blog.com/gitbook/book/markdown/notes/net/trojan科学上网教程.html) | 2020-08-29 13:41:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | [<a name="&#x5404;&#x79CD;&#x8BED;&#x8A00;&#x7684;&#x4E00;&#x53E5;&#x8BDD;&#x53CD;&#x5F39;shell&#x547D;&#x4EE4;" class="anchor-navigation-ex-anchor" href="#&#x5404;&#x79CD;&#x8BED;&#x8A00;&#x7684;&#x4E00;&#x53E5;&#x8BDD;&#x53CD;&#x5F39;shell&#x547D;&#x4EE4;"><i class="fa fa-link" aria-hidden="true"></i></a>&#x5404;&#x79CD;&#x8BED;&#x8A00;&#x7684;&#x4E00;&#x53E5;&#x8BDD;&#x53CD;&#x5F39;shell&#x547D;&#x4EE4;](https://exp-blog.com/gitbook/book/markdown/technical/safe/pentest/各种语言一句话反弹shell.html) | 2020-08-17 16:01:28  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [『ゼロカラツギハグイセカイセイカツ』](https://lyy289065406.github.io/re0-web/gitbook/markdown/jp/chapter099/12.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
