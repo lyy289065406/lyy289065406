@@ -120,7 +120,7 @@ class ArticleRefresher :
 
 
     def _to_filepath(self, file_url) :
-        return re.sub(r'.*?/markdown', 'gitbook/markdown', file_url.replace('.html', '.md'))
+        return re.sub(r'.*?/markdown', 'gitbook/book/markdown', file_url.replace('.html', '.md'))
 
 
     def _headers(self):
