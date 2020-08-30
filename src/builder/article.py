@@ -64,7 +64,7 @@ class ArticleRefresher :
             proxies = self.proxies
         )
         if rsp.status_code == 200 :
-            urls = re.findall('<loc>(.+?\.html)</loc>', rsp.text)
+            urls = re.findall(r'<loc>(.+?\.html)</loc>', rsp.text)
             for url in urls :
                 if url not in self.save_cache :
                     self.save_cache.insert(0, url)
@@ -102,8 +102,9 @@ class ArticleRefresher :
                 proxies = self.proxies
             )
             if rsp.status_code == 200 :
-                rst = re.findall('<h1 id=".+?">(.+?)</h1>', rsp.text)
-                title = rst[0] if len(rst) > 0 else ''
+                rst = re.findall(r'<h1 id=".+?">(.+?)</h1>', rsp.text)
+                title = rst[0].strip() if len(rst) > 0 else ''
+                title = re.sub(r'.*</a>', '', title)
                 time = self._query_filetime(url)
                 article = Article(title, url, time)
                 articles.append(article)
