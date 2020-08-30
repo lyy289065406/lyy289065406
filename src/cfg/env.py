@@ -5,7 +5,13 @@
 # -----------------------------------------------
 
 import os
-PRJ_DIR = os.path.dirname(os.path.abspath(__file__)).replace(r'/src/cfg', '').replace(r'\src\cfg', '')
+PRJ_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.dirname(
+            os.path.abspath(__file__)
+        )
+    )
+)
 CHARSET = 'utf-8'
 
 GITHUB_OWNER = 'lyy289065406'
