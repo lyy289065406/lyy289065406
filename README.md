@@ -42,7 +42,7 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    26 hrs    ooooooooooooooxxxxxx    63.28%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.72%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.73%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.88%
 Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.11%
 ```
@@ -54,9 +54,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.11%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [re0-web](https://github.com/lyy289065406/re0-web) | 2 | 2020-08-30 08:48:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 682 | 2020-08-30 11:16:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 2 | 2020-08-30 08:48:22  |
 | [pypdm](https://github.com/lyy289065406/pypdm) | 3 | 2020-08-30 03:17:50  |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | 6 | 2020-08-30 01:21:40  |
 <!-- END_SECTION:activity -->
 
 
