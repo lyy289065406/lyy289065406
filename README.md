@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.40%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.61%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.86%
-Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.13%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.37%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.64%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.87%
+Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.12%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.13%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 678 | 2020-08-28 21:21:46 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 14 | 2020-08-28 17:08:58  |
-| [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | 251 | 2020-08-22 04:22:57  |
+| [pypdm-mysql](https://github.com/lyy289065406/pypdm-mysql) | 14 | 2020-08-30 00:53:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 20 | 2020-08-29 14:00:59  |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | 5 | 2020-08-29 13:42:08  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.13%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | [各种语言的一句话反弹shell命令](https://exp-blog.com/gitbook/markdown/technical/safe/pentest/各种语言一句话反弹shell.html) | 2020-08-17 16:01:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | [N 皇后问题 – 构造法原理与证明: 时间复杂度O(1)](https://exp-blog.com/gitbook/markdown/technical/algorithm/N皇后问题.html) | 2020-08-17 16:01:28  |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | [trojan 科学上网教程](https://exp-blog.com/gitbook/markdown/notes/net/trojan科学上网教程.html) | 2020-08-29 13:41:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | [各种语言的一句话反弹shell命令](https://exp-blog.com/gitbook/markdown/technical/safe/pentest/各种语言一句话反弹shell.html) | 2020-08-17 16:01:28  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [『READY STEADY GO』](https://lyy289065406.github.io/re0-web/gitbook/markdown/ch/chapter060/79.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
