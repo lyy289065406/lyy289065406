@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.37%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.64%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.87%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.34%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.66%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.88%
 Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.12%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,9 +54,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.12%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [pypdm-mysql](https://github.com/lyy289065406/pypdm-mysql) | 14 | 2020-08-30 00:53:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 20 | 2020-08-29 14:00:59  |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | 5 | 2020-08-29 13:42:08  |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | 6 | 2020-08-30 01:21:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pypdm](https://github.com/lyy289065406/pypdm) | 1 | 2020-08-30 01:10:52  |
+| [pypdm-mysql](https://github.com/lyy289065406/pypdm-mysql) | 14 | 2020-08-30 00:53:40  |
 <!-- END_SECTION:activity -->
 
 
