@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.32%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.69%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.28%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.72%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.88%
-Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.12%
+Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.11%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.12%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | 6 | 2020-08-30 01:21:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [pypdm](https://github.com/lyy289065406/pypdm) | 1 | 2020-08-30 01:10:52  |
-| [pypdm-mysql](https://github.com/lyy289065406/pypdm-mysql) | 14 | 2020-08-30 00:53:40  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 2 | 2020-08-30 08:48:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pypdm](https://github.com/lyy289065406/pypdm) | 3 | 2020-08-30 03:17:50  |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | 6 | 2020-08-30 01:21:40  |
 <!-- END_SECTION:activity -->
 
 
@@ -67,7 +67,7 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.12%
 |:------|:------|:------|
 | [exp-blog](https://github.com/lyy289065406/exp-blog) | [trojan &#x79D1;&#x5B66;&#x4E0A;&#x7F51;&#x6559;&#x7A0B;](https://exp-blog.com/gitbook/book/markdown/notes/net/trojan科学上网教程.html) | 2020-08-29 13:41:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [exp-blog](https://github.com/lyy289065406/exp-blog) | [&#x5404;&#x79CD;&#x8BED;&#x8A00;&#x7684;&#x4E00;&#x53E5;&#x8BDD;&#x53CD;&#x5F39;shell&#x547D;&#x4EE4;](https://exp-blog.com/gitbook/book/markdown/technical/safe/pentest/各种语言一句话反弹shell.html) | 2020-08-17 16:01:28  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [『ゼロカラツギハグイセカイセイカツ』](https://lyy289065406.github.io/re0-web/gitbook/markdown/jp/chapter099/12.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;READY STEADY GO&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/79.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
