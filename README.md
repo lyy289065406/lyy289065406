@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.59%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.50%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.84%
-Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.07%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.61%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.47%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.86%
+Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.06%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.07%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [pypdm](https://github.com/lyy289065406/pypdm) | 41 | 2020-09-01 01:05:46 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 691 | 2020-08-31 11:16:11  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 2 | 2020-08-30 08:48:22  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 695 | 2020-09-01 11:20:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pypdm](https://github.com/lyy289065406/pypdm) | 60 | 2020-09-01 08:40:35  |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | 8 | 2020-09-01 04:27:31  |
 <!-- END_SECTION:activity -->
 
 
