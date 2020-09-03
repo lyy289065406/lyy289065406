@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.61%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.47%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.86%
-Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.06%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.62%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.39%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.96%
+Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.03%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.06%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 695 | 2020-09-01 11:20:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [pypdm](https://github.com/lyy289065406/pypdm) | 60 | 2020-09-01 08:40:35  |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | 8 | 2020-09-01 04:27:31  |
+| [exp-blog-hexo](https://github.com/lyy289065406/exp-blog-hexo) | 8 | 2020-09-03 00:39:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 702 | 2020-09-02 19:20:38  |
+| [hexo-server-docker](https://github.com/lyy289065406/hexo-server-docker) | 6 | 2020-09-02 11:58:27  |
 <!-- END_SECTION:activity -->
 
 
