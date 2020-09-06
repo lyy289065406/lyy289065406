@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.63%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.39%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.94%
-Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.03%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.57%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.45%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.95%
+Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.02%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.03%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 1 | 2020-09-04 15:17:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 709 | 2020-09-04 10:22:13  |
-| [articles](https://github.com/lyy289065406/articles) | 7 | 2020-09-03 16:53:01  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 9 | 2020-09-06 01:12:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | 9 | 2020-09-06 01:06:47  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 710 | 2020-09-05 15:42:02  |
 <!-- END_SECTION:activity -->
 
 
