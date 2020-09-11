@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.06%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.18%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.80%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.96%
+Programming    26 hrs    ooooooooooooooxxxxxx    62.97%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.20%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.87%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.95%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.96%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 51 | 2020-09-09 16:23:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | 10 | 2020-09-09 16:17:32  |
-| [articles](https://github.com/lyy289065406/articles) | 39 | 2020-09-09 16:06:08  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 55 | 2020-09-11 00:34:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | 44 | 2020-09-11 00:33:30  |
+| [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | 16 | 2020-09-11 00:30:19  |
 <!-- END_SECTION:activity -->
 
 
