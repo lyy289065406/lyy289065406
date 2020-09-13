@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    62.89%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.18%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.98%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.94%
+Programming    26 hrs    ooooooooooooooxxxxxx    62.78%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    26.15%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    06.13%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.93%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.94%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | 51 | 2020-09-12 08:06:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 61 | 2020-09-12 07:17:53  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 739 | 2020-09-12 06:26:36  |
+| [articles](https://github.com/lyy289065406/articles) | 57 | 2020-09-13 13:59:50 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 65 | 2020-09-13 13:32:56  |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | 25 | 2020-09-13 13:24:36  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.94%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | [trojan &#x79D1;&#x5B66;&#x4E0A;&#x7F51;&#x6559;&#x7A0B;](https://exp-blog.com/gitbook/book/markdown/notes/net/trojan科学上网教程.html) | 2020-08-29 13:41:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | [&#x5404;&#x79CD;&#x8BED;&#x8A00;&#x7684;&#x4E00;&#x53E5;&#x8BDD;&#x53CD;&#x5F39;shell&#x547D;&#x4EE4;](https://exp-blog.com/gitbook/book/markdown/technical/safe/pentest/各种语言一句话反弹shell.html) | 2020-08-17 16:01:28  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2020-13933 漏洞分析](https://exp-blog.com/safe/cve-2020-13933-lou-dong-fen-xi/) | 2020-09-09 15:59:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [trojan 科学上网教程](https://exp-blog.com/net/trojan-ke-xue-shang-wang-jiao-cheng/) | 2020-08-28 14:08:34  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;READY STEADY GO&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/79.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
