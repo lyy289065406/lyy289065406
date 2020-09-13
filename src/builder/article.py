@@ -11,27 +11,30 @@ from src.cfg.env import *
 from src.utils import _git
 
 
+MODE_RSS = 'rss'
+MODE_SITEMAP = 'sitemap'
+
 TPL_PATH = '%s/tpl/article.tpl' % PRJ_DIR
 SAVE_PATH = PRJ_DIR + '/cache/article_%s.dat'
 
-EXP_BLOG_REPO = 'exp-blog'
-EXP_BLOG_SITEMAP = 'https://exp-blog.com/gitbook/book/sitemap.xml'
+EXP_BLOG_REPO = 'hexo-blog'
+EXP_BLOG_URL = 'https://exp-blog.com/atom.xml'
 
 RE0_WEB_REPO = 're0-web'
-RE0_WEB_SITEMAP = 'https://lyy289065406.github.io/re0-web/gitbook/book/sitemap.xml'
+RE0_WEB_URL = 'https://lyy289065406.github.io/re0-web/gitbook/book/sitemap.xml'
 
 
 
 def build(github_token, proxy='') :
     rows = []
 
-    ar = ArticleRefresher(github_token, EXP_BLOG_REPO, EXP_BLOG_SITEMAP, proxy)
-    ar.reflash()
-    rows.extend(ar.get_tops(2))
+    ar = ArticleRefresher(github_token, EXP_BLOG_REPO, EXP_BLOG_URL, proxy)
+    # ar.reflash()      # RSS 会自动排序，不需要缓存到本地
+    rows.extend(ar.get_tops(MODE_RSS, 2))
 
-    ar = ArticleRefresher(github_token, RE0_WEB_REPO, RE0_WEB_SITEMAP, proxy)
-    ar.reflash()
-    rows.extend(ar.get_tops(1))
+    ar = ArticleRefresher(github_token, RE0_WEB_REPO, RE0_WEB_URL, proxy)
+    ar.reflash()        # sitemap 无序，需要缓存到本地
+    rows.extend(ar.get_tops(MODE_SITEMAP, 1))
 
     return """
 | repo | article | push time |
@@ -43,11 +46,11 @@ def build(github_token, proxy='') :
 
 class ArticleRefresher :
 
-    def __init__(self, github_token, repo_name, sitemap_url, proxy='', timeout=60, charset=CHARSET) :
+    def __init__(self, github_token, repo_name, url, proxy='', timeout=60, charset=CHARSET) :
         self.gtk = github_token
         self.repo_name = repo_name
         self.github_url = GITHUB_URL + repo_name
-        self.sitemap_url = sitemap_url
+        self.url = url
         self.save_path = SAVE_PATH % self.repo_name
         self.save_cache = []
         self.charset = charset
@@ -58,7 +61,7 @@ class ArticleRefresher :
     def reflash(self) :
         self._load()
         rsp = requests.get(
-            self.sitemap_url, 
+            self.url, 
             headers = self._headers(), 
             timeout = self.timeout,
             proxies = self.proxies
@@ -71,13 +74,13 @@ class ArticleRefresher :
         self._save()
 
 
-    def get_tops(self, top=1) :
+    def get_tops(self, mode, top=1) :
         tops = []
         with open(TPL_PATH, 'r') as file :
             tpl = file.read()
 
             cnt = 0
-            articles = self._get_top_articles(top)
+            articles = self._get_top_articles(mode, top)
             for article in articles :
                 tops.append(tpl % {
                     'repo': self.repo_name, 
@@ -91,23 +94,44 @@ class ArticleRefresher :
         return tops
 
 
-    def _get_top_articles(self, top=1) :
+    def _get_top_articles(self, mode, top) :
         articles = []
-        urls = self._get_top_urls(top)
-        for url in urls :
+
+        if mode == MODE_SITEMAP :
+            urls = self._get_top_urls(top)
+            for url in urls :
+                rsp = requests.get(
+                    url, 
+                    headers = self._headers(), 
+                    timeout = self.timeout,
+                    proxies = self.proxies
+                )
+                if rsp.status_code == 200 :
+                    rst = re.findall(r'<h1 id=".+?">(.+?)</h1>', rsp.text)
+                    title = rst[0].strip() if len(rst) > 0 else ''
+                    title = re.sub(r'.*</a>', '', title)
+                    time = self._query_filetime(url)
+                    article = Article(title, url, time)
+                    articles.append(article)
+
+        elif mode == MODE_RSS :
             rsp = requests.get(
-                url, 
+                self.url, 
                 headers = self._headers(), 
                 timeout = self.timeout,
                 proxies = self.proxies
             )
             if rsp.status_code == 200 :
-                rst = re.findall(r'<h1 id=".+?">(.+?)</h1>', rsp.text)
-                title = rst[0].strip() if len(rst) > 0 else ''
-                title = re.sub(r'.*</a>', '', title)
-                time = self._query_filetime(url)
-                article = Article(title, url, time)
-                articles.append(article)
+                titles = re.findall(r'<title>(.+?)</title>', rsp.text)
+                urls = re.findall(r'<id>(.+?)</id>', rsp.text)
+                times = re.findall(r'<published>(.+?)</published>', rsp.text)
+                for i in range(top) :
+                    title = titles[i + 1]
+                    url = urls[i + 1]
+                    time = times[i].replace('T', ' ').replace('.000Z', '')
+                    article = Article(title, url, time)
+                    articles.append(article)
+
         return articles
 
 

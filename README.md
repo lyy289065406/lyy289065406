@@ -9,8 +9,8 @@
 </a>
 
 
-<a href="https://github.com/lyy289065406/exp-blog" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=nord" />
+<a href="https://github.com/lyy289065406/hexo-blog" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=hexo-blog&theme=nord" />
 </a>    
 
 <a href="https://github.com/lyy289065406/threat-broadcast" target="_blank">
