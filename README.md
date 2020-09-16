@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    62.97%
-Learning       11 hrs    ooooooxxxxxxxxxxxxxx    25.96%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    06.18%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.89%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.19%
+Learning       11 hrs    ooooooxxxxxxxxxxxxxx    25.79%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    06.17%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.86%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.89%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 746 | 2020-09-15 00:59:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | 60 | 2020-09-14 15:15:19  |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 72 | 2020-09-14 15:12:27  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 73 | 2020-09-15 14:58:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | 61 | 2020-09-15 14:55:29  |
+| [POJ-Solving-Reports](https://github.com/lyy289065406/POJ-Solving-Reports) | 232 | 2020-09-15 14:23:48  |
 <!-- END_SECTION:activity -->
 
 
