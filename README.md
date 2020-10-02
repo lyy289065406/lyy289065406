@@ -43,7 +43,7 @@
 ```text
 Programming    26 hrs    ooooooooooooooxxxxxx    64.95%
 Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.50%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.97%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.96%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.59%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.59%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 823 | 2020-09-30 19:22:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 825 | 2020-10-01 18:27:04 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | 71 | 2020-09-30 07:41:01  |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 79 | 2020-09-30 07:37:27  |
 <!-- END_SECTION:activity -->
