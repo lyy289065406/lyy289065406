@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.56%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 826 | 2020-10-02 08:27:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 828 | 2020-10-04 01:12:51 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 230 | 2020-10-02 02:34:28  |
 | [articles](https://github.com/lyy289065406/articles) | 71 | 2020-09-30 07:41:01  |
 <!-- END_SECTION:activity -->
