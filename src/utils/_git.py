@@ -24,12 +24,17 @@ def query_repos(github_token, proxy='', iter=100):
         # log.debug(data)
         _repos = data["data"]["viewer"]["repositories"]["nodes"]
         for _repo in _repos :
+            try :
+              commit_cnt = _repo["object"]["history"]["totalCount"]
+            except :
+              commit_cnt = 0    # 新仓库无提交记录
+
             repo = Repo(
                 _repo["name"], 
                 _repo["url"], 
                 _repo["description"], 
                 _utc_to_local(_repo["pushedAt"]), 
-                _repo["object"]["history"]["totalCount"]
+                commit_cnt
             )
             topics = _repo["repositoryTopics"]["nodes"]
             for topic in topics :
