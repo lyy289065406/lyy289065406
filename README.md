@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.15%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.36%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.93%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.56%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.19%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.34%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.92%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.55%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.56%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 828 | 2020-10-04 01:12:51 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 831 | 2020-10-05 02:28:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [qBitTorrent-docker](https://github.com/lyy289065406/qBitTorrent-docker) | 0 | 2020-10-04 04:15:34  |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 230 | 2020-10-02 02:34:28  |
-| [articles](https://github.com/lyy289065406/articles) | 71 | 2020-09-30 07:41:01  |
 <!-- END_SECTION:activity -->
 
 
