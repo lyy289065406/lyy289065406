@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.19%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.34%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.92%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.55%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.33%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.25%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.89%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.53%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.55%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 831 | 2020-10-05 02:28:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [qBitTorrent-docker](https://github.com/lyy289065406/qBitTorrent-docker) | 0 | 2020-10-04 04:15:34  |
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 230 | 2020-10-02 02:34:28  |
+| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 23 | 2020-10-05 12:54:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [qBitTorrent-docker](https://github.com/lyy289065406/qBitTorrent-docker) | 0 | 2020-10-05 09:18:04  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 831 | 2020-10-05 02:28:26  |
 <!-- END_SECTION:activity -->
 
 
