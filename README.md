@@ -43,7 +43,7 @@
 ```text
 Programming    27 hrs    ooooooooooooooxxxxxx    65.52%
 Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.12%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.85%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.86%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.50%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.50%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 833 | 2020-10-07 19:23:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 834 | 2020-10-08 07:22:58 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 10 | 2020-10-08 05:07:04  |
 | [qBitTorrent-docker](https://github.com/lyy289065406/qBitTorrent-docker) | 0 | 2020-10-07 14:14:53  |
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 23 | 2020-10-05 12:54:56  |
 <!-- END_SECTION:activity -->
 
 
