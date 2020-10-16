@@ -85,10 +85,9 @@ query {
     }
   }
 }
-""".
-replace("BRANCH", branch).
-replace("ITER", str(iter)).
-replace("NEXT", '"{}"'.format(next_cursor) if next_cursor else "null")
+""".replace("BRANCH", branch).replace("ITER", str(iter)).replace(
+    "NEXT", '"{}"'.format(next_cursor) if next_cursor else "null"
+)
 
 
 
