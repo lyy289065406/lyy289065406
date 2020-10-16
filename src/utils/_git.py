@@ -32,7 +32,7 @@ def query_repos(github_token, branch='master', iter=100, proxy=''):
                 _repo["url"], 
                 _repo["description"], 
                 _utc_to_local(_repo["pushedAt"]), 
-                commit_cnt
+                _repo["object"]["history"]["totalCount"]
             )
             topics = _repo["repositoryTopics"]["nodes"]
             for topic in topics :
