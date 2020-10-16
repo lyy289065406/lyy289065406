@@ -28,7 +28,9 @@ def main(help, github_token, proxy):
             readme = file.read()
 
         log.info("正在读取所有项目仓库的活动数据 ...")
-        repos = _git.query_repos(github_token)
+        repos = []
+        repos.extend(_git.query_repos(github_token, 'master'))
+        repos.extend(_git.query_repos(github_token, 'main'))    # 兼容主分支为 main 情况
         
         if not repos or len(repos) <= 0 :
             log.warn("获取项目仓库数据失败")

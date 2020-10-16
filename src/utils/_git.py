@@ -10,29 +10,29 @@ from src.bean.repo import *
 from src.utils.graphql_client import _GraphqlClient
 
 
-def query_repos(github_token, proxy='', iter=100):
+def query_repos(github_token, branch='master', iter=100, proxy=''):
     repos = []
     client = _GraphqlClient(endpoint=GITHUB_GRAPHQL)
     has_next_page = True
     next_cursor = None
     while has_next_page:
-
-        # 主分支为 master
-        data = _query_repo(client, next_cursor, "master", github_token, proxy, iter)
+        data = client.exec(
+            query=_to_graphql_repoinfo(branch, next_cursor, iter),
+            headers={ "Authorization": "Bearer {}".format(github_token) },
+            proxy=proxy
+        )
+        # log.debug(data)
         _repos = data["data"]["viewer"]["repositories"]["nodes"]
-
-        # 主分支为 main
-        if _repo["object"] is None :
-            data = _query_repo(client, next_cursor, "main", github_token, proxy, iter)
-            _repos = data["data"]["viewer"]["repositories"]["nodes"]
-
         for _repo in _repos :
+            if _repo["object"] is None :
+                continue  # 不存在的分支名
+
             repo = Repo(
                 _repo["name"], 
                 _repo["url"], 
                 _repo["description"], 
                 _utc_to_local(_repo["pushedAt"]), 
-                _repo["object"]["history"]["totalCount"]
+                commit_cnt
             )
             topics = _repo["repositoryTopics"]["nodes"]
             for topic in topics :
@@ -44,13 +44,6 @@ def query_repos(github_token, proxy='', iter=100):
         next_cursor = pageInfo["endCursor"]
     return repos
 
-
-def _query_repo(graphql_client, next_cursor, branch, github_token, proxy, iter):
-    return graphql_client.exec(
-        query=_to_graphql_repoinfo(branch, next_cursor, iter),
-        headers={ "Authorization": "Bearer {}".format(github_token) },
-        proxy=proxy
-    )
 
 
 def _to_graphql_repoinfo(branch, next_cursor, iter):
