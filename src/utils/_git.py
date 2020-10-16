@@ -16,25 +16,23 @@ def query_repos(github_token, proxy='', iter=100):
     has_next_page = True
     next_cursor = None
     while has_next_page:
-        data = client.exec(
-            query=_to_graphql_repoinfo(next_cursor, iter),
-            headers={ "Authorization": "Bearer {}".format(github_token) },
-            proxy=proxy
-        )
-        # log.debug(data)
-        _repos = data["data"]["viewer"]["repositories"]["nodes"]
-        for _repo in _repos :
-            try :
-              commit_cnt = _repo["object"]["history"]["totalCount"]
-            except :
-              commit_cnt = 0    # 新仓库无提交记录
 
+        # 主分支为 master
+        data = _query_repo(client, next_cursor, "master", github_token, proxy, iter)
+        _repos = data["data"]["viewer"]["repositories"]["nodes"]
+
+        # 主分支为 main
+        if _repo["object"] is None :
+            data = _query_repo(client, next_cursor, "main", github_token, proxy, iter)
+            _repos = data["data"]["viewer"]["repositories"]["nodes"]
+
+        for _repo in _repos :
             repo = Repo(
                 _repo["name"], 
                 _repo["url"], 
                 _repo["description"], 
                 _utc_to_local(_repo["pushedAt"]), 
-                commit_cnt
+                _repo["object"]["history"]["totalCount"]
             )
             topics = _repo["repositoryTopics"]["nodes"]
             for topic in topics :
@@ -47,12 +45,19 @@ def query_repos(github_token, proxy='', iter=100):
     return repos
 
 
+def _query_repo(graphql_client, next_cursor, branch, github_token, proxy, iter):
+    return graphql_client.exec(
+        query=_to_graphql_repoinfo(branch, next_cursor, iter),
+        headers={ "Authorization": "Bearer {}".format(github_token) },
+        proxy=proxy
+    )
 
-def _to_graphql_repoinfo(next_cursor, iter):
+
+def _to_graphql_repoinfo(branch, next_cursor, iter):
     return """
 query {
   viewer {
-    repositories(first: 100, orderBy: {field: PUSHED_AT, direction: DESC}, isFork: false, after: NEXT) {
+    repositories(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, isFork: false, after: NEXT) {
       pageInfo {
         hasNextPage
         endCursor
@@ -69,7 +74,7 @@ query {
             }
           }
         }
-        object(expression: "master") {
+        object(expression: "BRANCH") {
           ... on Commit {
             history(first: 1) {
               totalCount
@@ -80,9 +85,10 @@ query {
     }
   }
 }
-""".replace(
-        "NEXT", '"{}"'.format(next_cursor) if next_cursor else "null"
-    )
+""".
+replace("BRANCH", branch).
+replace("ITER", str(iter)).
+replace("NEXT", '"{}"'.format(next_cursor) if next_cursor else "null")
 
 
 
