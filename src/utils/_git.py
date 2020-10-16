@@ -21,7 +21,7 @@ def query_repos(github_token, branch='master', iter=100, proxy=''):
             headers={ "Authorization": "Bearer {}".format(github_token) },
             proxy=proxy
         )
-        # log.debug(data)
+        log.debug(data)
         _repos = data["data"]["viewer"]["repositories"]["nodes"]
         for _repo in _repos :
             if _repo["object"] is None :
