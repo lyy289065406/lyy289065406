@@ -6,6 +6,8 @@
 
 import sys
 import re
+import time
+import datetime
 from src.cfg.env import *
 from src.utils import log
 from src.utils import _git
@@ -31,6 +33,9 @@ def main(help, github_token, proxy):
         repos = []
         repos.extend(_git.query_repos(github_token, 'master'))
         repos.extend(_git.query_repos(github_token, 'main'))    # 兼容主分支为 main 情况
+        repos.sort(reverse=True, key=lambda repo: int(time.mktime(
+            datetime.datetime.strptime(repo.pushtime, "%Y-%m-%d %H:%M:%S").timetuple()
+        )))
         
         if not repos or len(repos) <= 0 :
             log.warn("获取项目仓库数据失败")

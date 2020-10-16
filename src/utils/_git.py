@@ -24,10 +24,6 @@ def query_repos(github_token, branch='master', iter=100, proxy=''):
         # log.debug(data)
         _repos = data["data"]["viewer"]["repositories"]["nodes"]
         for _repo in _repos :
-            log.debug(_repo["name"])
-            log.debug(_repo["object"])
-            log.debug('is ' + str(_repo["object"] is None))
-            log.debug('== ' + str(_repo["object"] == 'None'))
             if _repo["object"] is None :
                 continue  # 不存在的分支名
 
