@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.68%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.23%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.72%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.66%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.25%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.73%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.37%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.37%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 880 | 2020-10-16 19:24:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 19 | 2020-10-16 05:35:17  |
-| [ebooks-library](https://github.com/lyy289065406/ebooks-library) | 20 | 2020-10-14 18:54:51  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 883 | 2020-10-17 22:26:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 20 | 2020-10-17 19:05:28  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 80 | 2020-10-17 17:06:38  |
 <!-- END_SECTION:activity -->
 
 
