@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.47%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.23%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.69%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.61%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.46%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.25%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.68%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.61%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 22 | 2020-10-22 15:22:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [vscode-web-docker](https://github.com/lyy289065406/vscode-web-docker) | 31 | 2020-10-22 15:21:27  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 908 | 2020-10-22 13:27:32  |
+| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 24 | 2020-10-23 15:33:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [vscode-web-docker](https://github.com/lyy289065406/vscode-web-docker) | 32 | 2020-10-23 11:10:22  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 911 | 2020-10-23 09:31:57  |
 <!-- END_SECTION:activity -->
 
 
