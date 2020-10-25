@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.46%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.25%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.68%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.44%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.26%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.71%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 24 | 2020-10-23 15:33:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [vscode-web-docker](https://github.com/lyy289065406/vscode-web-docker) | 32 | 2020-10-23 11:10:22  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 911 | 2020-10-23 09:31:57  |
+| [articles](https://github.com/lyy289065406/articles) | 75 | 2020-10-25 01:36:59 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [qBitTorrent-docker](https://github.com/lyy289065406/qBitTorrent-docker) | 33 | 2020-10-24 13:45:23  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 913 | 2020-10-24 10:31:49  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2020-13933 漏洞分析](https://exp-blog.com/safe/cve-2020-13933-lou-dong-fen-xi/) | 2020-09-09 15:59:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [trojan 科学上网教程](https://exp-blog.com/net/trojan-ke-xue-shang-wang-jiao-cheng/) | 2020-08-28 14:08:34  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [使用 calibre 搭建私人书库](https://exp-blog.com/website/calibre-da-jian-si-ren-shu-ku/) | 2020-10-11 01:22:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [利用 qBitTorrent 在 VPS 上离线下载](https://exp-blog.com/net/vps-bt-chi-xian-xia-zai/) | 2020-10-07 11:24:23  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;READY STEADY GO&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/79.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
