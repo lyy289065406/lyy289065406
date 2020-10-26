@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.44%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.26%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.71%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.29%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.22%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.89%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.59%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | 75 | 2020-10-25 01:36:59 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [qBitTorrent-docker](https://github.com/lyy289065406/qBitTorrent-docker) | 33 | 2020-10-24 13:45:23  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 913 | 2020-10-24 10:31:49  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 87 | 2020-10-25 18:01:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | 92 | 2020-10-25 18:00:04  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 914 | 2020-10-25 09:29:58  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [使用 calibre 搭建私人书库](https://exp-blog.com/website/calibre-da-jian-si-ren-shu-ku/) | 2020-10-11 01:22:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [利用 qBitTorrent 在 VPS 上离线下载](https://exp-blog.com/net/vps-bt-chi-xian-xia-zai/) | 2020-10-07 11:24:23  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [如何使用浏览器进行远程开发](https://exp-blog.com/tools/ru-he-shi-yong-liu-lan-qi-jin-xing-yuan-cheng-kai-fa/) | 2020-10-23 09:00:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [使用 calibre 搭建私人书库](https://exp-blog.com/website/calibre-da-jian-si-ren-shu-ku/) | 2020-10-11 01:22:36  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;READY STEADY GO&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/79.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
