@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.31%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.16%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.27%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.21%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.96%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.57%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.56%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.57%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 945 | 2020-10-30 11:16:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 91 | 2020-10-30 03:26:19  |
-| [articles](https://github.com/lyy289065406/articles) | 99 | 2020-10-30 02:40:37  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 946 | 2020-10-31 16:28:35 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | 6 | 2020-10-31 16:27:07  |
+| [vscode-web-docker](https://github.com/lyy289065406/vscode-web-docker) | 35 | 2020-10-31 08:14:29  |
 <!-- END_SECTION:activity -->
 
 
