@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.19%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.31%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.95%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.56%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.37%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.19%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.91%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.53%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,8 +54,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.56%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | 22 | 2020-11-01 17:25:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 946 | 2020-10-31 16:28:35  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 951 | 2020-11-02 20:17:44 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | 23 | 2020-11-02 01:17:23  |
 | [vscode-web-docker](https://github.com/lyy289065406/vscode-web-docker) | 35 | 2020-10-31 08:14:29  |
 <!-- END_SECTION:activity -->
 
