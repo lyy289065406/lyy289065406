@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.38%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.18%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.91%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.53%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.37%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.20%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.90%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.52%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.53%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 956 | 2020-11-03 11:17:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | 23 | 2020-11-02 01:17:23  |
-| [vscode-web-docker](https://github.com/lyy289065406/vscode-web-docker) | 35 | 2020-10-31 08:14:29  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 960 | 2020-11-04 11:17:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | 26 | 2020-11-04 10:41:04  |
+| [kali-docker](https://github.com/lyy289065406/kali-docker) | 2 | 2020-11-04 09:04:03  |
 <!-- END_SECTION:activity -->
 
 
