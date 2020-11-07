@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.37%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.22%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.89%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.52%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.53%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.11%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.86%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.49%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,8 +54,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.52%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 968 | 2020-11-05 13:19:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [tenable-nasl](https://github.com/lyy289065406/tenable-nasl) | 3 | 2020-11-05 08:40:51  |
+| [tenable-nasl](https://github.com/lyy289065406/tenable-nasl) | 6 | 2020-11-06 17:30:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 973 | 2020-11-06 11:18:32  |
 | [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | 28 | 2020-11-05 04:44:03  |
 <!-- END_SECTION:activity -->
 
