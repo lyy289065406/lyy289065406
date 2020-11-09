@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.51%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.15%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.86%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.49%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.85%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.49%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.15%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.51%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.49%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [CVE-2020-13277-poc](https://github.com/lyy289065406/CVE-2020-13277-poc) | 2 | 2020-11-08 00:50:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 975 | 2020-11-07 09:21:09  |
-| [tenable-nasl](https://github.com/lyy289065406/tenable-nasl) | 9 | 2020-11-07 03:45:57  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 96 | 2020-11-08 18:39:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | 5 | 2020-11-08 18:37:55  |
+| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | 56 | 2020-11-08 18:20:50  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.49%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [如何使用浏览器进行远程开发](https://exp-blog.com/tools/ru-he-shi-yong-liu-lan-qi-jin-xing-yuan-cheng-kai-fa/) | 2020-10-23 09:00:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [使用 calibre 搭建私人书库](https://exp-blog.com/website/calibre-da-jian-si-ren-shu-ku/) | 2020-10-11 01:22:36  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2020-13277 漏洞分析](https://exp-blog.com/safe/cve-2020-13277-lou-dong-fen-xi/) | 2020-11-08 17:20:14 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [如何使用浏览器进行远程开发](https://exp-blog.com/tools/ru-he-shi-yong-liu-lan-qi-jin-xing-yuan-cheng-kai-fa/) | 2020-10-23 09:00:27  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;READY STEADY GO&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/79.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
