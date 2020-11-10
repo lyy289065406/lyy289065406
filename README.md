@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.85%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.83%
 Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.49%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.15%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.51%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.17%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.50%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.51%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 96 | 2020-11-08 18:39:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | 5 | 2020-11-08 18:37:55  |
-| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | 56 | 2020-11-08 18:20:50  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 982 | 2020-11-09 13:20:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 98 | 2020-11-09 11:25:16  |
+| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | 60 | 2020-11-09 11:18:13  |
 <!-- END_SECTION:activity -->
 
 
