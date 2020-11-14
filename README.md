@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.45%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 995 | 2020-11-12 12:26:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 999 | 2020-11-13 11:18:14 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [kali-docker](https://github.com/lyy289065406/kali-docker) | 3 | 2020-11-13 10:55:21  |
 | [docker-linux-os](https://github.com/lyy289065406/docker-linux-os) | 1 | 2020-11-12 09:58:57  |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 100 | 2020-11-10 11:23:18  |
 <!-- END_SECTION:activity -->
 
 
