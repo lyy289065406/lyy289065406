@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.16%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.24%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.15%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.45%
+Programming    27 hrs    ooooooooooooooxxxxxx    66.07%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.28%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.20%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.44%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.45%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 999 | 2020-11-13 11:18:14 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [kali-docker](https://github.com/lyy289065406/kali-docker) | 3 | 2020-11-13 10:55:21  |
-| [docker-linux-os](https://github.com/lyy289065406/docker-linux-os) | 1 | 2020-11-12 09:58:57  |
+| [kali-docker](https://github.com/lyy289065406/kali-docker) | 11 | 2020-11-14 18:34:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 21 | 2020-11-14 12:06:06  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 999 | 2020-11-13 11:18:14  |
 <!-- END_SECTION:activity -->
 
 
@@ -67,7 +67,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.45%
 |:------|:------|:------|
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2020-13277 漏洞分析](https://exp-blog.com/safe/cve-2020-13277-lou-dong-fen-xi/) | 2020-11-08 17:20:14 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [如何使用浏览器进行远程开发](https://exp-blog.com/tools/ru-he-shi-yong-liu-lan-qi-jin-xing-yuan-cheng-kai-fa/) | 2020-10-23 09:00:27  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;READY STEADY GO&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/79.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5B66;&#x5712;&#x30EA;&#x30BC;&#x30ED;&#xFF01;&#x3000;3&#x6642;&#x9593;&#x76EE;&#xFF01;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/jp/chapter099/13.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
