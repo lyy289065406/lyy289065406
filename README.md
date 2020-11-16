@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.07%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.28%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.20%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.44%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.55%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.15%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.89%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.40%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.44%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [kali-docker](https://github.com/lyy289065406/kali-docker) | 11 | 2020-11-14 18:34:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 21 | 2020-11-14 12:06:06  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 999 | 2020-11-13 11:18:14  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 101 | 2020-11-15 13:39:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | 100 | 2020-11-15 13:28:22  |
+| [site-package](https://github.com/lyy289065406/site-package) | 59 | 2020-11-15 13:07:11  |
 <!-- END_SECTION:activity -->
 
 
