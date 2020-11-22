@@ -44,7 +44,7 @@
 Programming    27 hrs    ooooooooooooooxxxxxx    65.76%
 Learning       10 hrs    ooooooxxxxxxxxxxxxxx    24.03%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.85%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.37%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.36%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,8 +54,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.37%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [kali-docker](https://github.com/lyy289065406/kali-docker) | 20 | 2020-11-20 17:05:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1026 | 2020-11-20 10:23:45  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1028 | 2020-11-21 09:32:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [kali-docker](https://github.com/lyy289065406/kali-docker) | 20 | 2020-11-20 17:05:12  |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 101 | 2020-11-15 13:39:16  |
 <!-- END_SECTION:activity -->
 
