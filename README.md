@@ -42,8 +42,8 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    27 hrs    ooooooooooooooxxxxxx    66.56%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    23.48%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.72%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    23.49%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.71%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.24%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.24%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1109 | 2020-12-05 17:27:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1110 | 2020-12-06 09:29:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [tenable-tools](https://github.com/lyy289065406/tenable-tools) | 2 | 2020-12-04 12:51:12  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | 24 | 2020-12-03 01:25:44  |
 <!-- END_SECTION:activity -->
