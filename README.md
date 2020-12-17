@@ -41,8 +41,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.64%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    23.45%
+Programming    27 hrs    ooooooooooooooxxxxxx    66.63%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    23.47%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.69%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.21%
 ```
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.21%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1163 | 2020-12-15 16:59:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2019-5475](https://github.com/lyy289065406/CVE-2019-5475) | 4 | 2020-12-16 16:16:46 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1168 | 2020-12-16 13:31:04  |
 | [tenable-tools](https://github.com/lyy289065406/tenable-tools) | 7 | 2020-12-15 05:23:13  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 24 | 2020-12-15 02:58:55  |
 <!-- END_SECTION:activity -->
 
 
