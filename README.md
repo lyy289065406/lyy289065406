@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.54%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    23.57%
+Programming    27 hrs    ooooooooooooooxxxxxx    66.69%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    23.45%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.69%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.19%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.17%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.19%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1180 | 2020-12-20 19:29:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 105 | 2020-12-20 15:32:52  |
-| [CVE-2019-15588](https://github.com/lyy289065406/CVE-2019-15588) | 3 | 2020-12-20 11:25:42  |
+| [expcodes](https://github.com/lyy289065406/expcodes) | 2301 | 2020-12-21 19:34:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | 105 | 2020-12-21 16:28:44  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 107 | 2020-12-21 16:23:22  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.19%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2020-13277 漏洞分析](https://exp-blog.com/safe/cve-2020-13277-lou-dong-fen-xi/) | 2020-11-08 17:20:14 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [如何使用浏览器进行远程开发](https://exp-blog.com/tools/ru-he-shi-yong-liu-lan-qi-jin-xing-yuan-cheng-kai-fa/) | 2020-10-23 09:00:27  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2019-5475 漏洞分析](https://exp-blog.com/safe/cve-2019-5475-lou-dong-fen-xi/) | 2020-12-20 07:41:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2020-13277 漏洞分析](https://exp-blog.com/safe/cve-2020-13277-lou-dong-fen-xi/) | 2020-11-08 17:20:14  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5B66;&#x5712;&#x30EA;&#x30BC;&#x30ED;&#xFF01;&#x3000;3&#x6642;&#x9593;&#x76EE;&#xFF01;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/jp/chapter099/13.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
