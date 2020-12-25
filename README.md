@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.83%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    23.31%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.74%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.13%
+Programming    27 hrs    ooooooooooooooxxxxxx    66.96%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    23.22%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.71%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.11%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.13%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 110 | 2020-12-23 10:40:44 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | 116 | 2020-12-23 10:38:55  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1188 | 2020-12-23 09:42:01  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1192 | 2020-12-25 01:27:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 24 | 2020-12-24 03:53:54  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 110 | 2020-12-23 10:40:44  |
 <!-- END_SECTION:activity -->
 
 
