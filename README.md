@@ -67,7 +67,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.05%
 |:------|:------|:------|
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2019-5475 与 CVE-2019-15588 漏洞分析](https://exp-blog.com/safe/cve-2019-5475-lou-dong-fen-xi/) | 2020-12-20 07:41:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2020-13277 漏洞分析](https://exp-blog.com/safe/cve-2020-13277-lou-dong-fen-xi/) | 2020-11-08 17:20:14  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [『学園リゼロ！　3時間目！』](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/jp/chapter099/13.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [『学園リゼロ！　3時間目』](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/jp/chapter099/13.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
