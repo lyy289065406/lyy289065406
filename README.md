@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    67.38%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.94%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.63%
+Programming    27 hrs    ooooooooooooooxxxxxx    67.34%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.93%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.68%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.05%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,8 +54,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.05%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1220 | 2021-01-01 14:40:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 24 | 2020-12-24 03:53:54  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1222 | 2021-01-02 13:41:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 31 | 2021-01-02 08:04:17  |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 110 | 2020-12-23 10:40:44  |
 <!-- END_SECTION:activity -->
 
@@ -67,7 +67,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.05%
 |:------|:------|:------|
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2019-5475 与 CVE-2019-15588 漏洞分析](https://exp-blog.com/safe/cve-2019-5475-lou-dong-fen-xi/) | 2020-12-20 07:41:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2020-13277 漏洞分析](https://exp-blog.com/safe/cve-2020-13277-lou-dong-fen-xi/) | 2020-11-08 17:20:14  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5B66;&#x5712;&#x30EA;&#x30BC;&#x30ED;&#xFF01;&#x3000;3&#x6642;&#x9593;&#x76EE;&#xFF01;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/jp/chapter099/13.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [『学園リゼロ！　3時間目！』](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/jp/chapter099/13.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
