@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    67.39%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.88%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.71%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.02%
+Programming    27 hrs    ooooooooooooooxxxxxx    67.50%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.81%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.69%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.01%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.02%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1236 | 2021-01-05 14:42:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [account-mgr](https://github.com/lyy289065406/account-mgr) | 21 | 2021-01-07 01:09:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1241 | 2021-01-06 21:36:03  |
 | [expcodes](https://github.com/lyy289065406/expcodes) | 2301 | 2021-01-05 02:51:16  |
-| [account-mgr](https://github.com/lyy289065406/account-mgr) | 21 | 2021-01-05 01:20:43  |
 <!-- END_SECTION:activity -->
 
 
