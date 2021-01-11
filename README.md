@@ -54,8 +54,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.00%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [account-mgr](https://github.com/lyy289065406/account-mgr) | 21 | 2021-01-09 16:29:46 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1258 | 2021-01-09 05:51:57  |
+| [account-mgr](https://github.com/lyy289065406/account-mgr) | 21 | 2021-01-10 14:37:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1259 | 2021-01-10 13:51:26  |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 111 | 2021-01-07 13:25:48  |
 <!-- END_SECTION:activity -->
 
