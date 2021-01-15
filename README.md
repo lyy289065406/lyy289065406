@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.70%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.71%
 Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.67%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.65%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.98%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.97%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.98%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1280 | 2021-01-14 02:02:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1285 | 2021-01-14 17:33:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [account-mgr](https://github.com/lyy289065406/account-mgr) | 21 | 2021-01-11 11:08:32  |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 111 | 2021-01-07 13:25:48  |
 <!-- END_SECTION:activity -->
