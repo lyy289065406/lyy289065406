@@ -42,9 +42,9 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    28 hrs    ooooooooooooooxxxxxx    67.70%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.66%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.67%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.98%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.67%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.66%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.97%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.98%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1293 | 2021-01-17 15:49:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1297 | 2021-01-18 20:03:50 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [mstream-docker](https://github.com/lyy289065406/mstream-docker) | 2 | 2021-01-18 11:26:47  |
 | [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 24 | 2021-01-17 14:09:14  |
-| [ebooks-library](https://github.com/lyy289065406/ebooks-library) | 33 | 2021-01-17 13:20:34  |
 <!-- END_SECTION:activity -->
 
 
