@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.68%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.72%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.64%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.96%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.58%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.84%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.63%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.95%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.96%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1301 | 2021-01-19 17:32:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [music-library](https://github.com/lyy289065406/music-library) | 14 | 2021-01-19 16:51:31  |
-| [mstream-docker](https://github.com/lyy289065406/mstream-docker) | 5 | 2021-01-19 16:08:17  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1308 | 2021-01-21 02:02:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [seafile-docker](https://github.com/lyy289065406/seafile-docker) | 1 | 2021-01-21 01:26:38  |
+| [music-library](https://github.com/lyy289065406/music-library) | 33 | 2021-01-20 17:22:28  |
 <!-- END_SECTION:activity -->
 
 
