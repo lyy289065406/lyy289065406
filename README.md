@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.57%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.58%
 Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.85%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.64%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.63%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.94%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.94%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1317 | 2021-01-22 02:01:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1321 | 2021-01-22 10:07:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [seafile-docker](https://github.com/lyy289065406/seafile-docker) | 5 | 2021-01-21 16:55:59  |
 | [site-package](https://github.com/lyy289065406/site-package) | 64 | 2021-01-21 16:54:30  |
 <!-- END_SECTION:activity -->
