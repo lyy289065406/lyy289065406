@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.58%
-Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.85%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.63%
+Programming    27 hrs    ooooooooooooooxxxxxx    67.50%
+Learning       10 hrs    ooooooxxxxxxxxxxxxxx    22.92%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.65%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.94%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.94%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1321 | 2021-01-22 10:07:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [seafile-docker](https://github.com/lyy289065406/seafile-docker) | 5 | 2021-01-21 16:55:59  |
-| [site-package](https://github.com/lyy289065406/site-package) | 64 | 2021-01-21 16:54:30  |
+| [music-library](https://github.com/lyy289065406/music-library) | 46 | 2021-01-24 02:21:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1322 | 2021-01-23 11:58:12  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 116 | 2021-01-23 09:56:46  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.94%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [WSL2 迁移 Docker 镜像存储位置](https://exp-blog.com/container/wsl2-qian-yi-docker-cun-chu-wei-zhi/) | 2021-01-17 05:01:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [CVE-2019-5475 与 CVE-2019-15588 漏洞分析](https://exp-blog.com/safe/cve-2019-5475-lou-dong-fen-xi/) | 2020-12-20 07:41:17  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [使用 mstream 搭建私人云音乐库](https://exp-blog.com/website/mstream-da-jian-si-ren-yun-yin-le-ku/) | 2021-01-23 09:46:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [如何清洗 Github 提交历史 ？](https://exp-blog.com/tools/qing-xi-github-ti-jiao-li-shi/) | 2021-01-23 07:22:16  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x82F1;&#x96C4;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/90.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
