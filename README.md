@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.57%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    22.41%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.60%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.54%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    22.40%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.63%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.42%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.42%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [re0-web](https://github.com/lyy289065406/re0-web) | 39 | 2021-02-07 14:00:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1375 | 2021-02-07 12:38:01  |
-| [music-library](https://github.com/lyy289065406/music-library) | 75 | 2021-02-07 10:30:39  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1379 | 2021-02-08 19:22:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 39 | 2021-02-08 17:10:21  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 120 | 2021-02-08 11:30:17  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.42%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [使用 mstream 搭建私人云音乐库](https://exp-blog.com/website/mstream-da-jian-si-ren-yun-yin-le-ku/) | 2021-01-23 09:46:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [如何清洗 Github 提交历史 ？](https://exp-blog.com/tools/qing-xi-github-ti-jiao-li-shi/) | 2021-01-23 07:22:16  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [利用 kOps 在 AWS 部署 k8s 集群](https://exp-blog.com/container/li-yong-kops-zai-aws-bu-shu-k8s-ji-qun/) | 2021-02-08 11:42:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [使用 mstream 搭建私人云音乐库](https://exp-blog.com/website/mstream-da-jian-si-ren-yun-yin-le-ku/) | 2021-01-23 09:46:07  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x82F1;&#x96C4;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/90.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
