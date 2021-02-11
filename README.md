@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.52%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    22.38%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.68%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.43%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.67%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    22.28%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.65%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.40%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.43%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1384 | 2021-02-10 01:05:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1389 | 2021-02-11 01:09:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | 132 | 2021-02-09 11:28:06  |
 | [music-library](https://github.com/lyy289065406/music-library) | 77 | 2021-02-09 02:37:36  |
 <!-- END_SECTION:activity -->
