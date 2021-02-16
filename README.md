@@ -43,7 +43,7 @@
 ```text
 Programming    28 hrs    ooooooooooooooxxxxxx    67.67%
 Learning       09 hrs    ooooooxxxxxxxxxxxxxx    22.29%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.65%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.64%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.40%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.40%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1391 | 2021-02-13 14:27:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1392 | 2021-02-15 20:29:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | 132 | 2021-02-09 11:28:06  |
 | [music-library](https://github.com/lyy289065406/music-library) | 77 | 2021-02-09 02:37:36  |
 <!-- END_SECTION:activity -->
