@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.81%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    22.19%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.62%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.77%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    22.18%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.67%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.38%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.38%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1392 | 2021-02-15 20:29:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | 132 | 2021-02-09 11:28:06  |
-| [music-library](https://github.com/lyy289065406/music-library) | 77 | 2021-02-09 02:37:36  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1397 | 2021-02-18 21:26:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [music-library](https://github.com/lyy289065406/music-library) | 78 | 2021-02-18 15:58:10  |
+| [mstream-docker](https://github.com/lyy289065406/mstream-docker) | 6 | 2021-02-18 10:33:12  |
 <!-- END_SECTION:activity -->
 
 
