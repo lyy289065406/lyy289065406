@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.10%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.97%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.60%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.33%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.25%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.87%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.58%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.31%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.33%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1438 | 2021-03-03 01:09:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1443 | 2021-03-03 11:27:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [music-library](https://github.com/lyy289065406/music-library) | 79 | 2021-03-02 03:46:21  |
 | [reverse-engineering-vagrant](https://github.com/lyy289065406/reverse-engineering-vagrant) | 2 | 2021-02-26 09:01:26  |
 <!-- END_SECTION:activity -->
