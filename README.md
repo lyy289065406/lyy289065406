@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.38%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.77%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.56%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.29%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.88%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.80%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.57%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.75%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.29%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1447 | 2021-03-04 17:41:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1450 | 2021-03-05 15:30:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [mstream-docker](https://github.com/lyy289065406/mstream-docker) | 7 | 2021-03-05 10:39:46  |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 126 | 2021-03-04 09:57:03  |
-| [articles](https://github.com/lyy289065406/articles) | 138 | 2021-03-04 03:42:21  |
 <!-- END_SECTION:activity -->
 
 
