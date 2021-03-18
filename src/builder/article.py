@@ -17,7 +17,7 @@ MODE_SITEMAP = 'sitemap'
 TPL_PATH = '%s/tpl/article.tpl' % PRJ_DIR
 SAVE_PATH = PRJ_DIR + '/cache/article_%s.dat'
 
-EXP_BLOG_REPO = 'hexo-blog'
+EXP_BLOG_REPO = 'articles'
 EXP_BLOG_URL = 'https://exp-blog.com/atom.xml'
 
 RE0_WEB_REPO = 're0-web'
