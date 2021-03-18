@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    69.79%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.90%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.63%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.69%
+Programming    28 hrs    ooooooooooooooxxxxxx    69.69%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.92%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.70%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.68%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.69%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 139 | 2021-03-18 01:05:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | 1 | 2021-03-17 18:48:55  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1489 | 2021-03-17 10:33:57  |
+| [articles](https://github.com/lyy289065406/articles) | 9 | 2021-03-18 17:29:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 151 | 2021-03-18 17:26:55  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1494 | 2021-03-18 12:43:21  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.69%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [Github Desktop 代理设置](https://exp-blog.com/scm/githubdesktop-dai-li-she-zhi/) | 2021-03-07 03:27:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | [Git-LFS 的使用和迁移笔记](https://exp-blog.com/scm/gitlfs-shi-yong-he-qian-yi/) | 2021-03-05 08:01:04  |
+| [articles](https://github.com/lyy289065406/articles) | [Github Desktop 代理设置](https://exp-blog.com/scm/githubdesktop-dai-li-she-zhi/) | 2021-03-07 03:27:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [Git-LFS 的使用和迁移笔记](https://exp-blog.com/scm/gitlfs-shi-yong-he-qian-yi/) | 2021-03-05 08:01:04  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x82F1;&#x96C4;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/90.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
