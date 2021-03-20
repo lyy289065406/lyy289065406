@@ -21,7 +21,7 @@
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=nord" />
 </a>
 
-<a href="https://github.com/lyy289065406/articles" target="_blank">
+<a href="https://exp-blog.com" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=articles&theme=nord" />
 </a>
 <!--END_SECTION:github-readme-stats-->
