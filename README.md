@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    69.68%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.91%
+Programming    28 hrs    ooooooooooooooxxxxxx    69.62%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.98%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.73%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.68%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.67%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.68%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 26 | 2021-03-20 10:27:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [crack-notes](https://github.com/lyy289065406/crack-notes) | 63 | 2021-03-20 18:38:06 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 26 | 2021-03-20 10:27:23  |
 | [articles](https://github.com/lyy289065406/articles) | 4 | 2021-03-20 10:25:40  |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 156 | 2021-03-20 10:24:13  |
 <!-- END_SECTION:activity -->
 
 
