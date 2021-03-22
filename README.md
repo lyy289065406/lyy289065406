@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    69.62%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.98%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.73%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.67%
+Programming    28 hrs    ooooooooooooooxxxxxx    69.46%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    22.03%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.84%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.66%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.67%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [crack-notes](https://github.com/lyy289065406/crack-notes) | 63 | 2021-03-20 18:38:06 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 26 | 2021-03-20 10:27:23  |
-| [articles](https://github.com/lyy289065406/articles) | 4 | 2021-03-20 10:25:40  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 49 | 2021-03-21 17:04:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [crack-notes](https://github.com/lyy289065406/crack-notes) | 72 | 2021-03-21 16:56:45  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 159 | 2021-03-21 10:40:19  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,9 +65,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.67%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [Github Desktop 代理设置](https://exp-blog.com/scm/githubdesktop-dai-li-she-zhi/) | 2021-03-07 03:27:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | [Git-LFS 的使用和迁移笔记](https://exp-blog.com/scm/gitlfs-shi-yong-he-qian-yi/) | 2021-03-05 08:01:04  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x82F1;&#x96C4;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter060/90.html) | 2020-11-14 05:17:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [Github Desktop 代理设置](https://exp-blog.com/scm/githubdesktop-dai-li-she-zhi/) | 2021-03-07 03:27:33  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4F5B;&#x62C9;&#x57FA;&#x4E9A;&#x5E1D;&#x56FD;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/12.html) | 2021-03-21 07:41:14 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
