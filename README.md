@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    69.61%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.90%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.85%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.64%
+Programming    28 hrs    ooooooooooooooxxxxxx    69.71%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.83%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.83%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.64%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1513 | 2021-03-23 11:30:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1520 | 2021-03-24 14:21:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 49 | 2021-03-24 14:12:37  |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 162 | 2021-03-22 07:19:47  |
-| [hexo-template](https://github.com/lyy289065406/hexo-template) | 7 | 2021-03-22 07:18:25  |
 <!-- END_SECTION:activity -->
 
 
