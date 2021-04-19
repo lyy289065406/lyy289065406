@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    69.95%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.65%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.85%
+Programming    28 hrs    ooooooooooooooxxxxxx    69.94%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.63%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.89%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.54%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,8 +54,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.54%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [re0-web](https://github.com/lyy289065406/re0-web) | 71 | 2021-04-18 01:23:50 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1634 | 2021-04-17 20:30:32  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1642 | 2021-04-19 01:33:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 78 | 2021-04-18 04:59:08  |
 | [CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192) | 28 | 2021-04-15 08:22:39  |
 <!-- END_SECTION:activity -->
 
@@ -67,7 +67,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.54%
 |:------|:------|:------|
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [Github Desktop 代理设置](https://exp-blog.com/scm/githubdesktop-dai-li-she-zhi/) | 2021-03-07 03:27:33  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x60F3;&#x8981;&#x5B88;&#x62A4;&#x4E4B;&#x7269;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/15.html) | 2021-04-12 17:13:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5FCD;&#x3073;&#x5BC4;&#x308B;&#x51F6;&#x6C17;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/17.html) | 2021-04-18 01:23:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
