@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.47%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [re0-web](https://github.com/lyy289065406/re0-web) | 86 | 2021-04-27 01:24:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | 52 | 2021-04-26 18:24:38  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1681 | 2021-04-26 13:39:01  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1686 | 2021-04-27 13:37:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192) | 47 | 2021-04-27 07:08:19  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 86 | 2021-04-27 01:24:05  |
 <!-- END_SECTION:activity -->
 
 
