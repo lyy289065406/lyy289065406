@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    29 hrs    ooooooooooooooooxxxx    70.48%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.24%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.82%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.47%
+Programming    29 hrs    ooooooooooooooooxxxx    70.58%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.17%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.80%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.45%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,8 +54,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.47%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1686 | 2021-04-27 13:37:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192) | 47 | 2021-04-27 07:08:19  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1690 | 2021-04-28 14:31:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192) | 48 | 2021-04-28 11:41:22  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | 86 | 2021-04-27 01:24:05  |
 <!-- END_SECTION:activity -->
 
