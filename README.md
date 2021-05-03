@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    29 hrs    ooooooooooooooooxxxx    70.62%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.09%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.79%
+Programming    29 hrs    ooooooooooooooooxxxx    70.56%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.12%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.82%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.50%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.50%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192) | 50 | 2021-05-01 14:20:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1699 | 2021-05-01 08:38:54  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 89 | 2021-04-29 17:30:50  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 93 | 2021-05-02 12:06:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1701 | 2021-05-02 11:29:40  |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 164 | 2021-05-02 06:42:14  |
 <!-- END_SECTION:activity -->
 
 
@@ -65,8 +65,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.50%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | [Github Desktop 代理设置](https://exp-blog.com/scm/githubdesktop-dai-li-she-zhi/) | 2021-03-07 03:27:33  |
+| [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x607C;&#x4EBA;&#x7684;&#x91CD;&#x9022;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/19.html) | 2021-04-29 15:47:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
