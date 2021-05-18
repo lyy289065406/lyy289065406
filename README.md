@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    29 hrs    ooooooooooooooooxxxx    71.10%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    20.66%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.83%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.41%
+Programming    29 hrs    ooooooooooooooooxxxx    71.20%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    20.59%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.81%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.39%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.41%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 244 | 2021-05-16 12:56:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1751 | 2021-05-17 13:42:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 244 | 2021-05-16 12:56:37  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | 114 | 2021-05-16 10:57:39  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1744 | 2021-05-16 09:35:51  |
 <!-- END_SECTION:activity -->
 
 
