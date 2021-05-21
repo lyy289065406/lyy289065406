@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    29 hrs    ooooooooooooooooxxxx    71.17%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    20.61%
+Programming    29 hrs    ooooooooooooooooxxxx    71.14%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    20.55%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.83%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.39%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.48%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.39%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 167 | 2021-05-19 15:34:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | 14 | 2021-05-19 15:29:00  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1759 | 2021-05-19 14:30:42  |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 244 | 2021-05-20 15:46:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [site-package](https://github.com/lyy289065406/site-package) | 66 | 2021-05-20 14:49:34  |
+| [gitlab-docker](https://github.com/lyy289065406/gitlab-docker) | 1 | 2021-05-20 14:45:30  |
 <!-- END_SECTION:activity -->
 
 
