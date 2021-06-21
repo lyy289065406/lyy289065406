@@ -42,9 +42,9 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    29 hrs    ooooooooooooooooxxxx    71.89%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    20.06%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    20.07%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.68%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.37%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.36%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.37%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1857 | 2021-06-19 12:48:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1858 | 2021-06-20 10:33:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | 52 | 2021-06-07 18:06:45  |
 | [certificate](https://github.com/lyy289065406/certificate) | 119 | 2021-06-07 18:05:33  |
 <!-- END_SECTION:activity -->
