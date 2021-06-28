@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    29 hrs    ooooooooooooooooxxxx    72.12%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    19.91%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.64%
+Programming    29 hrs    ooooooooooooooooxxxx    72.13%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    19.90%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.63%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.33%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,7 +54,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.33%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1884 | 2021-06-26 19:19:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1894 | 2021-06-28 01:20:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | 52 | 2021-06-07 18:06:45  |
 | [certificate](https://github.com/lyy289065406/certificate) | 119 | 2021-06-07 18:05:33  |
 <!-- END_SECTION:activity -->
