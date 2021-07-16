@@ -41,9 +41,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    72.54%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    19.64%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.55%
+Programming    30 hrs    ooooooooooooooooxxxx    72.50%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    19.63%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.27%
 ```
 <!-- END_SECTION:weektime -->
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.27%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1987 | 2021-07-14 11:23:42 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 1990 | 2021-07-16 01:21:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 125 | 2021-07-15 13:14:20  |
 | [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | 52 | 2021-06-07 18:06:45  |
-| [certificate](https://github.com/lyy289065406/certificate) | 119 | 2021-06-07 18:05:33  |
 <!-- END_SECTION:activity -->
 
 
@@ -67,7 +67,6 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.27%
 |:------|:------|:------|
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x697D;&#x58EB;&#x30CA;&#x30C4;&#x30DF;&#x30FB;&#x30B7;&#x30E5;&#x30D0;&#x30EB;&#x30C4;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/23.html) | 2021-05-16 07:23:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
