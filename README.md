@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    72.83%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    19.43%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.53%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.22%
+Programming    30 hrs    ooooooooooooooooxxxx    72.92%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    19.36%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.51%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.21%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.22%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2039 | 2021-08-01 08:29:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 125 | 2021-07-15 13:14:20  |
-| [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | 52 | 2021-06-07 18:06:45  |
+| [music-library](https://github.com/lyy289065406/music-library) | 16 | 2021-08-02 23:51:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 125 | 2021-08-02 23:42:56  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2043 | 2021-08-02 10:29:51  |
 <!-- END_SECTION:activity -->
 
 
