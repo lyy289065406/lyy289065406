@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    72.97%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    19.29%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.52%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.22%
+Programming    30 hrs    ooooooooooooooooxxxx    73.07%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    19.22%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.50%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.20%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,8 +54,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.22%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 169 | 2021-08-07 23:34:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2055 | 2021-08-07 13:27:50  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2061 | 2021-08-09 11:22:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 169 | 2021-08-07 23:34:10  |
 | [music-library](https://github.com/lyy289065406/music-library) | 20 | 2021-08-04 00:02:51  |
 <!-- END_SECTION:activity -->
 
