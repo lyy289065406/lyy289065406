@@ -44,7 +44,7 @@
 Programming    30 hrs    ooooooooooooooooxxxx    73.07%
 Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    19.22%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.50%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.20%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.21%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.20%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2063 | 2021-08-10 09:28:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [music-library](https://github.com/lyy289065406/music-library) | 21 | 2021-08-11 13:22:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2065 | 2021-08-11 09:31:10  |
 | [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 169 | 2021-08-07 23:34:10  |
-| [music-library](https://github.com/lyy289065406/music-library) | 20 | 2021-08-04 00:02:51  |
 <!-- END_SECTION:activity -->
 
 
