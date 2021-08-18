@@ -77,7 +77,7 @@ def help_info():
     return '''
     -h                   帮助信息
     -gtk                 Github Token， 用于 GraphQL 查询
-    -proxy <http/https>  代理服务，如： http://127.0.0.1:8888
+    -proxy <http/socks5> 代理服务，如： http://127.0.0.1:8888, socks5://127.0.0.1:1088
 '''
 
 

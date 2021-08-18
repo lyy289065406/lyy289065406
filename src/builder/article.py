@@ -121,6 +121,7 @@ class ArticleRefresher :
                 timeout = self.timeout,
                 proxies = self.proxies
             )
+            rsp.encoding = 'utf-8'
             if rsp.status_code == 200 :
                 titles = re.findall(r'<title>(.+?)</title>', rsp.text)
                 urls = re.findall(r'<id>(.+?)</id>', rsp.text)
