@@ -41,10 +41,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.07%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.90%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.87%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.16%
+Programming    30 hrs    ooooooooooooooooxxxx    73.17%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.81%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.88%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.14%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,9 +54,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.16%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2144 | 2021-08-20 01:15:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | 2 | 2021-08-19 08:49:32  |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 195 | 2021-08-19 08:39:41  |
+| [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | 303 | 2021-08-21 01:21:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | 2 | 2021-08-21 01:21:11  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2168 | 2021-08-21 01:17:56  |
 <!-- END_SECTION:activity -->
 
 
