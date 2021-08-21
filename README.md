@@ -9,6 +9,15 @@
 </a>
 
 
+
+<a href="https://exp-blog.com" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=articles&theme=nord" />
+</a>
+
+<a href="https://github.com/lyy289065406/threat-broadcast" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=nord" />
+</a>
+
 <a href="https://github.com/lyy289065406/CTF-Solving-Reports" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=CTF-Solving-Reports&theme=nord" />
 </a>
@@ -17,13 +26,6 @@
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=nord" />
 </a>
 
-<a href="https://github.com/lyy289065406/threat-broadcast" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=nord" />
-</a>
-
-<a href="https://exp-blog.com" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=articles&theme=nord" />
-</a>
 <!--END_SECTION:github-readme-stats-->
 
 
@@ -32,7 +34,7 @@
 <!--BGN_SECTION:introduction-->
 - 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
 - ✨ I’m currently rebuilding my [Blog Site](https://github.com/lyy289065406/hexo-blog).
-- 🎓 I’m currently learning [K8S](https://github.com/kubernetes/kubernetes), [GraphQL](https://developer.github.com/v4/) and Zero Trust.
+- 🎓 I’m currently learning [K8S](https://github.com/kubernetes/kubernetes) and [Crack](https://github.com/lyy289065406/crack-notes).
 - 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues).
 <!--BGN_SECTION:introduction-->
 
