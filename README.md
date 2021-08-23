@@ -45,7 +45,7 @@
 ```text
 Programming    30 hrs    ooooooooooooooooxxxx    73.12%
 Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.78%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.97%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.96%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.13%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,9 +56,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.13%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2183 | 2021-08-22 01:16:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 244 | 2021-08-22 01:02:01  |
-| [crack-notes](https://github.com/lyy289065406/crack-notes) | 73 | 2021-08-21 07:17:49  |
+| [jellyfin-docker](https://github.com/lyy289065406/jellyfin-docker) | 2 | 2021-08-23 01:36:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2193 | 2021-08-23 01:11:55  |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 244 | 2021-08-22 11:10:43  |
 <!-- END_SECTION:activity -->
 
 
