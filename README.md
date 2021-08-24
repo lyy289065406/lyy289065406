@@ -43,7 +43,7 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.12%
+Programming    30 hrs    ooooooooooooooooxxxx    73.13%
 Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.78%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.96%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.13%
@@ -56,8 +56,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.13%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [jellyfin-docker](https://github.com/lyy289065406/jellyfin-docker) | 2 | 2021-08-23 01:36:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2193 | 2021-08-23 01:11:55  |
+| [jellyfin-docker](https://github.com/lyy289065406/jellyfin-docker) | 4 | 2021-08-24 01:36:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2208 | 2021-08-24 01:15:12  |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 244 | 2021-08-22 11:10:43  |
 <!-- END_SECTION:activity -->
 
