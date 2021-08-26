@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.18%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.75%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.93%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.14%
+Programming    30 hrs    ooooooooooooooooxxxx    73.26%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.70%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.91%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.12%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.14%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [ebooks-library](https://github.com/lyy289065406/ebooks-library) | 37 | 2021-08-25 01:24:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [music-library](https://github.com/lyy289065406/music-library) | 22 | 2021-08-25 01:23:32  |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2223 | 2021-08-25 01:17:08  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2236 | 2021-08-26 01:14:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [jellyfin-docker](https://github.com/lyy289065406/jellyfin-docker) | 11 | 2021-08-25 10:24:50  |
+| [site-package](https://github.com/lyy289065406/site-package) | 68 | 2021-08-25 10:18:07  |
 <!-- END_SECTION:activity -->
 
 
