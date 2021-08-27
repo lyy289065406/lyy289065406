@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.26%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.70%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.91%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.12%
+Programming    30 hrs    ooooooooooooooooxxxx    73.34%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.62%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.92%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.13%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.12%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2236 | 2021-08-26 01:14:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [jellyfin-docker](https://github.com/lyy289065406/jellyfin-docker) | 11 | 2021-08-25 10:24:50  |
-| [site-package](https://github.com/lyy289065406/site-package) | 68 | 2021-08-25 10:18:07  |
+| [music-library](https://github.com/lyy289065406/music-library) | 24 | 2021-08-27 01:47:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2255 | 2021-08-27 01:21:55  |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 244 | 2021-08-27 00:53:51  |
 <!-- END_SECTION:activity -->
 
 
