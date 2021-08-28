@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.34%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.62%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.92%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.13%
+Programming    30 hrs    ooooooooooooooooxxxx    73.36%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.60%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.91%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.12%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.13%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [music-library](https://github.com/lyy289065406/music-library) | 24 | 2021-08-27 01:47:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2255 | 2021-08-27 01:21:55  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2274 | 2021-08-27 23:26:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [music-library](https://github.com/lyy289065406/music-library) | 24 | 2021-08-27 01:47:37  |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 244 | 2021-08-27 00:53:51  |
 <!-- END_SECTION:activity -->
 
