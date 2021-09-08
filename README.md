@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.45%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.55%
+Programming    30 hrs    ooooooooooooooooxxxx    73.47%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.54%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.88%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.12%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.11%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.12%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2356 | 2021-09-06 23:26:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2373 | 2021-09-07 23:26:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [re0-web](https://github.com/lyy289065406/re0-web) | 146 | 2021-09-05 01:31:53  |
 | [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 37 | 2021-09-01 14:07:46  |
 <!-- END_SECTION:activity -->
