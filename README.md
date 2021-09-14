@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.45%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.48%
+Programming    30 hrs    ooooooooooooooooxxxx    73.46%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.46%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.96%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.11%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.12%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.11%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [mstream-docker](https://github.com/lyy289065406/mstream-docker) | 10 | 2021-09-13 00:29:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | 2 | 2021-09-13 00:18:49  |
-| [hexo-blog](https://github.com/lyy289065406/hexo-blog) | 204 | 2021-09-13 00:11:03  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2452 | 2021-09-13 23:26:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 37 | 2021-09-13 12:50:56  |
+| [ebooks-library](https://github.com/lyy289065406/ebooks-library) | 40 | 2021-09-13 08:27:35  |
 <!-- END_SECTION:activity -->
 
 
