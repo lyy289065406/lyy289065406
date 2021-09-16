@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.20%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.38%
+Programming    30 hrs    ooooooooooooooooxxxx    73.21%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.37%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.93%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.49%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.48%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.49%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 317 | 2021-09-15 01:05:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2467 | 2021-09-14 23:26:15  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2482 | 2021-09-16 01:25:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 317 | 2021-09-15 01:05:10  |
 | [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 37 | 2021-09-13 12:50:56  |
 <!-- END_SECTION:activity -->
 
