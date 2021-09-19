@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.25%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.35%
+Programming    30 hrs    ooooooooooooooooxxxx    73.21%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.40%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.92%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.48%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.47%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.48%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2513 | 2021-09-18 01:21:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 317 | 2021-09-15 01:05:10  |
-| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | 37 | 2021-09-13 12:50:56  |
+| [tmp](https://github.com/lyy289065406/tmp) | 2 | 2021-09-19 01:33:44 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [site-package](https://github.com/lyy289065406/site-package) | 69 | 2021-09-19 01:03:34  |
+| [nexus-docker](https://github.com/lyy289065406/nexus-docker) | 10 | 2021-09-19 00:58:33  |
 <!-- END_SECTION:activity -->
 
 
