@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.21%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.33%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.02%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.45%
+Programming    30 hrs    ooooooooooooooooxxxx    73.32%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.25%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.99%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.43%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.45%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2630 | 2021-09-29 01:17:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2643 | 2021-09-30 01:31:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 193 | 2021-09-30 01:29:13  |
 | [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 31 | 2021-09-29 00:49:22  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 193 | 2021-09-28 15:34:23  |
 <!-- END_SECTION:activity -->
 
 
