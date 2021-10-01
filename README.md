@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.32%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.25%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.99%
+Programming    30 hrs    ooooooooooooooooxxxx    73.28%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.24%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.05%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.43%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,8 +56,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.43%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2643 | 2021-09-30 01:31:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 193 | 2021-09-30 01:29:13  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2653 | 2021-10-01 01:30:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 206 | 2021-09-30 15:39:25  |
 | [trojan-docker](https://github.com/lyy289065406/trojan-docker) | 31 | 2021-09-29 00:49:22  |
 <!-- END_SECTION:activity -->
 
@@ -69,7 +69,7 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.43%
 |:------|:------|:------|
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x81EA;&#x79F0;&#x82F1;&#x96C4;&#x7684;&#x590F;&#x7F8E;&#x30FB;&#x6634;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/30.html) | 2021-09-27 14:53:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x540C;&#x4E61;&#x7684;&#x5BF9;&#x8BDD;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/31.html) | 2021-09-30 01:27:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
