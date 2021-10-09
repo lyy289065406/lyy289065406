@@ -43,8 +43,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.32%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.19%
+Programming    30 hrs    ooooooooooooooooxxxx    73.34%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    18.18%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.08%
 Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.41%
 ```
@@ -56,9 +56,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.41%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2716 | 2021-10-08 01:30:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2730 | 2021-10-09 01:17:42 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 317 | 2021-10-09 01:17:41  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | 217 | 2021-10-08 01:16:48  |
-| [nexus-docker](https://github.com/lyy289065406/nexus-docker) | 15 | 2021-10-08 01:13:16  |
 <!-- END_SECTION:activity -->
 
 
