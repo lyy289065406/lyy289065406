@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.78%
-Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    17.84%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.03%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.34%
+Programming    30 hrs    ooooooooooooooooxxxx    73.88%
+Learning       08 hrs    ooooxxxxxxxxxxxxxxxx    17.78%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.02%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.33%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.34%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [re0-web](https://github.com/lyy289065406/re0-web) | 230 | 2021-10-17 12:37:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2815 | 2021-10-17 08:30:21  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2826 | 2021-10-19 01:28:34 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 230 | 2021-10-17 12:37:00  |
 | [music-library](https://github.com/lyy289065406/music-library) | 31 | 2021-10-11 16:05:51  |
 <!-- END_SECTION:activity -->
 
