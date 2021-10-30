@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    74.25%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    17.49%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.99%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.27%
+Programming    30 hrs    ooooooooooooooooxxxx    74.32%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    17.46%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.97%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.25%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.27%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2929 | 2021-10-29 01:18:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [tenable-tools](https://github.com/lyy289065406/tenable-tools) | 8 | 2021-10-28 13:49:12  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 245 | 2021-10-27 16:25:02  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 2941 | 2021-10-29 23:27:51 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [steam-offers](https://github.com/lyy289065406/steam-offers) | 3 | 2021-10-29 12:56:57  |
+| [tenable-tools](https://github.com/lyy289065406/tenable-tools) | 10 | 2021-10-29 05:11:34  |
 <!-- END_SECTION:activity -->
 
 
