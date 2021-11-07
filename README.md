@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.48%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    16.98%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.88%
-Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.66%
+Programming    30 hrs    ooooooooooooooooxxxx    73.28%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    16.93%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.87%
+Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.92%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.66%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [steam-discount](https://github.com/lyy289065406/steam-discount) | 318 | 2021-11-06 01:30:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3018 | 2021-11-06 01:17:17  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 245 | 2021-11-03 17:29:54  |
+| [steam-discount](https://github.com/lyy289065406/steam-discount) | 378 | 2021-11-07 01:44:50 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3023 | 2021-11-06 16:43:48  |
+| [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 5 | 2021-11-06 13:21:17  |
 <!-- END_SECTION:activity -->
 
 
