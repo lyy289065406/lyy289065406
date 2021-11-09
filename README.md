@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    30 hrs    ooooooooooooooooxxxx    73.09%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    16.93%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.85%
-Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.14%
+Programming    30 hrs    ooooooooooooooooxxxx    73.08%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    16.79%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.82%
+Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.32%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.14%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [steam-discount](https://github.com/lyy289065406/steam-discount) | 424 | 2021-11-08 01:32:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3031 | 2021-11-08 01:19:56  |
-| [music-library](https://github.com/lyy289065406/music-library) | 32 | 2021-11-07 16:13:07  |
+| [steam-discount](https://github.com/lyy289065406/steam-discount) | 470 | 2021-11-09 01:32:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pypdm](https://github.com/lyy289065406/pypdm) | 65 | 2021-11-09 01:30:58  |
+| [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | 15 | 2021-11-09 01:27:44  |
 <!-- END_SECTION:activity -->
 
 
