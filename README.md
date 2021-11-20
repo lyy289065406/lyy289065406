@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    29 hrs    ooooooooooooooooxxxx    71.37%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    16.29%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.97%
-Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    07.37%
+Programming    29 hrs    ooooooooooooooooxxxx    71.03%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    16.22%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.20%
+Playing        04 hrs    ooxxxxxxxxxxxxxxxxxx    07.55%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    07.37%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [steam-discount](https://github.com/lyy289065406/steam-discount) | 966 | 2021-11-19 01:34:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3139 | 2021-11-19 01:20:08  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 315 | 2021-11-18 18:51:14  |
+| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1015 | 2021-11-20 01:32:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3158 | 2021-11-20 01:18:28  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | 371 | 2021-11-19 19:00:14  |
 <!-- END_SECTION:activity -->
 
 
@@ -69,7 +69,7 @@ Playing        03 hrs    ooxxxxxxxxxxxxxxxxxx    07.37%
 |:------|:------|:------|
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x6076;&#x6BD2;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/39.html) | 2021-11-14 16:01:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x6076;&#x6BD2;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/39.html) | 2021-11-19 16:27:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
