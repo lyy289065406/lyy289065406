@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    69.32%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.73%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.11%
-Playing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.83%
+Programming    28 hrs    ooooooooooooooxxxxxx    69.28%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.66%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.09%
+Playing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.97%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.83%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1608 | 2021-12-03 01:34:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3270 | 2021-12-03 01:20:32  |
+| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1654 | 2021-12-04 01:34:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3282 | 2021-12-04 01:20:31  |
 | [music-library](https://github.com/lyy289065406/music-library) | 35 | 2021-11-30 06:24:45  |
 <!-- END_SECTION:activity -->
 
