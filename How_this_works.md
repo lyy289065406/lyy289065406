@@ -27,4 +27,3 @@
 ### 最近文章
 
 直接读取 [exp-blog.com](https://exp-blog.com) 的 [sitemap](https://exp-blog.com/gitbook/book/sitemap.xml) 或 [rss](https://exp-blog.com/gitbook/book/rss.xml) 提取最近发表的 TOP3 文章列表。
-
