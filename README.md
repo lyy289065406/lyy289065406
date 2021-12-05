@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    69.28%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.66%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.09%
-Playing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.97%
+Programming    28 hrs    ooooooooooooooxxxxxx    69.15%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.62%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.08%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.15%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.97%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1654 | 2021-12-04 01:34:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3282 | 2021-12-04 01:20:31  |
-| [music-library](https://github.com/lyy289065406/music-library) | 35 | 2021-11-30 06:24:45  |
+| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1700 | 2021-12-05 01:41:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3286 | 2021-12-04 15:30:29  |
+| [nickname-checker](https://github.com/lyy289065406/nickname-checker) | 3 | 2021-12-04 02:19:52  |
 <!-- END_SECTION:activity -->
 
 
