@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    69.00%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.63%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.06%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.31%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.89%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.59%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.04%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.47%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.31%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1746 | 2021-12-06 01:37:35 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3290 | 2021-12-06 01:23:32  |
-| [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 33 | 2021-12-05 06:08:02  |
+| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1792 | 2021-12-07 01:40:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3305 | 2021-12-07 01:29:50  |
+| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 3 | 2021-12-06 18:12:10  |
 <!-- END_SECTION:activity -->
 
 
