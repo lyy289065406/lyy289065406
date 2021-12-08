@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.89%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.59%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.04%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.47%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.88%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.53%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.01%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.58%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.47%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1792 | 2021-12-07 01:40:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3305 | 2021-12-07 01:29:50  |
-| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 3 | 2021-12-06 18:12:10  |
+| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3318 | 2021-12-08 01:25:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1831 | 2021-12-08 00:41:49  |
+| [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | 28 | 2021-12-07 16:48:33  |
 <!-- END_SECTION:activity -->
 
 
