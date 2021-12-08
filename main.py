@@ -8,7 +8,7 @@ import sys
 import re
 import time
 import datetime
-from config import *
+from src.config import *
 from src.utils import log
 from src.utils import _git
 from src.builder import weektime
@@ -52,7 +52,7 @@ def main(help, github_token, proxy):
 
             log.info("正在构造 [最近活跃] 数据 ...")
             try :
-                data_ac = activity.build(repos, settings.app['article_num'])
+                data_ac = activity.build(repos, settings.app['activity_num'])
                 readme = reflash(readme, data_ac, 'activity')
                 log.info(data_ac)
             except :
@@ -97,7 +97,7 @@ def reflash(readme, data, tag) :
 def get_sys_args(sys_args) :
     help = False
     github_token = settings.github['gtk']
-    proxy = settings.app['proxy']
+    proxy = settings.github['proxy']
 
     idx = 1
     size = len(sys_args)

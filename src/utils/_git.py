@@ -5,7 +5,7 @@
 # -----------------------------------------------
 
 from src.utils import log
-from config import *
+from src.config import *
 from src.bean.repo import *
 from src.utils.graphql_client import _GraphqlClient
 

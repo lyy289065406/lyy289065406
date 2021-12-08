@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.88%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.53%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.84%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.55%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.01%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.58%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.60%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.58%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [threat-broadcast](https://github.com/lyy289065406/threat-broadcast) | 3318 | 2021-12-08 01:25:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [steam-discount](https://github.com/lyy289065406/steam-discount) | 1831 | 2021-12-08 00:41:49  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 8 | 2021-12-08 15:51:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | 28 | 2021-12-07 16:48:33  |
+| [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 38 | 2021-12-07 16:05:18  |
+| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 11 | 2021-12-07 15:54:59  |
+| [pypi-template](https://github.com/lyy289065406/pypi-template) | 6 | 2021-12-07 15:04:15  |
 <!-- END_SECTION:activity -->
 
 
@@ -69,6 +71,8 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.58%
 |:------|:------|:------|
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
+| [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
+| [articles](https://github.com/lyy289065406/articles) | [Github Desktop 代理设置](https://exp-blog.com/scm/githubdesktop-dai-li-she-zhi/) | 2021-03-07 03:27:33  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x6076;&#x6BD2;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/39.html) | 2021-11-19 16:27:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 

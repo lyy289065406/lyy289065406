@@ -4,7 +4,7 @@
 # @Time   : 2020/8/11 22:17
 # -----------------------------------------------
 
-from config import *
+from src.config import *
 
 TPL_PATH = '%s/tpl/activity.tpl' % PRJ_DIR
 
