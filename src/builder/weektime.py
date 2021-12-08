@@ -5,7 +5,7 @@
 # -----------------------------------------------
 
 import math
-from src.cfg.env import *
+from config import *
 
 TPL_PATH = '%s/tpl/weektime.tpl' % PRJ_DIR
 

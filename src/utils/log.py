@@ -10,7 +10,7 @@
 import traceback
 import logging
 from logging.handlers import TimedRotatingFileHandler
-from src.cfg.env import PRJ_DIR
+from config import PRJ_DIR
 
 RUN_LOG = '%s/log/run.log' % PRJ_DIR
 ERR_LOG = '%s/log/err.log' % PRJ_DIR
@@ -49,6 +49,7 @@ def init(runlog = RUN_LOG, errlog = ERR_LOG):
 
     # 禁用第三方日志
     logging.getLogger("requests").setLevel(logging.FATAL)
+    logging.getLogger('chardet.charsetprober').setLevel(logging.FATAL)
 
 
 

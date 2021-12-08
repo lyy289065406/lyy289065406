@@ -7,7 +7,7 @@
 import requests
 import re
 import time
-from src.cfg.env import *
+from config import *
 from src.utils import _git
 
 
@@ -30,7 +30,7 @@ def build(github_token, proxy='') :
 
     ar = ArticleRefresher(github_token, EXP_BLOG_REPO, EXP_BLOG_URL, proxy)
     # ar.reflash()      # RSS 会自动排序，不需要缓存到本地
-    rows.extend(ar.get_tops(MODE_RSS, 2))
+    rows.extend(ar.get_tops(MODE_RSS, settings.app['article_num']))
 
     ar = ArticleRefresher(github_token, RE0_WEB_REPO, RE0_WEB_URL, proxy)
     ar.reflash()        # sitemap 无序，需要缓存到本地
@@ -49,7 +49,7 @@ class ArticleRefresher :
     def __init__(self, github_token, repo_name, url, proxy='', timeout=60, charset=CHARSET) :
         self.gtk = github_token
         self.repo_name = repo_name
-        self.github_url = GITHUB_URL + repo_name
+        self.github_url = settings.github['url'] + repo_name
         self.url = url
         self.save_path = SAVE_PATH % self.repo_name
         self.save_cache = []
@@ -88,7 +88,7 @@ class ArticleRefresher :
                     'article': article.title, 
                     'article_url': article.url, 
                     'time': article.time, 
-                    'new_flag': NEW_FLAG if cnt == 0 else ''
+                    'new_flag': settings.app['new_flag_img'] if cnt == 0 else ''
                 })
                 cnt += 1
         return tops

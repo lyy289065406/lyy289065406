@@ -5,14 +5,14 @@
 # -----------------------------------------------
 
 from src.utils import log
-from src.cfg.env import *
+from config import *
 from src.bean.repo import *
 from src.utils.graphql_client import _GraphqlClient
 
 
 def query_repos(github_token, branch='master', iter=100, proxy=''):
     repos = []
-    client = _GraphqlClient(endpoint=GITHUB_GRAPHQL)
+    client = _GraphqlClient(endpoint=settings.github['graphql'])
     has_next_page = True
     next_cursor = None
     while has_next_page:
@@ -86,9 +86,9 @@ query {
 
 
 def query_filetime(github_token, repo, filepath, proxy=''):
-    client = _GraphqlClient(endpoint=GITHUB_GRAPHQL)
+    client = _GraphqlClient(endpoint=settings.github['graphql'])
     data = client.exec(
-        query=_to_graphql_filetime(GITHUB_OWNER, repo, filepath),
+        query=_to_graphql_filetime(settings.github['owner'], repo, filepath),
         headers={ "Authorization": "Bearer {}".format(github_token) },
         proxy=proxy
     )

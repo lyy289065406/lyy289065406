@@ -4,13 +4,9 @@
 # @Time   : 2020/8/11 22:17
 # -----------------------------------------------
 
-from src.cfg.env import *
+from config import *
 
 TPL_PATH = '%s/tpl/activity.tpl' % PRJ_DIR
-SKIP_REPOS = [
-    GITHUB_OWNER, 
-    'crop-circles'
-]
 
 def build(repos, top=3) :
     with open(TPL_PATH, 'r') as file :
@@ -19,7 +15,7 @@ def build(repos, top=3) :
     rows = []
     cnt = 0
     for repo in repos :
-        if repo.name in SKIP_REPOS :
+        if repo.name in settings.skip_repos :
             continue
 
         row = tpl % {
@@ -27,7 +23,7 @@ def build(repos, top=3) :
             'repo_url': repo.url, 
             'count': repo.commit_cnt, 
             'time': repo.pushtime, 
-            'new_flag': NEW_FLAG if cnt == 0 else ''
+            'new_flag': settings.app['new_flag_img'] if cnt == 0 else ''
         }
         rows.append(row)
 
