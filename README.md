@@ -44,9 +44,9 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    28 hrs    ooooooooooooooxxxxxx    68.82%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.54%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.00%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.64%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.51%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.98%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.69%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.64%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 8 | 2021-12-08 15:51:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 14 | 2021-12-09 16:54:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | 28 | 2021-12-07 16:48:33  |
 | [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 38 | 2021-12-07 16:05:18  |
 | [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 11 | 2021-12-07 15:54:59  |
