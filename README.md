@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.76%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.69%
 Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.49%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.98%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.78%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.97%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.86%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.78%
 <!-- BGN_SECTION:activity -->
 | repo | commit count | push time |
 |:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 14 | 2021-12-09 16:54:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2021-44228](https://github.com/lyy289065406/CVE-2021-44228) | 2 | 2021-12-12 01:42:58 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 17 | 2021-12-11 17:56:53  |
+| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 12 | 2021-12-11 06:08:21  |
 | [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | 28 | 2021-12-07 16:48:33  |
 | [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 38 | 2021-12-07 16:05:18  |
-| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 11 | 2021-12-07 15:54:59  |
-| [pypi-template](https://github.com/lyy289065406/pypi-template) | 6 | 2021-12-07 15:04:15  |
 <!-- END_SECTION:activity -->
 
 
