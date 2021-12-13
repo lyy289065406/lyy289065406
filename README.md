@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.57%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.54%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.96%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.93%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.54%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.53%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.95%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.98%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -54,13 +54,13 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    10.93%
 
 ### 🔥  Recent activity
 <!-- BGN_SECTION:activity -->
-| repo | commit count | push time |
-|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 36 | 2021-12-12 17:40:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 13 | 2021-12-12 16:23:42  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | 392 | 2021-12-12 13:00:54  |
-| [CVE-2021-44228](https://github.com/lyy289065406/CVE-2021-44228) | 3 | 2021-12-12 11:42:46  |
-| [nexus-docker](https://github.com/lyy289065406/nexus-docker) | 15 | 2021-12-12 09:53:14  |
+| repo | description | commit count | push time |
+|:------|:------|:------|:------|
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练外挂：一款 “无法检测” 和 “无法封禁” 的 FPS 作弊器 | 36 | 2021-12-12 17:40:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 13 | 2021-12-12 16:23:42  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 392 | 2021-12-12 13:00:54  |
+| [CVE-2021-44228](https://github.com/lyy289065406/CVE-2021-44228) | log4j <= 2.14.1 严重 RCE 注入漏洞（Log4Shell） | 3 | 2021-12-12 11:42:46  |
+| [nexus-docker](https://github.com/lyy289065406/nexus-docker) | docker 一键部署 nexus 仓库 | 15 | 2021-12-12 09:53:14  |
 <!-- END_SECTION:activity -->
 
 

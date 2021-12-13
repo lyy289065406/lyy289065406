@@ -20,6 +20,14 @@ sys.stdout.reconfigure(encoding=CHARSET)
 README_PATH = '%s/README.md' % PRJ_DIR
 
 
+def help_info():
+    return '''
+    -h                   帮助信息
+    -gtk                 Github Token， 用于 GraphQL 查询
+    -proxy <http/socks5> 代理服务，如： http://127.0.0.1:8888, socks5://127.0.0.1:1088
+'''
+
+
 def main(help, github_token, proxy):
     if help == True :
         log.info(help_info())
@@ -70,15 +78,6 @@ def main(help, github_token, proxy):
         with open(README_PATH, 'w', encoding=CHARSET) as file :
             file.write(readme)
         log.info("已更新 [README.md]")
-
-
-
-def help_info():
-    return '''
-    -h                   帮助信息
-    -gtk                 Github Token， 用于 GraphQL 查询
-    -proxy <http/socks5> 代理服务，如： http://127.0.0.1:8888, socks5://127.0.0.1:1088
-'''
 
 
 

@@ -21,6 +21,7 @@ def build(repos, top=3) :
         row = tpl % {
             'repo': repo.name, 
             'repo_url': repo.url, 
+            'desc': repo.desc, 
             'count': repo.commit_cnt, 
             'time': repo.pushtime, 
             'new_flag': settings.app['new_flag_img'] if cnt == 0 else ''
@@ -32,8 +33,8 @@ def build(repos, top=3) :
             break
 
     return """
-| repo | commit count | push time |
-|:------|:------|:------|
+| repo | description | commit count | push time |
+|:------|:------|:------|:------|
 %s
 """ % '\n'.join(rows)
 

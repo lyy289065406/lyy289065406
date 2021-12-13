@@ -3,6 +3,8 @@
 # @Author : EXP
 # @Time   : 2020/4/28 21:56
 # -----------------------------------------------
+# https://developer.github.com/v4/object/repository/
+# -----------------------------------------------
 
 import requests
 from python_graphql_client import GraphqlClient
