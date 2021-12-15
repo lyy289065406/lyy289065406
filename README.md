@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.51%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.53%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.95%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.01%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.45%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.52%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.94%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.09%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.01%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练外挂：一款 “无法检测” 和 “无法封禁” 的 FPS 作弊器 | 37 | 2021-12-13 17:10:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 41 | 2021-12-14 16:08:46 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 13 | 2021-12-12 16:23:42  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 392 | 2021-12-12 13:00:54  |
 | [CVE-2021-44228](https://github.com/lyy289065406/CVE-2021-44228) | log4j <= 2.14.1 严重 RCE 注入漏洞（Log4Shell） | 3 | 2021-12-12 11:42:46  |
