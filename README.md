@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.38%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.42%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.90%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.30%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.29%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.44%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.89%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.38%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.30%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [music-library](https://github.com/lyy289065406/music-library) | 个人音乐库 | 37 | 2021-12-16 16:48:35 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 42 | 2021-12-15 16:56:37  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 6 | 2021-12-19 02:05:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater_bak](https://github.com/lyy289065406/AI-visual-training-cheater_bak) | AI 视觉训练辅助器 | 47 | 2021-12-18 16:02:59  |
+| [music-library](https://github.com/lyy289065406/music-library) | 个人音乐库 | 37 | 2021-12-16 16:48:35  |
 | [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 13 | 2021-12-12 16:23:42  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 392 | 2021-12-12 13:00:54  |
-| [CVE-2021-44228](https://github.com/lyy289065406/CVE-2021-44228) | log4j <= 2.14.1 严重 RCE 注入漏洞（Log4Shell） | 3 | 2021-12-12 11:42:46  |
 <!-- END_SECTION:activity -->
 
 
