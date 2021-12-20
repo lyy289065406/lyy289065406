@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.29%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.44%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.89%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.38%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.14%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.39%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.88%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.59%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.38%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 6 | 2021-12-19 02:05:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [AI-visual-training-cheater_bak](https://github.com/lyy289065406/AI-visual-training-cheater_bak) | AI 视觉训练辅助器 | 47 | 2021-12-18 16:02:59  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 34 | 2021-12-19 13:54:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [mmpose-docker](https://github.com/lyy289065406/mmpose-docker) | docker 一键部署 mmpose | 49 | 2021-12-19 13:36:30  |
+| [ebooks-library](https://github.com/lyy289065406/ebooks-library) | 个人电子书库 | 43 | 2021-12-19 10:42:05  |
 | [music-library](https://github.com/lyy289065406/music-library) | 个人音乐库 | 37 | 2021-12-16 16:48:35  |
 | [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 13 | 2021-12-12 16:23:42  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 392 | 2021-12-12 13:00:54  |
 <!-- END_SECTION:activity -->
 
 
