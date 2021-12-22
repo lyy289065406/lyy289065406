@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.09%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.37%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.87%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.66%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.12%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.31%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.85%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.72%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.66%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 34 | 2021-12-19 13:54:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 37 | 2021-12-21 14:21:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [mmpose-docker](https://github.com/lyy289065406/mmpose-docker) | docker 一键部署 mmpose | 49 | 2021-12-19 13:36:30  |
 | [ebooks-library](https://github.com/lyy289065406/ebooks-library) | 个人电子书库 | 43 | 2021-12-19 10:42:05  |
 | [music-library](https://github.com/lyy289065406/music-library) | 个人音乐库 | 37 | 2021-12-16 16:48:35  |
