@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.05%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.23%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.81%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.91%
+Programming    28 hrs    ooooooooooooooxxxxxx    68.02%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.20%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.80%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.98%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.91%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手 | 2 | 2021-12-24 17:45:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 18 | 2021-12-26 01:52:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 29 | 2021-12-25 12:55:48  |
 | [calibre-docker](https://github.com/lyy289065406/calibre-docker) | docker 一键部署 calibre 在线书库 | 39 | 2021-12-24 17:16:41  |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 317 | 2021-12-23 15:44:21  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 38 | 2021-12-22 14:10:24  |
-| [es-cluster-docker](https://github.com/lyy289065406/es-cluster-docker) | None | 4 | 2021-12-22 10:36:24  |
 <!-- END_SECTION:activity -->
 
 
