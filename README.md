@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    68.02%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.20%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.80%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.98%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.96%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.17%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.79%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.07%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    11.98%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 18 | 2021-12-26 01:52:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-register](https://github.com/lyy289065406/py-register) | python 软件注册码、机器码 | 3 | 2021-12-27 01:26:59 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 30 | 2021-12-26 14:34:16  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 47 | 2021-12-26 03:45:28  |
 | [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 29 | 2021-12-25 12:55:48  |
 | [calibre-docker](https://github.com/lyy289065406/calibre-docker) | docker 一键部署 calibre 在线书库 | 39 | 2021-12-24 17:16:41  |
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 317 | 2021-12-23 15:44:21  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 38 | 2021-12-22 14:10:24  |
 <!-- END_SECTION:activity -->
 
 
