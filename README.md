@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.96%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.17%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.79%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.07%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.97%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.14%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.77%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.11%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.07%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [py-register](https://github.com/lyy289065406/py-register) | python 软件注册码、机器码 | 3 | 2021-12-27 01:26:59 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 30 | 2021-12-26 14:34:16  |
+| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 10 | 2021-12-27 18:21:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 31 | 2021-12-27 17:16:05  |
+| [es-cluster-docker](https://github.com/lyy289065406/es-cluster-docker) | None | 5 | 2021-12-27 04:13:10  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 47 | 2021-12-26 03:45:28  |
 | [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 29 | 2021-12-25 12:55:48  |
-| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | docker 一键部署 calibre 在线书库 | 39 | 2021-12-24 17:16:41  |
 <!-- END_SECTION:activity -->
 
 
