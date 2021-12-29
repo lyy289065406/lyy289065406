@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.97%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.14%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.77%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.11%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.88%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.15%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.80%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.18%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.11%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 10 | 2021-12-27 18:21:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 31 | 2021-12-27 17:16:05  |
+| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 32 | 2021-12-28 18:43:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 19 | 2021-12-28 18:42:59  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 401 | 2021-12-28 17:42:25  |
 | [es-cluster-docker](https://github.com/lyy289065406/es-cluster-docker) | None | 5 | 2021-12-27 04:13:10  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 47 | 2021-12-26 03:45:28  |
-| [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 29 | 2021-12-25 12:55:48  |
 <!-- END_SECTION:activity -->
 
 
@@ -73,7 +73,7 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.11%
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
 | [articles](https://github.com/lyy289065406/articles) | [Github Desktop 代理设置](https://exp-blog.com/scm/githubdesktop-dai-li-she-zhi/) | 2021-03-07 03:27:33  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x6076;&#x6BD2;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/39.html) | 2021-11-19 16:27:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8336;&#x6B47;&#x8C08;&#x8BDD;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/41.html) | 2021-12-28 16:30:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
