@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.88%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.15%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.80%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.18%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.80%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.16%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.79%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.25%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.18%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 32 | 2021-12-28 18:43:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 19 | 2021-12-28 18:42:59  |
+| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 35 | 2021-12-29 17:00:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 28 | 2021-12-29 16:22:25  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 401 | 2021-12-28 17:42:25  |
 | [es-cluster-docker](https://github.com/lyy289065406/es-cluster-docker) | None | 5 | 2021-12-27 04:13:10  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 47 | 2021-12-26 03:45:28  |
