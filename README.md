@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.77%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.14%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.78%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.32%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.78%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.10%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.76%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.36%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.32%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 42 | 2021-12-30 18:07:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [py-register-by-EXP](https://github.com/lyy289065406/py-register-by-EXP) | 私人用的 python 注册机（py-gen-mur） | 6 | 2021-12-30 17:53:47  |
+| [nickname-checker](https://github.com/lyy289065406/nickname-checker) | 用户昵称合规检查 | 5 | 2022-01-01 02:07:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [my-py-register](https://github.com/lyy289065406/my-py-register) | 私人用的 python 注册机（py-gen-mur） | 11 | 2022-01-01 01:57:19  |
+| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 43 | 2021-12-31 18:43:55  |
+| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 34 | 2021-12-31 18:34:08  |
 | [crack-notes](https://github.com/lyy289065406/crack-notes) | 破解学习笔记 | 74 | 2021-12-30 03:20:29  |
-| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 28 | 2021-12-29 16:22:25  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 401 | 2021-12-28 17:42:25  |
 <!-- END_SECTION:activity -->
 
 
