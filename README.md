@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    28 hrs    ooooooooooooooxxxxxx    67.78%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.10%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.76%
-Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.36%
+Programming    28 hrs    ooooooooooooooxxxxxx    67.76%
+Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.09%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.75%
+Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.40%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        05 hrs    ooooxxxxxxxxxxxxxxxx    12.36%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [nickname-checker](https://github.com/lyy289065406/nickname-checker) | 用户昵称合规检查 | 5 | 2022-01-01 02:07:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [my-py-register](https://github.com/lyy289065406/my-py-register) | 私人用的 python 注册机（py-gen-mur） | 11 | 2022-01-01 01:57:19  |
-| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 43 | 2021-12-31 18:43:55  |
-| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 34 | 2021-12-31 18:34:08  |
-| [crack-notes](https://github.com/lyy289065406/crack-notes) | 破解学习笔记 | 74 | 2021-12-30 03:20:29  |
+| [music-library](https://github.com/lyy289065406/music-library) | 个人音乐库 | 38 | 2022-01-01 15:23:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 48 | 2022-01-01 15:20:25  |
+| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（微商助手，无需企业认证） | 58 | 2022-01-01 11:21:57  |
+| [my-py-register](https://github.com/lyy289065406/my-py-register) | 私人用的 python 注册机（py-gen-mur） | 13 | 2022-01-01 09:23:11  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 401 | 2022-01-01 09:19:23  |
 <!-- END_SECTION:activity -->
 
 
