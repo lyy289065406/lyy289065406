@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    67.46%
-Learning       07 hrs    ooooxxxxxxxxxxxxxxxx    15.01%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.75%
-Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    12.78%
+Programming    27 hrs    ooooooooooooooxxxxxx    67.40%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.99%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.74%
+Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    12.88%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    12.78%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 65 | 2022-01-05 18:52:06 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 71 | 2022-01-06 17:44:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [music-library](https://github.com/lyy289065406/music-library) | 个人音乐库 | 43 | 2022-01-06 17:43:44  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | Re0：从零开始的异世界生活 （WEB版） | 409 | 2022-01-04 00:39:45  |
-| [music-library](https://github.com/lyy289065406/music-library) | 个人音乐库 | 41 | 2022-01-03 06:05:25  |
 | [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（无需企业认证） | 63 | 2022-01-02 04:05:36  |
 | [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 39 | 2022-01-02 03:53:22  |
 <!-- END_SECTION:activity -->
