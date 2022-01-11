@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    67.14%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.96%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.74%
-Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    13.17%
+Programming    27 hrs    ooooooooooooooxxxxxx    67.09%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.94%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.73%
+Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    13.24%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    13.17%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 89 | 2022-01-09 18:32:59 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 91 | 2022-01-10 17:27:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [linux-os-docker](https://github.com/lyy289065406/linux-os-docker) | docker 一键部署 linux 纯净系统集 | 4 | 2022-01-09 04:46:27  |
 | [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（无需企业认证） | 63 | 2022-01-02 04:05:36  |
 | [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 39 | 2022-01-02 03:53:22  |
