@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.72%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.77%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.67%
-Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    13.83%
+Programming    27 hrs    ooooooooooooooxxxxxx    66.73%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.72%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.65%
+Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    13.90%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    13.83%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 125 | 2022-01-16 16:35:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 132 | 2022-01-18 16:26:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [linux-os-docker](https://github.com/lyy289065406/linux-os-docker) | docker 一键部署 linux 纯净系统集 | 5 | 2022-01-15 08:55:14  |
 | [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-01-15 03:30:05  |
 | [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（无需企业认证） | 63 | 2022-01-02 04:05:36  |
