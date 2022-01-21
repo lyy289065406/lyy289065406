@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.76%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.67%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.63%
-Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    13.94%
+Programming    27 hrs    ooooooooooooooxxxxxx    66.78%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.62%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.62%
+Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    13.98%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    13.94%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 134 | 2022-01-19 17:13:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CSGO_AI](https://github.com/lyy289065406/CSGO_AI) | None | 1 | 2022-01-20 16:20:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 134 | 2022-01-19 17:13:27  |
 | [linux-os-docker](https://github.com/lyy289065406/linux-os-docker) | docker 一键部署 linux 纯净系统集 | 5 | 2022-01-15 08:55:14  |
 | [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-01-15 03:30:05  |
 | [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（无需企业认证） | 63 | 2022-01-02 04:05:36  |
-| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 39 | 2022-01-02 03:53:22  |
 <!-- END_SECTION:activity -->
 
 
