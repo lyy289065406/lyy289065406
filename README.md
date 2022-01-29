@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.58%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.42%
+Programming    27 hrs    ooooooooooooooxxxxxx    66.52%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.41%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.54%
-Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.46%
+Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.53%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.46%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 155 | 2022-01-27 17:32:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 156 | 2022-01-28 17:49:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 40 | 2022-01-26 15:57:51  |
 | [CSGO_AI](https://github.com/lyy289065406/CSGO_AI) | None | 1 | 2022-01-20 16:20:43  |
 | [linux-os-docker](https://github.com/lyy289065406/linux-os-docker) | docker 一键部署 linux 纯净系统集 | 5 | 2022-01-15 08:55:14  |
