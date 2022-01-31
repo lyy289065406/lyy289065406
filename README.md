@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.46%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.39%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.53%
-Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.61%
+Programming    27 hrs    ooooooooooooooxxxxxx    66.36%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.37%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.59%
+Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.69%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.61%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-single-client](https://github.com/lyy289065406/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 24 | 2022-01-29 16:27:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 157 | 2022-01-29 16:19:45  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 161 | 2022-01-31 01:44:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-single-client](https://github.com/lyy289065406/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 24 | 2022-01-29 16:27:36  |
 | [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 40 | 2022-01-26 15:57:51  |
 | [CSGO_AI](https://github.com/lyy289065406/CSGO_AI) | None | 1 | 2022-01-20 16:20:43  |
 | [linux-os-docker](https://github.com/lyy289065406/linux-os-docker) | docker 一键部署 linux 纯净系统集 | 5 | 2022-01-15 08:55:14  |
@@ -73,7 +73,7 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.61%
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x91CE;&#x5FC3;&#x4E4B;&#x517D;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/42.html) | 2022-01-03 18:14:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x661F;&#x4E4B;&#x9082;&#x9005;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/49.html) | 2022-01-30 05:03:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
