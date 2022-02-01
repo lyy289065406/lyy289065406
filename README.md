@@ -44,9 +44,9 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    27 hrs    ooooooooooooooxxxxxx    66.36%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.37%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.59%
-Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.69%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.32%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
+Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.72%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -73,7 +73,7 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.69%
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x661F;&#x4E4B;&#x9082;&#x9005;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/49.html) | 2022-01-30 05:03:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x98CE;&#x666F;&#x4F18;&#x7F8E;&#x7684;&#x300C;&#x6D1E;&#x7A74;&#x300D;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/50.html) | 2022-01-31 16:07:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
