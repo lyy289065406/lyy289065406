@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.24%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.25%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.69%
-Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.82%
+Programming    27 hrs    ooooooooooooooxxxxxx    66.17%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.24%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.70%
+Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.89%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.82%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 167 | 2022-02-02 14:34:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 168 | 2022-02-03 14:35:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [py-color-log](https://github.com/lyy289065406/py-color-log) | python 有颜色的日志 | 7 | 2022-02-02 10:11:49  |
 | [pypi-template](https://github.com/lyy289065406/pypi-template) | pypi 开发模板 | 10 | 2022-02-02 10:04:35  |
 | [ro-single-client](https://github.com/lyy289065406/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 24 | 2022-01-29 16:27:36  |
@@ -73,7 +73,7 @@ Playing        06 hrs    ooooxxxxxxxxxxxxxxxx    14.82%
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x604B;&#x6155;&#x4E4B;&#x5FC3;&#x7EDD;&#x4E0D;&#x8BA9;&#x6B65;&#x300F;&#xFF08;&#x672A;&#x6DA6;&#x8272;&#xFF09;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/52.html) | 2022-02-02 02:26:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5341;&#x4E00;&#x79D2;&#x7684;&#x524D;&#x65B9;&#x300F;&#xFF08;&#x672A;&#x6DA6;&#x8272;&#xFF09;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/53.html) | 2022-02-03 02:38:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
