@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    66.01%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.20%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.97%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    14.18%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.75%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    15.04%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    15.11%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    15.04%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 175 | 2022-02-05 06:34:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 176 | 2022-02-06 04:44:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 8 | 2022-02-04 08:30:39  |
 | [pypi-template](https://github.com/lyy289065406/pypi-template) | pypi 开发模板 | 10 | 2022-02-02 10:04:35  |
 | [ro-single-client](https://github.com/lyy289065406/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 24 | 2022-01-29 16:27:36  |
