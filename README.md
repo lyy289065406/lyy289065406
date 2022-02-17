@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.80%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.95%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.66%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    15.59%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.76%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.94%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.65%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    15.65%
 ```
 <!-- END_SECTION:weektime -->
 
