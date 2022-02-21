@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.65%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.87%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.65%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    15.83%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.59%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.85%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.64%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    15.91%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    15.83%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 30 | 2022-02-19 18:36:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 33 | 2022-02-20 04:29:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 177 | 2022-02-17 16:28:28  |
 | [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 8 | 2022-02-04 08:30:39  |
 | [pypi-template](https://github.com/lyy289065406/pypi-template) | pypi 开发模板 | 10 | 2022-02-02 10:04:35  |
