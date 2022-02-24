@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.46%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.84%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.64%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.06%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.43%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.82%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.63%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.12%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.06%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 2 | 2022-02-22 18:35:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 6 | 2022-02-23 18:04:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 14 | 2022-02-21 06:52:29  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 177 | 2022-02-17 16:28:28  |
 | [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 8 | 2022-02-04 08:30:39  |
