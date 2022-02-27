@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.35%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.79%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.62%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.24%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.26%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.84%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.61%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.29%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.24%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 8 | 2022-02-25 02:48:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 14 | 2022-02-21 06:52:29  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 177 | 2022-02-17 16:28:28  |
-| [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 8 | 2022-02-04 08:30:39  |
-| [pypi-template](https://github.com/lyy289065406/pypi-template) | pypi 开发模板 | 10 | 2022-02-02 10:04:35  |
+| [nexus-docker](https://github.com/lyy289065406/nexus-docker) | docker 一键部署 nexus 仓库 | 15 | 2022-02-26 18:05:44 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 9 | 2022-02-26 18:01:31  |
+| [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问 | 48 | 2022-02-26 17:58:57  |
+| [spring-boot-demos](https://github.com/lyy289065406/spring-boot-demos) | spring-boot 各种场景下的示例代码 | 2 | 2022-02-26 03:48:58  |
+| [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 8 | 2022-02-25 02:48:10  |
 <!-- END_SECTION:activity -->
 
 
