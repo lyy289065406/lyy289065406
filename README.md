@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.26%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.84%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.61%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.29%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.38%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.66%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.60%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.35%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.29%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [nexus-docker](https://github.com/lyy289065406/nexus-docker) | docker 一键部署 nexus 仓库 | 15 | 2022-02-26 18:05:44 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 9 | 2022-02-26 18:01:31  |
-| [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问 | 48 | 2022-02-26 17:58:57  |
+| [nexus-docker](https://github.com/lyy289065406/nexus-docker) | docker 一键部署 nexus 仓库 | 15 | 2022-02-27 11:34:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 11 | 2022-02-27 11:30:26  |
+| [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问 | 58 | 2022-02-27 11:27:41  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 178 | 2022-02-27 03:45:35  |
 | [spring-boot-demos](https://github.com/lyy289065406/spring-boot-demos) | spring-boot 各种场景下的示例代码 | 2 | 2022-02-26 03:48:58  |
-| [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 8 | 2022-02-25 02:48:10  |
 <!-- END_SECTION:activity -->
 
 
