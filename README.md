@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.27%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.69%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.59%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.46%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.26%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.70%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.57%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.47%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.46%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 17 | 2022-03-01 17:57:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 12 | 2022-02-28 17:06:28  |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 31 | 2022-03-02 17:41:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 15 | 2022-03-02 17:26:54  |
+| [mstream-docker](https://github.com/lyy289065406/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 12 | 2022-03-02 13:40:17  |
+| [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问 | 59 | 2022-03-02 04:06:02  |
 | [nexus-docker](https://github.com/lyy289065406/nexus-docker) | docker 一键部署 nexus 仓库 | 15 | 2022-02-27 11:34:08  |
-| [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问 | 58 | 2022-02-27 11:27:41  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 178 | 2022-02-27 03:45:35  |
 <!-- END_SECTION:activity -->
 
 
