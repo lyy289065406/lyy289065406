@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.32%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.55%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.55%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.57%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.30%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.53%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.54%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.63%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.57%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 53 | 2022-03-04 17:29:51 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 75 | 2022-03-05 19:00:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [mstream-docker](https://github.com/lyy289065406/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 13 | 2022-03-05 15:49:44  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 179 | 2022-03-05 10:43:23  |
 | [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 15 | 2022-03-02 17:26:54  |
-| [mstream-docker](https://github.com/lyy289065406/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 12 | 2022-03-02 13:40:17  |
 | [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问 | 59 | 2022-03-02 04:06:02  |
-| [nexus-docker](https://github.com/lyy289065406/nexus-docker) | docker 一键部署 nexus 仓库 | 15 | 2022-02-27 11:34:08  |
 <!-- END_SECTION:activity -->
 
 
