@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.29%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.51%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.53%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.38%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.44%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.51%
 Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.67%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,11 +56,11 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.67%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 102 | 2022-03-06 17:38:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [exp-libs](https://github.com/lyy289065406/exp-libs) | 经验构件库（Java版） | 86 | 2022-03-06 16:55:48  |
-| [mstream-docker](https://github.com/lyy289065406/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 13 | 2022-03-05 15:49:44  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 179 | 2022-03-05 10:43:23  |
-| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 15 | 2022-03-02 17:26:54  |
+| [schemaeditor](https://github.com/lyy289065406/schemaeditor) | swing 绘图构件 | 1 | 2022-03-07 17:54:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [soapui](https://github.com/lyy289065406/soapui) | soap 客户端 | 5 | 2022-03-07 17:37:24  |
+| [jvm-agent](https://github.com/lyy289065406/jvm-agent) | JVM 实例代理 | 6 | 2022-03-07 17:24:20  |
+| [jep](https://github.com/lyy289065406/jep) | java 表达式解析器 | 5 | 2022-03-07 17:23:05  |
+| [javaini](https://github.com/lyy289065406/javaini) | ini 配置文件解析器 | 3 | 2022-03-07 17:22:43  |
 <!-- END_SECTION:activity -->
 
 
