@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.38%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.35%
 Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.44%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.51%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.67%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.50%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.71%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.67%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [schemaeditor](https://github.com/lyy289065406/schemaeditor) | swing 绘图构件 | 1 | 2022-03-07 17:54:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [soapui](https://github.com/lyy289065406/soapui) | soap 客户端 | 5 | 2022-03-07 17:37:24  |
-| [jvm-agent](https://github.com/lyy289065406/jvm-agent) | JVM 实例代理 | 6 | 2022-03-07 17:24:20  |
-| [jep](https://github.com/lyy289065406/jep) | java 表达式解析器 | 5 | 2022-03-07 17:23:05  |
-| [javaini](https://github.com/lyy289065406/javaini) | ini 配置文件解析器 | 3 | 2022-03-07 17:22:43  |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 108 | 2022-03-08 18:38:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [jep](https://github.com/lyy289065406/jep) | java 表达式解析器 | 6 | 2022-03-08 18:29:08  |
+| [beauty-eye](https://github.com/lyy289065406/beauty-eye) | swing 仿 Mac 外观风格构件 | 3 | 2022-03-08 18:19:32  |
+| [schemaeditor](https://github.com/lyy289065406/schemaeditor) | swing 绘图构件 | 2 | 2022-03-08 18:03:24  |
+| [soapui](https://github.com/lyy289065406/soapui) | soap 客户端 | 8 | 2022-03-08 17:54:54  |
 <!-- END_SECTION:activity -->
 
 
