@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.35%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.44%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.50%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.71%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.40%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.39%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.48%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.73%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.71%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 108 | 2022-03-08 18:38:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [jep](https://github.com/lyy289065406/jep) | java 表达式解析器 | 6 | 2022-03-08 18:29:08  |
-| [beauty-eye](https://github.com/lyy289065406/beauty-eye) | swing 仿 Mac 外观风格构件 | 3 | 2022-03-08 18:19:32  |
-| [schemaeditor](https://github.com/lyy289065406/schemaeditor) | swing 绘图构件 | 2 | 2022-03-08 18:03:24  |
-| [soapui](https://github.com/lyy289065406/soapui) | soap 客户端 | 8 | 2022-03-08 17:54:54  |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 112 | 2022-03-09 16:21:42 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [commons-httpclient](https://github.com/lyy289065406/commons-httpclient) | 修正自动重定向丢失 Response Header 中的 Set-Cookie 的 BUG | 9 | 2022-03-09 15:50:38  |
+| [jvm-agent](https://github.com/lyy289065406/jvm-agent) | JVM 实例代理 | 7 | 2022-03-09 15:43:28  |
+| [schemaeditor](https://github.com/lyy289065406/schemaeditor) | swing 绘图构件 | 2 | 2022-03-09 15:39:04  |
+| [javaini](https://github.com/lyy289065406/javaini) | ini 配置文件解析器 | 5 | 2022-03-09 15:33:28  |
 <!-- END_SECTION:activity -->
 
 
