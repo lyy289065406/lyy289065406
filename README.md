@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.36%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.38%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.48%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.79%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.33%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.36%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.47%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.84%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    16.79%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 114 | 2022-03-10 18:26:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 116 | 2022-03-11 23:20:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [commons-httpclient](https://github.com/lyy289065406/commons-httpclient) | 修正自动重定向丢失 Response Header 中的 Set-Cookie 的 BUG | 9 | 2022-03-09 15:50:38  |
 | [jvm-agent](https://github.com/lyy289065406/jvm-agent) | JVM 实例代理 | 7 | 2022-03-09 15:43:28  |
 | [schemaeditor](https://github.com/lyy289065406/schemaeditor) | swing 绘图构件 | 2 | 2022-03-09 15:39:04  |
