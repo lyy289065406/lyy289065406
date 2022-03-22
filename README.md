@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    27 hrs    ooooooooooooooxxxxxx    65.04%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.22%
+Programming    27 hrs    ooooooooooooooxxxxxx    65.01%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.21%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.41%
-Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    17.32%
+Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    17.38%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        07 hrs    ooooxxxxxxxxxxxxxxxx    17.32%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 116 | 2022-03-11 23:20:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-03-21 21:55:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 116 | 2022-03-11 23:20:05  |
 | [commons-httpclient](https://github.com/lyy289065406/commons-httpclient) | 修正自动重定向丢失 Response Header 中的 Set-Cookie 的 BUG | 9 | 2022-03-09 15:50:38  |
 | [jvm-agent](https://github.com/lyy289065406/jvm-agent) | JVM 实例代理 | 7 | 2022-03-09 15:43:28  |
 | [schemaeditor](https://github.com/lyy289065406/schemaeditor) | swing 绘图构件 | 2 | 2022-03-09 15:39:04  |
-| [javaini](https://github.com/lyy289065406/javaini) | ini 配置文件解析器 | 5 | 2022-03-09 15:33:28  |
 <!-- END_SECTION:activity -->
 
 
