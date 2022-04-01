@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.87%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    13.01%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.36%
-Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    17.76%
+Programming    26 hrs    ooooooooooooooxxxxxx    64.90%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    12.98%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.34%
+Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    17.78%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    17.76%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 23 | 2022-03-22 08:49:35 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-03-21 21:55:56  |
+| [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-03-31 20:04:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 24 | 2022-03-31 08:44:50  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 116 | 2022-03-11 23:20:05  |
 | [commons-httpclient](https://github.com/lyy289065406/commons-httpclient) | 修正自动重定向丢失 Response Header 中的 Set-Cookie 的 BUG | 9 | 2022-03-09 15:50:38  |
 | [jvm-agent](https://github.com/lyy289065406/jvm-agent) | JVM 实例代理 | 7 | 2022-03-09 15:43:28  |
