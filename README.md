@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.91%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    12.82%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.29%
-Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    17.99%
+Programming    26 hrs    ooooooooooooooxxxxxx    64.86%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    12.81%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.28%
+Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.05%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    17.99%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 180 | 2022-04-06 12:35:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 182 | 2022-04-07 16:20:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-03-31 20:04:03  |
 | [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 24 | 2022-03-31 08:44:50  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 116 | 2022-03-11 23:20:05  |
