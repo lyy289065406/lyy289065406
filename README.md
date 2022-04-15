@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.77%
-Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    12.68%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.24%
-Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.31%
+Programming    26 hrs    ooooooooooooooxxxxxx    64.74%
+Learning       06 hrs    ooooxxxxxxxxxxxxxxxx    12.67%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.23%
+Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.35%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.31%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 189 | 2022-04-13 18:00:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 9 | 2022-04-14 15:45:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 189 | 2022-04-13 18:00:49  |
 | [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-03-31 20:04:03  |
 | [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 24 | 2022-03-31 08:44:50  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 116 | 2022-03-11 23:20:05  |
-| [commons-httpclient](https://github.com/lyy289065406/commons-httpclient) | 修正自动重定向丢失 Response Header 中的 Set-Cookie 的 BUG | 9 | 2022-03-09 15:50:38  |
 <!-- END_SECTION:activity -->
 
 
