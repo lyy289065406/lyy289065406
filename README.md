@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.57%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.49%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.18%
-Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.77%
+Programming    26 hrs    ooooooooooooooxxxxxx    64.54%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.48%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.17%
+Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.81%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.77%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-04-22 23:45:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 26 | 2022-04-25 09:56:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-04-22 23:45:10  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 197 | 2022-04-21 18:44:25  |
-| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 25 | 2022-04-21 04:37:42  |
 | [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 9 | 2022-04-14 15:45:07  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 116 | 2022-03-11 23:20:05  |
 <!-- END_SECTION:activity -->
