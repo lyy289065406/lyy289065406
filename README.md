@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.58%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.39%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.15%
-Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.88%
+Programming    26 hrs    ooooooooooooooxxxxxx    64.52%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.38%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.16%
+Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.94%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.88%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 201 | 2022-04-30 02:05:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 205 | 2022-05-01 02:17:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 317 | 2022-04-30 14:19:22  |
 | [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 28 | 2022-04-28 02:41:52  |
 | [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-04-22 23:45:10  |
 | [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 9 | 2022-04-14 15:45:07  |
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 116 | 2022-03-11 23:20:05  |
 <!-- END_SECTION:activity -->
 
 
@@ -73,7 +73,7 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.88%
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5854;&#x8389;&#x5854;&#x30FB;&#x4FEE;&#x5FB7;&#x62C9;&#x514B;&#x300F;&#xFF08;&#x672A;&#x6DA6;&#x8272;&#xFF09;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/59.html) | 2022-04-27 18:15:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4E71;&#x4E16;&#x7684;&#x79C1;&#x751F;&#x5B50;&#x300F;&#xFF08;&#x672A;&#x6DA6;&#x8272;&#xFF09;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/60.html) | 2022-04-30 12:43:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
