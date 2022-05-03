@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.49%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.37%
+Programming    26 hrs    ooooooooooooooxxxxxx    64.43%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.36%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.15%
-Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.99%
+Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    19.06%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    18.99%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 205 | 2022-05-01 02:17:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 215 | 2022-05-03 01:45:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 317 | 2022-04-30 14:19:22  |
 | [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 28 | 2022-04-28 02:41:52  |
 | [expcodes](https://github.com/lyy289065406/expcodes) | 经验代码库（索引目录） | 2301 | 2022-04-22 23:45:10  |
