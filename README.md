@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.40%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.35%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.14%
-Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    19.11%
+Programming    26 hrs    ooooooooooooooxxxxxx    64.36%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.34%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.15%
+Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    19.15%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -69,10 +69,10 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    19.11%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [OpenPose 编译指引（含 python 接口）](https://exp-blog.com/deeplearn/openpose-bian-yi-zhi-yin/) | 2022-01-08 10:24:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [视觉 AI 辅助的原理和反制](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [OpenPose 编译指引（含 python 接口）](https://exp-blog.com/deeplearn/openpose-bian-yi-zhi-yin/) | 2022-01-08 10:24:57  |
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
-| [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4E71;&#x4E16;&#x7684;&#x79C1;&#x751F;&#x5B50;&#x300F;&#xFF08;&#x672A;&#x6DA6;&#x8272;&#xFF09;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/60.html) | 2022-04-30 12:43:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
