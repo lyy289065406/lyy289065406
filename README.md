@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.01%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.08%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.05%
-Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    19.85%
+Programming    26 hrs    ooooooooooooooxxxxxx    64.05%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    12.05%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.04%
+Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    19.86%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    19.85%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 370 | 2022-05-17 18:18:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 370 | 2022-05-20 18:47:34 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [linux-os-docker](https://github.com/lyy289065406/linux-os-docker) | docker 一键部署 linux 纯净系统集 | 7 | 2022-05-11 07:23:32  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 216 | 2022-05-07 16:08:58  |
 | [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 28 | 2022-04-28 02:41:52  |
