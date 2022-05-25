@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.05%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.99%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.02%
-Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    19.95%
+Programming    26 hrs    ooooooooooooooxxxxxx    64.00%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.97%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.01%
+Playing        09 hrs    ooooooxxxxxxxxxxxxxx    20.01%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        08 hrs    ooooxxxxxxxxxxxxxxxx    19.95%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 370 | 2022-05-23 18:19:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 380 | 2022-05-24 17:24:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 35 | 2022-05-23 14:03:22  |
 | [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 29 | 2022-05-23 06:52:24  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 119 | 2022-05-22 12:27:24  |
