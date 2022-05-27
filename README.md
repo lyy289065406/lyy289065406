@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    64.03%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.94%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.00%
-Playing        09 hrs    ooooooxxxxxxxxxxxxxx    20.04%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.96%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.92%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.99%
+Playing        09 hrs    ooooooxxxxxxxxxxxxxx    20.14%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        09 hrs    ooooooxxxxxxxxxxxxxx    20.04%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 熊猫模拟器服务端（docker 一键启动版） | 8 | 2022-05-26 01:28:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 4 | 2022-05-26 01:28:00  |
-| [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 36 | 2022-05-25 16:55:12  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 熊猫模拟器服务端（docker 一键启动版） | 30 | 2022-05-27 02:44:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 9 | 2022-05-27 02:34:05  |
+| [ro-single-client](https://github.com/lyy289065406/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 26 | 2022-05-26 13:41:33  |
+| [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 37 | 2022-05-26 05:21:07  |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 380 | 2022-05-25 15:33:22  |
-| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 29 | 2022-05-23 06:52:24  |
 <!-- END_SECTION:activity -->
 
 
