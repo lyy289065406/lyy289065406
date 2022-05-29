@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    26 hrs    ooooooooooooooxxxxxx    63.95%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.88%
+Programming    26 hrs    ooooooooooooooxxxxxx    63.86%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.86%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.97%
-Playing        09 hrs    ooooooxxxxxxxxxxxxxx    20.20%
+Playing        09 hrs    ooooooxxxxxxxxxxxxxx    20.31%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        09 hrs    ooooooxxxxxxxxxxxxxx    20.20%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 熊猫模拟器服务端（docker 一键启动版） | 54 | 2022-05-28 02:21:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 13 | 2022-05-27 15:16:03  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 熊猫模拟器服务端（docker 一键启动版） | 80 | 2022-05-29 01:02:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 14 | 2022-05-28 13:53:11  |
 | [ro-single-client](https://github.com/lyy289065406/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 26 | 2022-05-26 13:41:33  |
 | [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 37 | 2022-05-26 05:21:07  |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 380 | 2022-05-25 15:33:22  |
