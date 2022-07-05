@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    62.02%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.28%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.70%
+Programming    25 hrs    ooooooooooooooxxxxxx    62.05%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.26%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.69%
 Playing        10 hrs    ooooooxxxxxxxxxxxxxx    23.00%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,11 +56,11 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    23.00%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 熊猫模拟器服务端（docker 一键启动版） | 753 | 2022-07-03 18:28:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 熊猫模拟器客户端（补丁） | 45 | 2022-07-03 17:47:04  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 熊猫模拟器服务端（docker 一键启动版） | 753 | 2022-07-04 16:51:35 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 熊猫模拟器客户端（补丁） | 46 | 2022-07-04 16:51:05  |
+| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 31 | 2022-07-04 14:11:53  |
 | [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | Maven项目发布插件 | 52 | 2022-07-01 22:19:18  |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 380 | 2022-06-27 12:54:49  |
-| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 30 | 2022-06-13 09:51:22  |
 <!-- END_SECTION:activity -->
 
 
