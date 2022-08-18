@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.82%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.04%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.44%
-Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.70%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.81%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.03%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.43%
+Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.73%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.70%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-08-16 17:55:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-08-17 17:47:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 212 | 2022-08-16 17:37:46  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 15 | 2022-08-12 13:52:49  |
 | [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 34 | 2022-08-03 03:30:25  |
