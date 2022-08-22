@@ -34,7 +34,7 @@
 <!--BGN_SECTION:introduction-->
 - 🐾 I’m currently working on [VSCode](https://code.visualstudio.com/).
 - ✨ I’m currently rebuilding my [Blog Site](https://github.com/lyy289065406/hexo-blog).
-- 🎓 I’m currently learning [K8S](https://github.com/kubernetes/kubernetes) and [Crack](https://github.com/lyy289065406/crack-notes).
+- 🎓 I’m currently learning [AI](https://github.com/lyy289065406/AI-visual-training-cheater) and [Crack](https://github.com/lyy289065406/crack-notes).
 - 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues).
 <!--BGN_SECTION:introduction-->
 
