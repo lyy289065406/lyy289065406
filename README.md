@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.67%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.01%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.64%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    11.00%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.46%
-Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.86%
+Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.89%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.86%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 219 | 2022-08-21 17:14:51 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 223 | 2022-08-22 16:55:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-08-21 03:03:18  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 215 | 2022-08-20 14:39:12  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 15 | 2022-08-12 13:52:49  |
