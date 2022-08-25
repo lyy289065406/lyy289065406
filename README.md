@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.68%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.98%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.71%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.95%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.46%
-Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.88%
+Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.87%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.88%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 223 | 2022-08-22 16:55:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-08-21 03:03:18  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-08-24 15:10:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | CTF 解题报告 | 305 | 2022-08-24 07:35:50  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 223 | 2022-08-22 16:55:00  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 215 | 2022-08-20 14:39:12  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 15 | 2022-08-12 13:52:49  |
-| [idea-cloud-settings](https://github.com/lyy289065406/idea-cloud-settings) | IDEA 个人云端配置存档 | 34 | 2022-08-03 03:30:25  |
 <!-- END_SECTION:activity -->
 
 
@@ -69,10 +69,10 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.88%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [弹无虚发？视觉 AI 杀疯了！](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [浅出狼人杀](https://exp-blog.com/algorithm/qian-chu-lang-ren-sha/) | 2022-08-24 16:58:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [深入博弈论](https://exp-blog.com/algorithm/shen-ru-bo-yi-lun/) | 2022-08-24 16:58:55  |
+| [articles](https://github.com/lyy289065406/articles) | [弹无虚发？视觉 AI 杀疯了！](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12  |
 | [articles](https://github.com/lyy289065406/articles) | [OpenPose 编译指引（含 python 接口）](https://exp-blog.com/deeplearn/openpose-bian-yi-zhi-yin/) | 2022-01-08 10:24:57  |
-| [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
-| [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4E71;&#x4E16;&#x7684;&#x79C1;&#x751F;&#x5B50;&#x300F;&#xFF08;&#x672A;&#x6DA6;&#x8272;&#xFF09;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/60.html) | 2022-04-30 12:43:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
