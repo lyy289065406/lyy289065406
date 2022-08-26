@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.71%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.95%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.46%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.73%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.93%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.47%
 Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.87%
 ```
 <!-- END_SECTION:weektime -->
@@ -69,10 +69,10 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.87%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [浅出狼人杀](https://exp-blog.com/algorithm/qian-chu-lang-ren-sha/) | 2022-08-24 16:58:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | [深入博弈论](https://exp-blog.com/algorithm/shen-ru-bo-yi-lun/) | 2022-08-24 16:58:55  |
-| [articles](https://github.com/lyy289065406/articles) | [弹无虚发？视觉 AI 杀疯了！](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12  |
+| [articles](https://github.com/lyy289065406/articles) | [弹无虚发？视觉 AI 杀疯了！](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [OpenPose 编译指引（含 python 接口）](https://exp-blog.com/deeplearn/openpose-bian-yi-zhi-yin/) | 2022-01-08 10:24:57  |
+| [articles](https://github.com/lyy289065406/articles) | [浅出狼人杀](https://exp-blog.com/algorithm/qian-chu-lang-ren-sha/) | 2021-10-24 16:58:55  |
+| [articles](https://github.com/lyy289065406/articles) | [深入博弈论](https://exp-blog.com/algorithm/shen-ru-bo-yi-lun/) | 2021-10-24 16:58:55  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4E71;&#x4E16;&#x7684;&#x79C1;&#x751F;&#x5B50;&#x300F;&#xFF08;&#x672A;&#x6DA6;&#x8272;&#xFF09;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/60.html) | 2022-04-30 12:43:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
