@@ -43,8 +43,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.62%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.92%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.61%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.93%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.55%
 Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.91%
 ```
@@ -83,7 +83,7 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.91%
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
 | [articles](https://github.com/lyy289065406/articles) | [Github Desktop 代理设置](https://exp-blog.com/scm/githubdesktop-dai-li-she-zhi/) | 2021-03-07 03:27:33  |
 | [articles](https://github.com/lyy289065406/articles) | [Git-LFS 的使用和迁移笔记](https://exp-blog.com/scm/gitlfs-shi-yong-he-qian-yi/) | 2021-03-05 08:01:04  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4ECE;&#x96F6;&#x5F00;&#x59CB;&#x7684;&#x738B;&#x9009;&#x751F;&#x6D3B;&#x3000;&#x91D1;&#x72EE;&#x5B50;&#x4E0E;&#x5251;&#x5723;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter999/short05/09.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;I know&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/75.html) | 2022-08-27 18:00:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
