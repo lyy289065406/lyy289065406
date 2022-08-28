@@ -6,7 +6,6 @@
 
 import requests
 import re
-import time
 from src.config import *
 from src.utils import _git
 

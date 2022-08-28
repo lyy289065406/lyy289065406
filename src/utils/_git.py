@@ -4,7 +4,7 @@
 # @Time   : 2020/4/28 21:56
 # -----------------------------------------------
 
-from src.utils import log
+from color_log.clog import log
 from src.config import *
 from src.bean.repo import *
 from src.utils.graphql_client import _GraphqlClient
