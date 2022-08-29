@@ -46,7 +46,7 @@
 Programming    25 hrs    ooooooooooooooxxxxxx    60.53%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.92%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
-Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.93%
+Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.92%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -79,7 +79,7 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.93%
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5F17;&#x6D1B;&#x666E;&#xB7;&#x5965;&#x514B;&#x5C3C;&#x5C14;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/59-B.html) | 2022-08-28 04:54:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;I know&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/75.html) | 2022-08-27 18:00:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
