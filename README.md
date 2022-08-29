@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.61%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.94%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.55%
-Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.91%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.53%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.92%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
+Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.93%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.91%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 222 | 2022-08-27 14:13:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-08-27 12:35:46  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 224 | 2022-08-29 02:16:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-08-28 16:58:43  |
+| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（无需企业认证） | 64 | 2022-08-28 03:53:02  |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 120 | 2022-08-28 03:50:09  |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 222 | 2022-08-27 14:13:08  |
 | [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | CTF 解题报告 | 305 | 2022-08-24 07:35:50  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 223 | 2022-08-22 16:55:00  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 15 | 2022-08-12 13:52:49  |
 | [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | Maven项目发布插件 | 52 | 2022-07-01 22:19:18  |
-| [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 380 | 2022-06-27 12:54:49  |
-| [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 39 | 2022-06-07 10:00:42  |
 <!-- END_SECTION:activity -->
 
 
@@ -79,7 +79,7 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.91%
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
 | [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Hexo 在 Github 搭建个人网站](https://exp-blog.com/website/hexo-da-jian-ge-ren-wang-zhan/) | 2021-03-21 08:39:24  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;I know&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/75.html) | 2022-08-27 18:00:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5F17;&#x6D1B;&#x666E;&#xB7;&#x5965;&#x514B;&#x5C3C;&#x5C14;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/59-B.html) | 2022-08-28 04:54:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
