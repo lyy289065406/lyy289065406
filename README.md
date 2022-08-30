@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.53%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.92%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.55%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.90%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
-Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.92%
+Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.91%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -63,7 +63,7 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.92%
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 222 | 2022-08-27 14:13:08  |
 | [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | CTF 解题报告 | 305 | 2022-08-24 07:35:50  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 15 | 2022-08-12 13:52:49  |
-| [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | Maven项目发布插件 | 52 | 2022-07-01 22:19:18  |
+| [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | Maven 项目发布插件 | 52 | 2022-07-01 22:19:18  |
 <!-- END_SECTION:activity -->
 
 
