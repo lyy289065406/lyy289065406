@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.51%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.89%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.67%
-Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.93%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.48%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.88%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.68%
+Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.96%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.93%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 224 | 2022-08-29 02:16:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-08-28 16:58:43  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-08-31 16:35:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 224 | 2022-08-29 02:16:49  |
 | [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（无需企业认证） | 64 | 2022-08-28 03:53:02  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 120 | 2022-08-28 03:50:09  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 222 | 2022-08-27 14:13:08  |
