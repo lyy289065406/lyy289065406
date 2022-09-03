@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.46%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.88%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.68%
-Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.99%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.49%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.86%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.67%
+Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.98%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,11 +56,11 @@ Playing        10 hrs    ooooooxxxxxxxxxxxxxx    24.99%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-09-01 17:24:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 223 | 2022-09-03 02:52:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-09-02 16:04:01  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | AI 视觉训练辅助器 | 224 | 2022-08-29 02:16:49  |
 | [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（无需企业认证） | 64 | 2022-08-28 03:53:02  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 120 | 2022-08-28 03:50:09  |
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 222 | 2022-08-27 14:13:08  |
 | [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | CTF 解题报告 | 305 | 2022-08-24 07:35:50  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 15 | 2022-08-12 13:52:49  |
 | [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | Maven 项目发布插件 | 52 | 2022-07-01 22:19:18  |
