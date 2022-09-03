@@ -3,6 +3,7 @@ app:
   activity_num: 8              # 展示的活动项数
   article_num: 7                # 展示的文章项数
   skip_repos:
+    - '.*?demo.*'
     - 'crop-circles'
     - 'threat-broadcast'
     - 'steam-discount'

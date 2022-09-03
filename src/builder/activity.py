@@ -5,6 +5,7 @@
 # -----------------------------------------------
 
 from src.config import *
+import re
 
 TPL_PATH = '%s/tpl/activity.tpl' % PRJ_DIR
 
@@ -15,7 +16,7 @@ def build(repos, top=3) :
     rows = []
     cnt = 0
     for repo in repos :
-        if repo.name in settings.skip_repos :
+        if is_skip(repo.name) :
             continue
 
         row = tpl % {
@@ -38,3 +39,15 @@ def build(repos, top=3) :
 %s
 """ % '\n'.join(rows)
 
+
+def is_skip(repo_name) :
+    is_found = False
+    for feature in settings.skip_repos :
+        if repo_name == feature :
+            is_found = True
+            break
+
+        if re.match(feature, repo_name, re.I) :
+            is_found = True
+            break
+    return is_found
