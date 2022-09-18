@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.30%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.28%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.70%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.61%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.38%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.41%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -72,13 +72,13 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.38%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [【转】监督机器学习分类算法指南](https://exp-blog.com/deeplearn/jian-du-ji-qi-xue-xi-fen-lei-suan-fa-zhi-nan/) | 2022-09-11 12:12:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [如何让你的女朋友摆脱 “咩了个咩” 的魔爪](https://exp-blog.com/safe/ru-he-rang-ni-de-nu-peng-you-bai-tuo-yang-liao-ge-yang-de-mo-zhua/) | 2022-09-17 16:22:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [【转】监督机器学习分类算法指南](https://exp-blog.com/deeplearn/jian-du-ji-qi-xue-xi-fen-lei-suan-fa-zhi-nan/) | 2022-09-11 12:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [弹无虚发？视觉 AI 杀疯了！](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12  |
 | [articles](https://github.com/lyy289065406/articles) | [OpenPose 编译指引（含 python 接口）](https://exp-blog.com/deeplearn/openpose-bian-yi-zhi-yin/) | 2022-01-08 10:24:57  |
 | [articles](https://github.com/lyy289065406/articles) | [浅出狼人杀](https://exp-blog.com/algorithm/qian-chu-lang-ren-sha/) | 2021-10-24 16:58:55  |
 | [articles](https://github.com/lyy289065406/articles) | [深入博弈论](https://exp-blog.com/algorithm/shen-ru-bo-yi-lun/) | 2021-10-24 16:58:55  |
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
-| [articles](https://github.com/lyy289065406/articles) | [CVE-2021-22192 漏洞分析](https://exp-blog.com/safe/cve/cve-2021-22192-lou-dong-fen-xi/) | 2021-05-02 05:29:41  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;I know&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/75.html) | 2022-08-27 18:00:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
