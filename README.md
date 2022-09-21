@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.20%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.68%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.67%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.23%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.66%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.66%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.45%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,12 +56,12 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.45%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 280 | 2022-09-14 17:22:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 121 | 2022-09-20 17:12:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 280 | 2022-09-14 17:22:23  |
 | [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问助手 | 60 | 2022-09-04 16:19:32  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-09-03 07:22:23  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 223 | 2022-09-03 02:52:55  |
 | [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（无需企业认证） | 64 | 2022-08-28 03:53:02  |
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 120 | 2022-08-28 03:50:09  |
 | [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | CTF 解题报告 | 305 | 2022-08-24 07:35:50  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 15 | 2022-08-12 13:52:49  |
 <!-- END_SECTION:activity -->
