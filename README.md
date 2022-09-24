@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.30%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.62%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.28%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.61%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.64%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.44%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.47%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.44%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 127 | 2022-09-22 19:06:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 130 | 2022-09-23 17:05:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 280 | 2022-09-14 17:22:23  |
 | [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问助手 | 60 | 2022-09-04 16:19:32  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-09-03 07:22:23  |
