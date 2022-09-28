@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.28%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.58%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.52%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.25%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.57%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.64%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.54%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -79,7 +79,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.52%
 | [articles](https://github.com/lyy289065406/articles) | [浅出狼人杀](https://exp-blog.com/algorithm/qian-chu-lang-ren-sha/) | 2021-10-24 16:58:55  |
 | [articles](https://github.com/lyy289065406/articles) | [深入博弈论](https://exp-blog.com/algorithm/shen-ru-bo-yi-lun/) | 2021-10-24 16:58:55  |
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;I know&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/75.html) | 2022-08-27 18:00:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5E1D;&#x90FD;&#x7684;&#x9082;&#x9005;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/76.html) | 2022-09-27 16:40:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
