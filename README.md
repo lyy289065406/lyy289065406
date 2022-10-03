@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.16%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.55%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.13%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.54%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.66%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.69%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.66%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | Maven 项目一键发布插件 | 55 | 2022-09-26 17:16:58 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 191 | 2022-09-25 14:04:13  |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 191 | 2022-10-02 17:12:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | Maven 项目一键发布插件 | 55 | 2022-09-26 17:16:58  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 280 | 2022-09-14 17:22:23  |
 | [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问助手 | 60 | 2022-09-04 16:19:32  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-09-03 07:22:23  |
