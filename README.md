@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.13%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.11%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.54%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.69%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.72%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.69%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 191 | 2022-10-02 17:12:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 191 | 2022-10-04 00:27:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | Maven 项目一键发布插件 | 55 | 2022-09-26 17:16:58  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 280 | 2022-09-14 17:22:23  |
 | [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问助手 | 60 | 2022-09-04 16:19:32  |
@@ -79,7 +79,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.69%
 | [articles](https://github.com/lyy289065406/articles) | [浅出狼人杀](https://exp-blog.com/algorithm/qian-chu-lang-ren-sha/) | 2021-10-24 16:58:55  |
 | [articles](https://github.com/lyy289065406/articles) | [深入博弈论](https://exp-blog.com/algorithm/shen-ru-bo-yi-lun/) | 2021-10-24 16:58:55  |
 | [articles](https://github.com/lyy289065406/articles) | [CTF 解题报告导航](https://exp-blog.com/safe/ctf/ctf-jie-ti-bao-gao-dao-hang/) | 2021-08-17 08:21:57  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5E1D;&#x90FD;&#x7684;&#x9082;&#x9005;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/76.html) | 2022-09-27 16:40:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x547D;&#x8FD0;&#x7684;&#x6076;&#x4F5C;&#x5267;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/77.html) | 2022-10-03 05:29:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
