@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.05%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.53%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.64%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.07%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.52%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.78%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.78%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 191 | 2022-10-06 01:46:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [mojo-release-plugin](https://github.com/lyy289065406/mojo-release-plugin) | Maven 项目一键发布插件 | 61 | 2022-10-05 09:05:08  |
+| [beauty-eye](https://github.com/lyy289065406/beauty-eye) | swing 仿 Mac 外观风格构件 | 11 | 2022-10-07 03:08:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [account-mgr](https://github.com/lyy289065406/account-mgr) | 帐密管理工具 | 26 | 2022-10-07 02:13:36  |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 232 | 2022-10-07 01:35:21  |
+| [release-project-plugin](https://github.com/lyy289065406/release-project-plugin) | （非 Spring）Maven 项目一键发布插件 | 76 | 2022-10-07 00:46:25  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 280 | 2022-09-14 17:22:23  |
 | [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问助手 | 60 | 2022-09-04 16:19:32  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-09-03 07:22:23  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 223 | 2022-09-03 02:52:55  |
-| [wechat-assistant](https://github.com/lyy289065406/wechat-assistant) | 微信助手（无需企业认证） | 64 | 2022-08-28 03:53:02  |
-| [CTF-Solving-Reports](https://github.com/lyy289065406/CTF-Solving-Reports) | CTF 解题报告 | 305 | 2022-08-24 07:35:50  |
 <!-- END_SECTION:activity -->
 
 
