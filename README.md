@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.07%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.52%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.78%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.04%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.51%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.64%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.81%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,10 +56,10 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.78%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [beauty-eye](https://github.com/lyy289065406/beauty-eye) | swing 仿 Mac 外观风格构件 | 11 | 2022-10-07 03:08:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [account-mgr](https://github.com/lyy289065406/account-mgr) | 帐密管理工具 | 26 | 2022-10-07 02:13:36  |
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 232 | 2022-10-07 01:35:21  |
-| [release-project-plugin](https://github.com/lyy289065406/release-project-plugin) | （非 Spring）Maven 项目一键发布插件 | 76 | 2022-10-07 00:46:25  |
+| [account-mgr](https://github.com/lyy289065406/account-mgr) | 帐密管理工具 | 28 | 2022-10-07 03:36:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [release-project-plugin](https://github.com/lyy289065406/release-project-plugin) | （非 Spring）Maven 项目一键发布插件 | 76 | 2022-10-07 03:27:05  |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 232 | 2022-10-07 03:24:31  |
+| [beauty-eye](https://github.com/lyy289065406/beauty-eye) | swing 仿 Mac 外观风格构件 | 11 | 2022-10-07 03:08:02  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 280 | 2022-09-14 17:22:23  |
 | [investment-advisor](https://github.com/lyy289065406/investment-advisor) | 投资顾问助手 | 60 | 2022-09-04 16:19:32  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-09-03 07:22:23  |
@@ -74,11 +74,11 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.78%
 |:------|:------|:------|
 | [articles](https://github.com/lyy289065406/articles) | [Github Actions 自动发布 JAR 到 Maven 中央仓库全流程指引](https://exp-blog.com/tools/githubactions-zi-dong-fa-bu-jar-dao-maven-zhong-yang-cang-ku-quan-liu-cheng-zhi-yin/) | 2022-10-03 16:00:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [发布 JAR 到 Maven 中央仓库全流程指引](https://exp-blog.com/tools/fa-bu-jar-dao-maven-zhong-yang-cang-ku-quan-liu-cheng-zhi-yin/) | 2022-10-03 16:00:47  |
+| [articles](https://github.com/lyy289065406/articles) | [GnuPG 环境安装与配置](https://exp-blog.com/tools/gpg-huan-jing-an-zhuang-yu-pei-zhi/) | 2022-10-03 06:25:47  |
 | [articles](https://github.com/lyy289065406/articles) | [如何在 “咩了个咩” 的魔爪中解救女朋友](https://exp-blog.com/safe/ru-he-zai-yang-liao-ge-yang-de-mo-zhua-zhong-jie-jiu-nu-peng-you/) | 2022-09-17 16:22:27  |
 | [articles](https://github.com/lyy289065406/articles) | [【转】监督机器学习分类算法指南](https://exp-blog.com/deeplearn/jian-du-ji-qi-xue-xi-fen-lei-suan-fa-zhi-nan/) | 2022-09-11 12:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [弹无虚发？视觉 AI 杀疯了！](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12  |
 | [articles](https://github.com/lyy289065406/articles) | [OpenPose 编译指引（含 python 接口）](https://exp-blog.com/deeplearn/openpose-bian-yi-zhi-yin/) | 2022-01-08 10:24:57  |
-| [articles](https://github.com/lyy289065406/articles) | [浅出狼人杀](https://exp-blog.com/algorithm/qian-chu-lang-ren-sha/) | 2021-10-24 16:58:55  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4E00;&#x89E6;&#x5373;&#x53D1;&#x7684;&#x91CD;&#x9022;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/78.html) | 2022-10-05 04:06:34 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
