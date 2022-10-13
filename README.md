@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.95%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.94%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.49%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.92%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.95%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,13 +56,13 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.92%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-08 14:22:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 232 | 2022-10-12 14:01:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-08 14:22:43  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 224 | 2022-10-08 14:21:05  |
 | [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 121 | 2022-10-08 14:17:58  |
 | [auto-upgrader](https://github.com/lyy289065406/auto-upgrader) | 自动化升级插件 | 180 | 2022-10-08 14:17:26  |
 | [account-mgr](https://github.com/lyy289065406/account-mgr) | 帐密管理工具 | 29 | 2022-10-08 14:14:27  |
 | [release-project-plugin](https://github.com/lyy289065406/release-project-plugin) | （非 Spring）Maven 项目一键发布插件 | 76 | 2022-10-07 03:27:05  |
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 232 | 2022-10-07 03:24:31  |
 | [beauty-eye](https://github.com/lyy289065406/beauty-eye) | swing 仿 Mac 外观风格构件 | 11 | 2022-10-07 03:08:02  |
 <!-- END_SECTION:activity -->
 
