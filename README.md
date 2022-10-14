@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.94%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.49%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.63%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.95%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.92%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.48%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.62%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.98%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    25.95%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 232 | 2022-10-12 14:01:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 232 | 2022-10-13 15:35:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-08 14:22:43  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 224 | 2022-10-08 14:21:05  |
 | [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 121 | 2022-10-08 14:17:58  |
