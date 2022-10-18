@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.87%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.47%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.62%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.88%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.46%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.61%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.05%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.05%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-16 18:03:50 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 229 | 2022-10-16 18:03:03  |
-| [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 16 | 2022-10-16 13:23:56  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-18 03:22:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 10 | 2022-10-18 02:38:33  |
+| [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 122 | 2022-10-17 17:51:58  |
+| [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 17 | 2022-10-17 17:34:56  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 281 | 2022-10-17 17:04:28  |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 232 | 2022-10-17 16:06:07  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 257 | 2022-10-16 10:25:53  |
-| [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 121 | 2022-10-08 14:17:58  |
 | [auto-upgrader](https://github.com/lyy289065406/auto-upgrader) | 自动化升级插件 | 180 | 2022-10-08 14:17:26  |
-| [account-mgr](https://github.com/lyy289065406/account-mgr) | 帐密管理工具 | 29 | 2022-10-08 14:14:27  |
-| [release-project-plugin](https://github.com/lyy289065406/release-project-plugin) | （非 Spring）Maven 项目一键发布插件 | 76 | 2022-10-07 03:27:05  |
 <!-- END_SECTION:activity -->
 
 
