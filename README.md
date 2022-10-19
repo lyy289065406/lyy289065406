@@ -43,8 +43,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.88%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.46%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.89%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.45%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.61%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.05%
 ```
@@ -56,12 +56,12 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.05%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-18 03:22:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-19 03:40:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 233 | 2022-10-18 17:21:46  |
 | [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 10 | 2022-10-18 02:38:33  |
 | [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 122 | 2022-10-17 17:51:58  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 17 | 2022-10-17 17:34:56  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 281 | 2022-10-17 17:04:28  |
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 232 | 2022-10-17 16:06:07  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 257 | 2022-10-16 10:25:53  |
 | [auto-upgrader](https://github.com/lyy289065406/auto-upgrader) | 自动化升级插件 | 180 | 2022-10-08 14:17:26  |
 <!-- END_SECTION:activity -->
@@ -79,7 +79,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.05%
 | [articles](https://github.com/lyy289065406/articles) | [【转】监督机器学习分类算法指南](https://exp-blog.com/deeplearn/jian-du-ji-qi-xue-xi-fen-lei-suan-fa-zhi-nan/) | 2022-09-11 12:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [弹无虚发？视觉 AI 杀疯了！](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12  |
 | [articles](https://github.com/lyy289065406/articles) | [OpenPose 编译指引（含 python 接口）](https://exp-blog.com/deeplearn/openpose-bian-yi-zhi-yin/) | 2022-01-08 10:24:57  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4F0A;&#x4E3D;&#x4E1D;&#x548C;&#x8346;&#x68D8;&#x4E4B;&#x738B;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/80.html) | 2022-10-14 11:23:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x548C;&#x5973;&#x6770;&#x5C0F;&#x4E11;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/81.html) | 2022-10-18 17:18:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
