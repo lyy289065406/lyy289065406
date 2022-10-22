@@ -43,8 +43,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.92%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.43%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.95%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.41%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.60%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.05%
 ```
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.05%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 257 | 2022-10-20 07:44:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [release-project-plugin](https://github.com/lyy289065406/release-project-plugin) | （非 Spring）Maven 项目一键发布插件 | 76 | 2022-10-22 02:54:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 132 | 2022-10-22 02:42:53  |
+| [py-color-log](https://github.com/lyy289065406/py-color-log) | python 彩色日志 | 11 | 2022-10-21 18:52:15  |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 257 | 2022-10-21 18:22:15  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-19 17:55:44  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 237 | 2022-10-19 16:40:19  |
-| [py-color-log](https://github.com/lyy289065406/py-color-log) | python 颜色缤纷的日志 | 10 | 2022-10-18 02:38:33  |
-| [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 122 | 2022-10-17 17:51:58  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 17 | 2022-10-17 17:34:56  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 281 | 2022-10-17 17:04:28  |
-| [auto-upgrader](https://github.com/lyy289065406/auto-upgrader) | 自动化升级插件 | 180 | 2022-10-08 14:17:26  |
 <!-- END_SECTION:activity -->
 
 
