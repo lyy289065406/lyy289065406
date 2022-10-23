@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.95%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.41%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.60%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.05%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.91%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.43%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.59%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.07%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.05%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [release-project-plugin](https://github.com/lyy289065406/release-project-plugin) | （非 Spring）Maven 项目一键发布插件 | 76 | 2022-10-22 02:54:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 132 | 2022-10-22 02:42:53  |
-| [py-color-log](https://github.com/lyy289065406/py-color-log) | python 彩色日志 | 11 | 2022-10-21 18:52:15  |
-| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 257 | 2022-10-21 18:22:15  |
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-19 17:55:44  |
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 237 | 2022-10-19 16:40:19  |
-| [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 17 | 2022-10-17 17:34:56  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 281 | 2022-10-17 17:04:28  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-22 17:52:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 239 | 2022-10-22 10:32:22  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 282 | 2022-10-22 05:40:15  |
+| [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 30 | 2022-10-22 05:37:41  |
+| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 15 | 2022-10-22 05:21:46  |
+| [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 80 | 2022-10-22 05:13:42  |
+| [pypi-template](https://github.com/lyy289065406/pypi-template) | pypi 开发模板 | 12 | 2022-10-22 05:09:18  |
+| [py-color-log](https://github.com/lyy289065406/py-color-log) | python 彩色日志 | 12 | 2022-10-22 05:06:27  |
 <!-- END_SECTION:activity -->
 
 
