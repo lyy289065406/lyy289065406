@@ -45,7 +45,7 @@
 ```text
 Programming    24 hrs    ooooooooooooxxxxxxxx    59.87%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.44%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.59%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.58%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.10%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,9 +56,9 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.10%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [auto-check-in](https://github.com/lyy289065406/auto-check-in) | 自动签到机 | 8 | 2022-10-24 01:55:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [auto-check-in](https://github.com/lyy289065406/auto-check-in) | AI 自动签到 | 12 | 2022-10-24 18:08:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-24 17:49:40  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 283 | 2022-10-23 14:51:27  |
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-23 13:42:53  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 240 | 2022-10-23 10:06:33  |
 | [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 30 | 2022-10-22 05:37:41  |
 | [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 15 | 2022-10-22 05:21:46  |
