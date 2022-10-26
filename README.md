@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.87%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.44%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.85%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.43%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.58%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.10%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.13%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -79,7 +79,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.10%
 | [articles](https://github.com/lyy289065406/articles) | [【转】监督机器学习分类算法指南](https://exp-blog.com/deeplearn/jian-du-ji-qi-xue-xi-fen-lei-suan-fa-zhi-nan/) | 2022-09-11 12:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [弹无虚发？视觉 AI 杀疯了！](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12  |
 | [articles](https://github.com/lyy289065406/articles) | [OpenPose 编译指引（含 python 接口）](https://exp-blog.com/deeplearn/openpose-bian-yi-zhi-yin/) | 2022-01-08 10:24:57  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5973;&#x8C6A;&#x6770;&#x548C;&#x5C0F;&#x4E11;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/81.html) | 2022-10-18 17:18:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x53CD;&#x53DB;&#x65B9;&#x9762;&#x7684;&#x6253;&#x7B97;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/82.html) | 2022-10-25 04:46:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
