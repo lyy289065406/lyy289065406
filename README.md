@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.90%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.40%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.86%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.43%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.56%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.14%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.15%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,13 +56,13 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.14%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [auto-check-in](https://github.com/lyy289065406/auto-check-in) | AI 自动签到 | 19 | 2022-10-29 02:45:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-auto-check-in](https://github.com/lyy289065406/AI-auto-check-in) | AI 自动签到 | 36 | 2022-10-30 03:07:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 88 | 2022-10-29 05:08:43  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-24 17:49:40  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 283 | 2022-10-23 14:51:27  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 240 | 2022-10-23 10:06:33  |
 | [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 30 | 2022-10-22 05:37:41  |
 | [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 15 | 2022-10-22 05:21:46  |
-| [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 80 | 2022-10-22 05:13:42  |
 | [pypi-template](https://github.com/lyy289065406/pypi-template) | pypi 开发模板 | 12 | 2022-10-22 05:09:18  |
 <!-- END_SECTION:activity -->
 
