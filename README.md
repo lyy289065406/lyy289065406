@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.86%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.43%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.79%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.48%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.56%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.15%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.17%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.15%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-auto-check-in](https://github.com/lyy289065406/AI-auto-check-in) | AI 自动签到 | 36 | 2022-10-30 03:07:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-auto-check-in](https://github.com/lyy289065406/AI-auto-check-in) | AI 自动签到 | 66 | 2022-10-30 16:30:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 88 | 2022-10-29 05:08:43  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-24 17:49:40  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 283 | 2022-10-23 14:51:27  |
@@ -79,7 +79,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.15%
 | [articles](https://github.com/lyy289065406/articles) | [【转】监督机器学习分类算法指南](https://exp-blog.com/deeplearn/jian-du-ji-qi-xue-xi-fen-lei-suan-fa-zhi-nan/) | 2022-09-11 12:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [弹无虚发？视觉 AI 杀疯了！](https://exp-blog.com/deeplearn/shi-jue-ai-fu-zhu-de-yuan-li-he-fan-zhi/) | 2022-05-04 13:49:12  |
 | [articles](https://github.com/lyy289065406/articles) | [OpenPose 编译指引（含 python 接口）](https://exp-blog.com/deeplearn/openpose-bian-yi-zhi-yin/) | 2022-01-08 10:24:57  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x6218;&#x4E71;&#x4E0E;&#x6218;&#x573A;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/83.html) | 2022-10-26 04:08:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8336;&#x5BA4;(&#x8336;&#x5BA4;)&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/84.html) | 2022-10-30 04:24:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
