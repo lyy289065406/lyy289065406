@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.76%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.78%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.52%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.55%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.17%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.54%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.16%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.17%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-auto-check-in](https://github.com/lyy289065406/AI-auto-check-in) | AI 自动签到 | 98 | 2022-11-02 00:44:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-auto-check-in](https://github.com/lyy289065406/AI-auto-check-in) | AI 自动签到 | 104 | 2022-11-02 17:01:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 88 | 2022-10-29 05:08:43  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-10-24 17:49:40  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 283 | 2022-10-23 14:51:27  |
