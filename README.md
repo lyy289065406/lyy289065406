@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.03%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.20%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.54%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.06%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.18%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.53%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.23%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,7 +56,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.23%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-11-08 17:50:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-11-10 00:43:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 自动考勤 | 153 | 2022-11-07 15:33:02  |
 | [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 92 | 2022-11-06 16:33:06  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 283 | 2022-10-23 14:51:27  |
