@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.99%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.17%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.54%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.30%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.83%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.12%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.52%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.53%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.30%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 251 | 2022-11-13 17:04:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1075 | 2022-11-13 15:56:30  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1215 | 2022-11-15 00:19:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 254 | 2022-11-14 17:26:36  |
+| [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 20 | 2022-11-14 15:54:00  |
 | [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 自动考勤 | 156 | 2022-11-13 13:47:17  |
 | [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 92 | 2022-11-06 16:33:06  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 283 | 2022-10-23 14:51:27  |
 | [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 30 | 2022-10-22 05:37:41  |
 | [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 15 | 2022-10-22 05:21:46  |
-| [pypi-template](https://github.com/lyy289065406/pypi-template) | pypi 开发模板 | 12 | 2022-10-22 05:09:18  |
 <!-- END_SECTION:activity -->
 
 
@@ -79,7 +79,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.30%
 | [articles](https://github.com/lyy289065406/articles) | [发布 JAR 到 Maven 中央仓库全流程指引](https://exp-blog.com/tools/fa-bu-jar-dao-maven-zhong-yang-cang-ku-quan-liu-cheng-zhi-yin/) | 2022-10-03 16:00:47  |
 | [articles](https://github.com/lyy289065406/articles) | [GnuPG 环境安装与配置](https://exp-blog.com/tools/gpg-huan-jing-an-zhuang-yu-pei-zhi/) | 2022-10-03 06:25:47  |
 | [articles](https://github.com/lyy289065406/articles) | [如何在 “咩了个咩” 的魔爪中解救女朋友](https://exp-blog.com/safe/ru-he-zai-yang-liao-ge-yang-de-mo-zhua-zhong-jie-jiu-nu-peng-you/) | 2022-09-17 16:22:27  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5361;&#x592B;&#x9A6C;&#xB7;&#x4F0A;&#x9C81;&#x514B;&#x65AF;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/89.html) | 2022-11-13 04:02:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5728;&#x6218;&#x573A;&#x4E0A;&#x5954;&#x8D70;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/91.html) | 2022-11-14 04:20:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
