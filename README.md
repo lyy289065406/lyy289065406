@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.79%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.14%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.75%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.15%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.52%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.55%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.58%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.55%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1215 | 2022-11-16 00:42:59 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 267 | 2022-11-15 18:30:13  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1215 | 2022-11-17 01:07:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 272 | 2022-11-17 01:07:28  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 20 | 2022-11-14 15:54:00  |
 | [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 自动考勤 | 156 | 2022-11-13 13:47:17  |
 | [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 92 | 2022-11-06 16:33:06  |
@@ -79,7 +79,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.55%
 | [articles](https://github.com/lyy289065406/articles) | [发布 JAR 到 Maven 中央仓库全流程指引](https://exp-blog.com/tools/fa-bu-jar-dao-maven-zhong-yang-cang-ku-quan-liu-cheng-zhi-yin/) | 2022-10-03 16:00:47  |
 | [articles](https://github.com/lyy289065406/articles) | [GnuPG 环境安装与配置](https://exp-blog.com/tools/gpg-huan-jing-an-zhuang-yu-pei-zhi/) | 2022-10-03 06:25:47  |
 | [articles](https://github.com/lyy289065406/articles) | [如何在 “咩了个咩” 的魔爪中解救女朋友](https://exp-blog.com/safe/ru-he-zai-yang-liao-ge-yang-de-mo-zhua-zhong-jie-jiu-nu-peng-you/) | 2022-09-17 16:22:27  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x56E0;&#x7F18;&#x7684;&#x518D;&#x71C3;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/92.html) | 2022-11-15 03:47:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x77F3;&#x5757;&#x7684;&#x519B;&#x961F;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/93.html) | 2022-11-16 03:57:42 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
