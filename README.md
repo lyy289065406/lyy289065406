@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.75%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.73%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.15%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.52%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.58%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.60%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.58%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1215 | 2022-11-17 01:07:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 272 | 2022-11-17 01:07:28  |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 276 | 2022-11-18 01:05:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1215 | 2022-11-17 01:07:29  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 20 | 2022-11-14 15:54:00  |
 | [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 自动考勤 | 156 | 2022-11-13 13:47:17  |
 | [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 92 | 2022-11-06 16:33:06  |
