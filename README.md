@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.76%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.13%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.69%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.19%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.51%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.59%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.60%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.59%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 279 | 2022-11-18 15:45:04 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1215 | 2022-11-17 01:07:29  |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 311 | 2022-11-20 01:49:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1215 | 2022-11-20 00:34:34  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 20 | 2022-11-14 15:54:00  |
 | [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 自动考勤 | 156 | 2022-11-13 13:47:17  |
 | [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 92 | 2022-11-06 16:33:06  |
@@ -72,13 +72,13 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.59%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [利用 ADB 解锁手机指引](https://exp-blog.com/tools/adb-jie-suo-shou-ji-zhi-yin/) | 2022-11-13 13:01:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [Docker 设置代理指引（Windows 系统）](https://exp-blog.com/container/windows-xi-tong-she-zhi-docker-dai-li-zhi-yin/) | 2022-11-20 01:46:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [从零开始 DIFF Ragnarok 登入器教程](https://exp-blog.com/game/ro/cong-ling-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2022-11-19 23:29:14  |
+| [articles](https://github.com/lyy289065406/articles) | [利用 ADB 解锁手机指引](https://exp-blog.com/tools/adb-jie-suo-shou-ji-zhi-yin/) | 2022-11-13 13:01:27  |
 | [articles](https://github.com/lyy289065406/articles) | [【转】这，就是数学](https://exp-blog.com/insights/zhe-jiu-shi-shu-xue/) | 2022-11-12 00:34:10  |
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-11 15:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [Github Actions 自动发布 JAR 到 Maven 中央仓库全流程指引](https://exp-blog.com/tools/githubactions-zi-dong-fa-bu-jar-dao-maven-zhong-yang-cang-ku-quan-liu-cheng-zhi-yin/) | 2022-10-03 16:00:47  |
 | [articles](https://github.com/lyy289065406/articles) | [发布 JAR 到 Maven 中央仓库全流程指引](https://exp-blog.com/tools/fa-bu-jar-dao-maven-zhong-yang-cang-ku-quan-liu-cheng-zhi-yin/) | 2022-10-03 16:00:47  |
-| [articles](https://github.com/lyy289065406/articles) | [GnuPG 环境安装与配置](https://exp-blog.com/tools/gpg-huan-jing-an-zhuang-yu-pei-zhi/) | 2022-10-03 06:25:47  |
-| [articles](https://github.com/lyy289065406/articles) | [如何在 “咩了个咩” 的魔爪中解救女朋友](https://exp-blog.com/safe/ru-he-zai-yang-liao-ge-yang-de-mo-zhua-zhong-jie-jiu-nu-peng-you/) | 2022-09-17 16:22:27  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x77F3;&#x5757;&#x7684;&#x519B;&#x961F;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/93.html) | 2022-11-16 03:57:42 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
