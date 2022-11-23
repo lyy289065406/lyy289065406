@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.57%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.20%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.54%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.69%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.55%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.19%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.53%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.72%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.69%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 288 | 2022-11-22 00:55:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 292 | 2022-11-23 01:01:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 人脸识别自动考勤 | 165 | 2022-11-21 13:42:19  |
 | [calibre-docker](https://github.com/lyy289065406/calibre-docker) | docker 一键部署 calibre 在线书库 | 39 | 2022-11-20 17:44:29  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 326 | 2022-11-20 15:46:32  |
