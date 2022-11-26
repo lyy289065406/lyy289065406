@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.47%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.18%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.54%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.82%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.43%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.17%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.53%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.86%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,10 +56,10 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.82%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 人脸识别自动考勤 | 166 | 2022-11-24 17:56:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 327 | 2022-11-25 18:13:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 人脸识别自动考勤 | 166 | 2022-11-24 17:56:54  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 311 | 2022-11-24 17:56:43  |
 | [calibre-docker](https://github.com/lyy289065406/calibre-docker) | docker 一键部署 calibre 在线书库 | 39 | 2022-11-20 17:44:29  |
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 326 | 2022-11-20 15:46:32  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1238 | 2022-11-20 15:26:35  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 20 | 2022-11-14 15:54:00  |
 | [pypdm-db](https://github.com/lyy289065406/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 92 | 2022-11-06 16:33:06  |
@@ -79,7 +79,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    26.82%
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [从零开始 DIFF Ragnarok 登入器教程](https://exp-blog.com/game/ro/cong-ling-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2022-11-18 23:29:14  |
 | [articles](https://github.com/lyy289065406/articles) | [利用 ADB 解锁手机指引](https://exp-blog.com/tools/adb-jie-suo-shou-ji-zhi-yin/) | 2022-11-13 13:01:27  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8C01;&#x6765;&#x7684;&#x51B3;&#x5FC3;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/93.html) | 2022-11-20 04:10:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x7528;&#x6DF1;&#x7231;&#x63CF;&#x7ED8;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/96.html) | 2022-11-25 03:53:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
