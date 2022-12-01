@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.19%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.12%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.12%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.52%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.17%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.51%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.25%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.17%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 部署 ARK 私服（方舟-生存进化） | 9 | 2022-11-30 01:07:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 74 | 2022-11-29 17:48:31  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 343 | 2022-11-29 17:29:11  |
+| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 部署 ARK 私服（方舟-生存进化） | 32 | 2022-12-01 01:16:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 83 | 2022-12-01 01:00:15  |
+| [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署 bitwarden 密码管理工具 | 2 | 2022-11-30 15:34:15  |
+| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 2 | 2022-11-30 15:25:35  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 344 | 2022-11-30 15:20:09  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1238 | 2022-11-29 01:08:33  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 21 | 2022-11-28 00:49:47  |
 | [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 327 | 2022-11-25 18:13:38  |
-| [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 人脸识别自动考勤 | 166 | 2022-11-24 17:56:54  |
-| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | docker 一键部署 calibre 在线书库 | 39 | 2022-11-20 17:44:29  |
 <!-- END_SECTION:activity -->
 
 
