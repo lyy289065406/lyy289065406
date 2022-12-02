@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.12%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.12%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.07%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.11%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.51%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.25%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.32%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.25%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 部署 ARK 私服（方舟-生存进化） | 32 | 2022-12-01 01:16:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 83 | 2022-12-01 01:00:15  |
+| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 49 | 2022-12-01 18:39:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 88 | 2022-12-01 16:28:58  |
 | [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署 bitwarden 密码管理工具 | 2 | 2022-11-30 15:34:15  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 2 | 2022-11-30 15:25:35  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 344 | 2022-11-30 15:20:09  |
