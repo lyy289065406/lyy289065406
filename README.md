@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.92%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.12%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.49%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.47%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.95%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.11%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.48%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.45%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.47%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 23 | 2022-12-04 14:37:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署 bitwarden 密码管理工具 | 4 | 2022-12-06 01:21:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 79 | 2022-12-05 16:42:32  |
+| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 27 | 2022-12-05 16:34:33  |
 | [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 81 | 2022-12-04 04:21:19  |
 | [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 103 | 2022-12-03 10:59:44  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1238 | 2022-12-03 00:29:45  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 22 | 2022-12-02 17:45:38  |
-| [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署 bitwarden 密码管理工具 | 2 | 2022-11-30 15:34:15  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 344 | 2022-11-30 15:20:09  |
-| [ro-pandas-client-patch](https://github.com/lyy289065406/ro-pandas-client-patch) | 仙境 RO 传说 - 客户端（补丁） | 327 | 2022-11-25 18:13:38  |
 <!-- END_SECTION:activity -->
 
 
