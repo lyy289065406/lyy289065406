@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.95%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.11%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.91%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.15%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.48%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.45%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.47%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.45%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署 bitwarden 密码管理工具 | 4 | 2022-12-06 01:21:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 41 | 2022-12-07 01:54:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 15 | 2022-12-06 18:54:05  |
 | [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 79 | 2022-12-05 16:42:32  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 27 | 2022-12-05 16:34:33  |
 | [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 81 | 2022-12-04 04:21:19  |
 | [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 103 | 2022-12-03 10:59:44  |
 | [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1238 | 2022-12-03 00:29:45  |
 | [ubuntu-gcc-cmake-docker](https://github.com/lyy289065406/ubuntu-gcc-cmake-docker) | ubuntu 18.04 + gcc 7.5.0 + cmake 3.16.0 | 22 | 2022-12-02 17:45:38  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 344 | 2022-11-30 15:20:09  |
 <!-- END_SECTION:activity -->
 
 
