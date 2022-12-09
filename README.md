@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.87%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.18%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.92%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.11%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.47%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.48%
+Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.50%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.48%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 31 | 2022-12-08 01:05:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [minecraft-server](https://github.com/lyy289065406/minecraft-server) | None | 96 | 2022-12-08 00:42:22  |
+| [ro-documents](https://github.com/lyy289065406/ro-documents) | RO 历年资料收录 | 4 | 2022-12-09 01:45:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 82 | 2022-12-08 19:10:11  |
+| [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 40 | 2022-12-08 19:03:26  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1238 | 2022-12-08 18:12:20  |
+| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 82 | 2022-12-08 18:00:46  |
+| [minecraft-server](https://github.com/lyy289065406/minecraft-server) | 我的世界 - MC 服务端 | 96 | 2022-12-08 00:42:22  |
 | [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 45 | 2022-12-07 17:49:58  |
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1238 | 2022-12-07 14:25:00  |
-| [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 79 | 2022-12-05 16:42:32  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 27 | 2022-12-05 16:34:33  |
-| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 81 | 2022-12-04 04:21:19  |
-| [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 103 | 2022-12-03 10:59:44  |
 <!-- END_SECTION:activity -->
 
 
