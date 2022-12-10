@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.92%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.11%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.47%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.50%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.87%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.08%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.46%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.60%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.50%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-documents](https://github.com/lyy289065406/ro-documents) | RO 历年资料收录 | 4 | 2022-12-09 01:45:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 82 | 2022-12-08 19:10:11  |
-| [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 40 | 2022-12-08 19:03:26  |
-| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1238 | 2022-12-08 18:12:20  |
-| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 82 | 2022-12-08 18:00:46  |
-| [minecraft-server](https://github.com/lyy289065406/minecraft-server) | 我的世界 - MC 服务端 | 96 | 2022-12-08 00:42:22  |
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 45 | 2022-12-07 17:49:58  |
-| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 27 | 2022-12-05 16:34:33  |
+| [ro-pandas-server-docker](https://github.com/lyy289065406/ro-pandas-server-docker) | 仙境 RO 传说 - 服务端（docker 一键启动版） | 1306 | 2022-12-10 02:09:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [minecraft-server](https://github.com/lyy289065406/minecraft-server) | 我的世界 - MC 服务端 | 100 | 2022-12-10 01:32:01  |
+| [mc-catserver-tf-docker](https://github.com/lyy289065406/mc-catserver-tf-docker) | 我的世界 MC： CatServer 暮色森林 服务端（1.12.2-docker） | 1 | 2022-12-10 00:50:33  |
+| [mc-sponge-awacg-ic2-docker](https://github.com/lyy289065406/mc-sponge-awacg-ic2-docker) | 我的世界 MC： Sponge 绅士+工业时代2 服务端（1.10.2-docker） | 1 | 2022-12-10 00:43:31  |
+| [mc-sponge-raw-docker](https://github.com/lyy289065406/mc-sponge-raw-docker) | 我的世界 MC： Sponge 原版服务端（1.10.2-docker）-架空建筑地图 | 1 | 2022-12-10 00:41:41  |
+| [mc-kcauldron-tc4-docker](https://github.com/lyy289065406/mc-kcauldron-tc4-docker) | 我的世界 MC： KCauldron 神秘时代4 服务端（1.7.10-docker） | 1 | 2022-12-10 00:29:11  |
+| [mc-kcauldron-raw-docker](https://github.com/lyy289065406/mc-kcauldron-raw-docker) | 我的世界 MC： KCauldron 原版服务端（1.7.10-docker） | 1 | 2022-12-10 00:27:58  |
+| [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 257 | 2022-12-09 05:24:22  |
 <!-- END_SECTION:activity -->
 
 
