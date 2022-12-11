@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.77%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.12%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.45%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.66%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.68%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.35%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.44%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.52%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.66%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [minecraft-client](https://github.com/lyy289065406/minecraft-client) | 我的世界 - MC 客户端（多版本合集） | 69 | 2022-12-11 02:14:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [minecraft-server](https://github.com/lyy289065406/minecraft-server) | 我的世界 - MC 服务端（多版本合集） | 102 | 2022-12-11 02:13:36  |
-| [mc-sponge-awacg-docker](https://github.com/lyy289065406/mc-sponge-awacg-docker) | 我的世界 MC： Sponge 绅士魔改 ACG MMD 服务端（1.10.2-docker） | 5 | 2022-12-11 02:13:12  |
-| [mc-sponge-raw-docker](https://github.com/lyy289065406/mc-sponge-raw-docker) | 我的世界 MC： Sponge 原版服务端（1.10.2） | 12 | 2022-12-11 01:49:50  |
-| [mc-kcauldron-tc4-docker](https://github.com/lyy289065406/mc-kcauldron-tc4-docker) | 我的世界 MC： KCauldron 神秘时代4 纪念版服务端（1.7.10） | 7 | 2022-12-10 17:22:01  |
-| [mc-kcauldron-raw-docker](https://github.com/lyy289065406/mc-kcauldron-raw-docker) | 我的世界 MC： KCauldron 原版服务端（1.7.10） | 31 | 2022-12-10 16:40:07  |
-| [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 104 | 2022-12-10 10:32:32  |
-| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 28 | 2022-12-10 09:08:12  |
+| [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 6 | 2022-12-11 13:04:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [naturally-ro-website](https://github.com/lyy289065406/naturally-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 6 | 2022-12-11 12:47:39  |
+| [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 40 | 2022-12-11 11:52:49  |
+| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker 一键启动版） | 1309 | 2022-12-11 11:41:40  |
+| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 329 | 2022-12-11 11:33:57  |
+| [minecraft-server](https://github.com/lyy289065406/minecraft-server) | 我的世界 - MC 服务端（多版本合集） | 106 | 2022-12-11 05:21:19  |
+| [minecraft-client](https://github.com/lyy289065406/minecraft-client) | 我的世界 - MC 客户端（多版本合集） | 70 | 2022-12-11 05:21:14  |
+| [minecraft-client-awacg](https://github.com/lyy289065406/minecraft-client-awacg) | 我的世界 MC：绅士魔改 ACG MMD 客户端（1.10.2） | 106 | 2022-12-11 05:11:07  |
 <!-- END_SECTION:activity -->
 
 
