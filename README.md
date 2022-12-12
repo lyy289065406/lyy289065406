@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.68%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.67%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.35%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.44%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.52%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.54%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.52%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 6 | 2022-12-11 13:04:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 8 | 2022-12-11 17:27:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [naturally-ro-website](https://github.com/lyy289065406/naturally-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 6 | 2022-12-11 12:47:39  |
 | [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 40 | 2022-12-11 11:52:49  |
 | [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker 一键启动版） | 1309 | 2022-12-11 11:41:40  |
