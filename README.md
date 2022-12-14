@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.65%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.35%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.44%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.68%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.34%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.43%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.56%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.56%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 10 | 2022-12-12 16:42:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 92 | 2022-12-13 18:03:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 105 | 2022-12-13 17:57:05  |
+| [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 11 | 2022-12-13 05:17:27  |
+| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 29 | 2022-12-13 03:40:21  |
 | [naturally-ro-website](https://github.com/lyy289065406/naturally-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 6 | 2022-12-11 12:47:39  |
 | [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 40 | 2022-12-11 11:52:49  |
 | [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1309 | 2022-12-11 11:41:40  |
 | [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 329 | 2022-12-11 11:33:57  |
-| [minecraft-server](https://github.com/lyy289065406/minecraft-server) | 我的世界 - MC 服务端（多版本合集） | 106 | 2022-12-11 05:21:19  |
-| [minecraft-client](https://github.com/lyy289065406/minecraft-client) | 我的世界 - MC 客户端（多版本合集） | 70 | 2022-12-11 05:21:14  |
-| [minecraft-client-awacg](https://github.com/lyy289065406/minecraft-client-awacg) | 我的世界 MC：绅士魔改 ACG MMD 客户端（1.10.2） | 106 | 2022-12-11 05:11:07  |
 <!-- END_SECTION:activity -->
 
 
