@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.68%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.34%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.66%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.33%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.43%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.56%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.59%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.56%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 92 | 2022-12-13 18:03:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 96 | 2022-12-14 05:21:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 105 | 2022-12-13 17:57:05  |
 | [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 11 | 2022-12-13 05:17:27  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 29 | 2022-12-13 03:40:21  |
