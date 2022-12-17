@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.69%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.31%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.65%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.30%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.42%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.58%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.63%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.58%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 98 | 2022-12-15 17:41:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 105 | 2022-12-13 17:57:05  |
+| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 105 | 2022-12-16 19:10:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 111 | 2022-12-16 19:10:47  |
+| [ark-mods](https://github.com/lyy289065406/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 4 | 2022-12-16 19:09:40  |
 | [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 11 | 2022-12-13 05:17:27  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 29 | 2022-12-13 03:40:21  |
 | [naturally-ro-website](https://github.com/lyy289065406/naturally-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 6 | 2022-12-11 12:47:39  |
 | [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 40 | 2022-12-11 11:52:49  |
 | [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1309 | 2022-12-11 11:41:40  |
-| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 329 | 2022-12-11 11:33:57  |
 <!-- END_SECTION:activity -->
 
 
