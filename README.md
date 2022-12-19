@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.62%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.30%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.60%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.29%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.41%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.66%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.69%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,10 +56,10 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.66%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [license-server](https://github.com/lyy289065406/license-server) | 软件许可认证服务端 | 2 | 2022-12-17 07:09:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ark-mods](https://github.com/lyy289065406/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 6 | 2022-12-18 05:13:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [license-server](https://github.com/lyy289065406/license-server) | 软件许可认证服务端 | 2 | 2022-12-17 07:09:03  |
 | [license-client](https://github.com/lyy289065406/license-client) | 软件许可认证客户端（接入用户终端） | 1 | 2022-12-17 07:08:22  |
 | [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 12 | 2022-12-17 06:57:57  |
-| [ark-mods](https://github.com/lyy289065406/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 5 | 2022-12-17 06:56:20  |
 | [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 110 | 2022-12-17 06:55:50  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 30 | 2022-12-17 06:45:49  |
 | [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 111 | 2022-12-16 19:10:47  |
