@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.60%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.58%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.29%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.41%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.69%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.72%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,12 +56,12 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.69%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ark-mods](https://github.com/lyy289065406/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 6 | 2022-12-18 05:13:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [license-server](https://github.com/lyy289065406/license-server) | 软件许可认证服务端 | 2 | 2022-12-17 07:09:03  |
+| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 33 | 2022-12-19 15:32:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [license-server](https://github.com/lyy289065406/license-server) | 软件许可认证服务端 | 5 | 2022-12-19 05:21:21  |
+| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 112 | 2022-12-19 04:56:58  |
+| [ark-mods](https://github.com/lyy289065406/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 6 | 2022-12-18 05:13:17  |
 | [license-client](https://github.com/lyy289065406/license-client) | 软件许可认证客户端（接入用户终端） | 1 | 2022-12-17 07:08:22  |
 | [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 12 | 2022-12-17 06:57:57  |
-| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 110 | 2022-12-17 06:55:50  |
-| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 30 | 2022-12-17 06:45:49  |
 | [ark](https://github.com/lyy289065406/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 111 | 2022-12-16 19:10:47  |
 | [naturally-ro-website](https://github.com/lyy289065406/naturally-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 6 | 2022-12-11 12:47:39  |
 <!-- END_SECTION:activity -->
