@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.57%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.29%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.41%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.74%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.60%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.27%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.40%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.73%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.74%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [license-server](https://github.com/lyy289065406/license-server) | 软件许可认证服务端 | 7 | 2022-12-20 05:23:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [license-server](https://github.com/lyy289065406/license-server) | 软件许可认证服务端 | 8 | 2022-12-21 05:16:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 34 | 2022-12-20 04:57:27  |
 | [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 112 | 2022-12-19 04:56:58  |
 | [ark-mods](https://github.com/lyy289065406/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 6 | 2022-12-18 05:13:17  |
