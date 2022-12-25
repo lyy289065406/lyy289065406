@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.56%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.53%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.26%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.39%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.78%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.82%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,13 +56,13 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.78%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 116 | 2022-12-23 18:33:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 13 | 2022-12-22 16:59:37  |
+| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 121 | 2022-12-25 01:57:46 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ark-mods](https://github.com/lyy289065406/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 7 | 2022-12-24 06:47:21  |
+| [store-material](https://github.com/lyy289065406/store-material) | 网店装修素材 | 15 | 2022-12-24 05:08:14  |
 | [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 2 | 2022-12-22 15:21:41  |
 | [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 41 | 2022-12-22 07:05:52  |
 | [license-server](https://github.com/lyy289065406/license-server) | 软件许可认证服务端 | 10 | 2022-12-22 06:22:55  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 34 | 2022-12-20 04:57:27  |
-| [ark-mods](https://github.com/lyy289065406/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 6 | 2022-12-18 05:13:17  |
 | [license-client](https://github.com/lyy289065406/license-client) | 软件许可认证客户端（接入用户终端） | 1 | 2022-12-17 07:08:22  |
 <!-- END_SECTION:activity -->
 
