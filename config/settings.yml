@@ -1,7 +1,7 @@
 app:
   new_flag_img: '![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif)'
   activity_num: 8              # 展示的活动项数
-  article_num: 7                # 展示的文章项数
+  article_num: 7               # 展示的文章项数
   skip_repos:
     - '.*?demo.*'
     - 'crop-circles'
@@ -13,6 +13,7 @@ app:
     - 'ebooks-library'
     - 're0-web'
     - 'idea-cloud-settings'
+    - 'store-material'
     
 github:
   proxy: "<%= ENV['PROXY'] %>"  # 连接到 Github 的代理服务，如： http://127.0.0.1:8888, socks5://127.0.0.1:1088
