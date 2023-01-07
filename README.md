@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.37%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.27%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.41%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.25%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.36%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.00%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.98%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -79,7 +79,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.00%
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [从零开始 DIFF Ragnarok 登入器教程](https://exp-blog.com/game/ro/cong-ling-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2022-11-18 23:29:14  |
 | [articles](https://github.com/lyy289065406/articles) | [利用 ADB 解锁手机指引](https://exp-blog.com/tools/adb-jie-suo-shou-ji-zhi-yin/) | 2022-11-13 13:01:27  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4ECE;&#x897F;&#x8FB9;&#x7684;&#x5F7C;&#x65B9;&#x6765;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/97.html) | 2023-01-04 03:17:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x666E;&#x96F7;&#x963F;&#x8FEA;&#x65AF;&#x6218;&#x56E2;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/98.html) | 2023-01-06 03:23:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
