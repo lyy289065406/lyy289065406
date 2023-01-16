@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.22%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.23%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.34%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.21%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.17%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.25%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.35%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.24%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.21%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1315 | 2023-01-15 18:47:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-documents](https://github.com/lyy289065406/ro-documents) | 仙境传说 RO 历年资料收录 | 5 | 2023-01-14 03:01:05  |
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 15 | 2023-01-10 13:12:52  |
-| [pyyaml-erb](https://github.com/lyy289065406/pyyaml-erb) | 解析 yaml 配置文件中的的环境变量 | 19 | 2023-01-08 12:30:57  |
-| [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 124 | 2023-01-07 09:39:48  |
-| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 331 | 2023-01-03 12:58:26  |
-| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 35 | 2022-12-26 16:06:38  |
-| [ark-mods](https://github.com/lyy289065406/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 7 | 2022-12-24 06:47:21  |
+| [pypi-template](https://github.com/lyy289065406/pypi-template) | pypi 开发模板 | 13 | 2023-01-16 17:52:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 31 | 2023-01-16 17:51:44  |
+| [bilibili-plugin](https://github.com/lyy289065406/bilibili-plugin) | 哔哩哔哩插件姬 | 145 | 2023-01-16 17:51:30  |
+| [pyzone-crawler](https://github.com/lyy289065406/pyzone-crawler) | QQ空间爬虫（Python版） | 14 | 2023-01-16 17:51:04  |
+| [HeadFirst-Python](https://github.com/lyy289065406/HeadFirst-Python) | 《HeadFirst Python》课后练习 | 3 | 2023-01-16 17:50:51  |
+| [lovely-python](https://github.com/lyy289065406/lovely-python) | 《可爱的Python》课后练习 | 3 | 2023-01-16 17:50:38  |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 345 | 2023-01-16 17:49:09  |
+| [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 人脸识别自动考勤 | 167 | 2023-01-16 17:48:43  |
 <!-- END_SECTION:activity -->
 
 
