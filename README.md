@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.17%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.25%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.15%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.28%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.35%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.24%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.22%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.24%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [pypi-template](https://github.com/lyy289065406/pypi-template) | pypi 开发模板 | 13 | 2023-01-16 17:52:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [python-crawler-template](https://github.com/lyy289065406/python-crawler-template) | Python 爬虫开发模板 | 31 | 2023-01-16 17:51:44  |
-| [bilibili-plugin](https://github.com/lyy289065406/bilibili-plugin) | 哔哩哔哩插件姬 | 145 | 2023-01-16 17:51:30  |
-| [pyzone-crawler](https://github.com/lyy289065406/pyzone-crawler) | QQ空间爬虫（Python版） | 14 | 2023-01-16 17:51:04  |
-| [HeadFirst-Python](https://github.com/lyy289065406/HeadFirst-Python) | 《HeadFirst Python》课后练习 | 3 | 2023-01-16 17:50:51  |
-| [lovely-python](https://github.com/lyy289065406/lovely-python) | 《可爱的Python》课后练习 | 3 | 2023-01-16 17:50:38  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 345 | 2023-01-16 17:49:09  |
-| [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 人脸识别自动考勤 | 167 | 2023-01-16 17:48:43  |
+| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1328 | 2023-01-16 18:17:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [naturally-ro-website](https://github.com/lyy289065406/naturally-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 7 | 2023-01-16 18:12:35  |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 16 | 2023-01-16 18:11:49  |
+| [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 133 | 2023-01-16 18:08:23  |
+| [auto-upgrader](https://github.com/lyy289065406/auto-upgrader) | 自动化升级插件 | 185 | 2023-01-16 18:08:10  |
+| [account-mgr](https://github.com/lyy289065406/account-mgr) | 帐密管理工具 | 34 | 2023-01-16 18:07:50  |
+| [top-baidu-tieba](https://github.com/lyy289065406/top-baidu-tieba) | 百度贴吧顶贴机 | 17 | 2023-01-16 18:07:34  |
+| [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 41 | 2023-01-16 18:07:15  |
 <!-- END_SECTION:activity -->
 
 
