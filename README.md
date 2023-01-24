@@ -43,8 +43,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.03%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.25%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.06%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.23%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.33%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.38%
 ```
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.38%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-22 14:27:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-24 01:22:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 337 | 2023-01-24 01:21:22  |
+| [ro-documents](https://github.com/lyy289065406/ro-documents) | 仙境传说 RO 历年资料收录 | 7 | 2023-01-23 10:05:06  |
 | [naturally-ro-website](https://github.com/lyy289065406/naturally-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 7 | 2023-01-16 18:12:35  |
 | [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 16 | 2023-01-16 18:11:49  |
 | [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 133 | 2023-01-16 18:08:23  |
 | [auto-upgrader](https://github.com/lyy289065406/auto-upgrader) | 自动化升级插件 | 185 | 2023-01-16 18:08:10  |
 | [account-mgr](https://github.com/lyy289065406/account-mgr) | 帐密管理工具 | 34 | 2023-01-16 18:07:50  |
-| [top-baidu-tieba](https://github.com/lyy289065406/top-baidu-tieba) | 百度贴吧顶贴机 | 17 | 2023-01-16 18:07:34  |
-| [one-to-m-liveness](https://github.com/lyy289065406/one-to-m-liveness) | 一对多探活器 | 41 | 2023-01-16 18:07:15  |
 <!-- END_SECTION:activity -->
 
 
