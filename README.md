@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.06%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.09%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.23%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.33%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.38%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.32%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.36%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.38%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-24 01:22:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 337 | 2023-01-24 01:21:22  |
-| [ro-documents](https://github.com/lyy289065406/ro-documents) | 仙境传说 RO 历年资料收录 | 7 | 2023-01-23 10:05:06  |
-| [naturally-ro-website](https://github.com/lyy289065406/naturally-ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 7 | 2023-01-16 18:12:35  |
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 16 | 2023-01-16 18:11:49  |
-| [software-certificate](https://github.com/lyy289065406/software-certificate) | 软件授权插件 | 133 | 2023-01-16 18:08:23  |
-| [auto-upgrader](https://github.com/lyy289065406/auto-upgrader) | 自动化升级插件 | 185 | 2023-01-16 18:08:10  |
-| [account-mgr](https://github.com/lyy289065406/account-mgr) | 帐密管理工具 | 34 | 2023-01-16 18:07:50  |
+| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-25 02:01:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | 62 | 2023-01-24 10:35:46  |
+| [CVE-2019-15588](https://github.com/lyy289065406/CVE-2019-15588) | CVE-2019-15588 靶场： RCE 命令注入漏洞 | 4 | 2023-01-24 10:35:32  |
+| [CVE-2019-5475](https://github.com/lyy289065406/CVE-2019-5475) | CVE-2019-5475 靶场： RCE 命令注入漏洞 | 35 | 2023-01-24 10:35:18  |
+| [CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192) | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | 52 | 2023-01-24 10:35:03  |
+| [CVE-2021-44228](https://github.com/lyy289065406/CVE-2021-44228) | log4j <= 2.14.1 严重 RCE 注入漏洞（Log4Shell） | 4 | 2023-01-24 10:34:46  |
+| [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | 18 | 2023-01-24 10:34:05  |
+| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 338 | 2023-01-24 02:45:29  |
 <!-- END_SECTION:activity -->
 
 
@@ -79,7 +79,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.38%
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [从零开始 DIFF Ragnarok 登入器教程](https://exp-blog.com/game/ro/cong-ling-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2022-11-18 23:29:14  |
 | [articles](https://github.com/lyy289065406/articles) | [利用 ADB 解锁手机指引](https://exp-blog.com/tools/adb-jie-suo-shou-ji-zhi-yin/) | 2022-11-13 13:01:27  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x9876;&#x70B9;&#x4E07;&#x5316;&#xFF1B;&#x9876;&#x70B9;&#x4E07;&#x5316;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/100.html) | 2023-01-17 03:15:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x7231;&#x5C31;&#x662F;&#x706B;&#x7130;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/101.html) | 2023-01-24 03:11:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
