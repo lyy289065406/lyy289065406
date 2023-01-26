@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.09%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.23%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.32%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.36%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.12%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.21%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.31%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.35%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.36%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-25 02:01:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-25 14:32:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 340 | 2023-01-25 14:31:49  |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 17 | 2023-01-25 14:31:36  |
 | [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | 62 | 2023-01-24 10:35:46  |
 | [CVE-2019-15588](https://github.com/lyy289065406/CVE-2019-15588) | CVE-2019-15588 靶场： RCE 命令注入漏洞 | 4 | 2023-01-24 10:35:32  |
 | [CVE-2019-5475](https://github.com/lyy289065406/CVE-2019-5475) | CVE-2019-5475 靶场： RCE 命令注入漏洞 | 35 | 2023-01-24 10:35:18  |
 | [CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192) | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | 52 | 2023-01-24 10:35:03  |
 | [CVE-2021-44228](https://github.com/lyy289065406/CVE-2021-44228) | log4j <= 2.14.1 严重 RCE 注入漏洞（Log4Shell） | 4 | 2023-01-24 10:34:46  |
-| [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | 18 | 2023-01-24 10:34:05  |
-| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 338 | 2023-01-24 02:45:29  |
 <!-- END_SECTION:activity -->
 
 
