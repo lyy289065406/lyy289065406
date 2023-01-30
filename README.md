@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.16%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.18%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.14%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.17%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.30%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.36%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.39%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,10 +56,10 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.36%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-28 11:24:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 343 | 2023-01-28 11:22:59  |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 18 | 2023-01-29 16:10:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-29 16:10:32  |
+| [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 346 | 2023-01-29 15:30:07  |
 | [ro-documents](https://github.com/lyy289065406/ro-documents) | 仙境传说 RO 历年资料收录 | 8 | 2023-01-27 16:25:51  |
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 17 | 2023-01-25 14:31:36  |
 | [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | 62 | 2023-01-24 10:35:46  |
 | [CVE-2019-15588](https://github.com/lyy289065406/CVE-2019-15588) | CVE-2019-15588 靶场： RCE 命令注入漏洞 | 4 | 2023-01-24 10:35:32  |
 | [CVE-2019-5475](https://github.com/lyy289065406/CVE-2019-5475) | CVE-2019-5475 靶场： RCE 命令注入漏洞 | 35 | 2023-01-24 10:35:18  |
@@ -79,7 +79,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.36%
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [从零开始 DIFF Ragnarok 登入器教程](https://exp-blog.com/game/ro/cong-ling-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2022-11-18 23:29:14  |
 | [articles](https://github.com/lyy289065406/articles) | [利用 ADB 解锁手机指引](https://exp-blog.com/tools/adb-jie-suo-shou-ji-zhi-yin/) | 2022-11-13 13:01:27  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x7231;&#x5C31;&#x662F;&#x706B;&#x7130;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/101.html) | 2023-01-24 03:11:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x89C9;&#x609F;&#x4E4B;&#x5899;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/102.html) | 2023-01-29 03:25:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
