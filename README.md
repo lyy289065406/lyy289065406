@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.14%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.17%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.30%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.39%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.18%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.16%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.29%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.37%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.39%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 18 | 2023-01-29 16:10:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-29 16:10:32  |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 20 | 2023-01-30 17:09:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-30 16:43:38  |
 | [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 346 | 2023-01-29 15:30:07  |
 | [ro-documents](https://github.com/lyy289065406/ro-documents) | 仙境传说 RO 历年资料收录 | 8 | 2023-01-27 16:25:51  |
 | [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | 62 | 2023-01-24 10:35:46  |
