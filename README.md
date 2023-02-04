@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.17%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.15%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.16%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.28%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.39%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.41%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.39%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 30 | 2023-02-02 16:02:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 33 | 2023-02-03 15:49:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 5 | 2023-01-31 10:02:06  |
 | [naturally-ro-server-docker](https://github.com/lyy289065406/naturally-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-01-31 09:56:54  |
 | [naturally-ro-client-patch](https://github.com/lyy289065406/naturally-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 346 | 2023-01-29 15:30:07  |
