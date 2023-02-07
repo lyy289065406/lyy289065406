@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.09%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.18%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.27%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.46%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.12%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.17%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.26%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.45%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.46%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 47 | 2023-02-05 16:31:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-05 16:29:55  |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 50 | 2023-02-06 16:40:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-06 09:13:54  |
 | [ro-npc-list](https://github.com/Casual-Ragnarok/ro-npc-list) | RO 仙境传说 - NPC 脚本清单 | 2 | 2023-02-04 14:13:00  |
 | [casual-ro-client-patch](https://github.com/lyy289065406/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 347 | 2023-02-04 12:26:37  |
 | [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 5 | 2023-01-31 10:02:06  |
