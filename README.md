@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.12%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.10%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.17%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.26%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.45%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.27%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.46%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.45%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 50 | 2023-02-06 16:40:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 53 | 2023-02-07 16:17:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-template](https://github.com/lyy289065406/hexo-template) | Hexo 博客创建模板 | 17 | 2023-02-07 08:10:16  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-06 09:13:54  |
 | [ro-npc-list](https://github.com/Casual-Ragnarok/ro-npc-list) | RO 仙境传说 - NPC 脚本清单 | 2 | 2023-02-04 14:13:00  |
 | [casual-ro-client-patch](https://github.com/lyy289065406/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 347 | 2023-02-04 12:26:37  |
 | [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 5 | 2023-01-31 10:02:06  |
 | [ro-documents](https://github.com/lyy289065406/ro-documents) | 仙境传说 RO 历年资料收录 | 8 | 2023-01-27 16:25:51  |
 | [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | 62 | 2023-01-24 10:35:46  |
-| [CVE-2019-15588](https://github.com/lyy289065406/CVE-2019-15588) | CVE-2019-15588 靶场： RCE 命令注入漏洞 | 4 | 2023-01-24 10:35:32  |
 <!-- END_SECTION:activity -->
 
 
