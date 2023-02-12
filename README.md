@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.05%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.21%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.00%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.25%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.26%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.48%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.49%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.48%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npc-list](https://github.com/Casual-Ragnarok/ro-npc-list) | RO 仙境传说 - NPC 脚本清单 | 2 | 2023-02-11 02:15:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 88 | 2023-02-11 02:13:26  |
+| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-11 15:42:04 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-11 15:25:12  |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 100 | 2023-02-11 15:23:14  |
+| [ro-website](https://github.com/Casual-Ragnarok/ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 8 | 2023-02-11 13:31:49  |
+| [ro-docs](https://github.com/lyy289065406/ro-docs) | 仙境传说 RO 历年资料收录 | 9 | 2023-02-11 13:07:32  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 9 | 2023-02-11 12:55:25  |
 | [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 7 | 2023-02-08 04:04:11  |
 | [hexo-template](https://github.com/lyy289065406/hexo-template) | Hexo 博客创建模板 | 17 | 2023-02-07 08:10:16  |
-| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-06 09:13:54  |
-| [casual-ro-client-patch](https://github.com/lyy289065406/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 347 | 2023-02-04 12:26:37  |
-| [ro-documents](https://github.com/lyy289065406/ro-documents) | 仙境传说 RO 历年资料收录 | 8 | 2023-01-27 16:25:51  |
-| [CVE-2020-13277](https://github.com/lyy289065406/CVE-2020-13277) | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | 62 | 2023-01-24 10:35:46  |
 <!-- END_SECTION:activity -->
 
 

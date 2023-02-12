@@ -6999,3 +6999,90 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.48%
 
 2023-02-11 02:16:12 [INFO] - 正在更新 [README.md] ...
 2023-02-11 02:16:12 [INFO] - 已更新 [README.md]
+2023-02-12 02:22:10 [INFO] - 正在读取 [README.md] ...
+2023-02-12 02:22:10 [INFO] - 正在读取所有项目仓库的活动数据 ...
+2023-02-12 02:22:22 [INFO] - 获得 [136] 个项目仓库的数据
+2023-02-12 02:22:22 [INFO] - 正在构造 [时间分配] 数据 ...
+2023-02-12 02:22:22 [INFO] - 
+```text
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.00%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.25%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.26%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.49%
+```
+
+2023-02-12 02:22:22 [INFO] - 正在构造 [最近活跃] 数据 ...
+2023-02-12 02:22:22 [INFO] - 
+| repo | description | commit count | push time |
+|:------|:------|:------|:------|
+| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-11 15:42:04 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-11 15:25:12  |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 100 | 2023-02-11 15:23:14  |
+| [ro-website](https://github.com/Casual-Ragnarok/ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 8 | 2023-02-11 13:31:49  |
+| [ro-docs](https://github.com/lyy289065406/ro-docs) | 仙境传说 RO 历年资料收录 | 9 | 2023-02-11 13:07:32  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 9 | 2023-02-11 12:55:25  |
+| [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 7 | 2023-02-08 04:04:11  |
+| [hexo-template](https://github.com/lyy289065406/hexo-template) | Hexo 博客创建模板 | 17 | 2023-02-07 08:10:16  |
+
+2023-02-12 02:22:22 [INFO] - 正在构造 [最新文章] 数据 ...
+2023-02-12 02:22:22 [ERROR] - 构造数据异常
+2023-02-12 02:22:22 [ERROR] - Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -5] No address associated with hostname
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 978, in _validate_conn
+    conn.connect()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connection.py", line 309, in connect
+    conn = self._new_conn()
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connection.py", line 171, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f8a415df190>: Failed to establish a new connection: [Errno -5] No address associated with hostname
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/urllib3/util/retry.py", line 446, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='exp-blog.com', port=443): Max retries exceeded with url: /atom.xml (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8a415df190>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 84, in main
+    data_ar = article.build(github_token, proxy)
+  File "/home/runner/work/lyy289065406/lyy289065406/src/builder/article.py", line 32, in build
+    rows.extend(ar.get_tops(MODE_RSS, settings.app['article_num']))
+  File "/home/runner/work/lyy289065406/lyy289065406/src/builder/article.py", line 82, in get_tops
+    articles = self._get_top_articles(mode, top)
+  File "/home/runner/work/lyy289065406/lyy289065406/src/builder/article.py", line 117, in _get_top_articles
+    rsp = requests.get(
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.8.16/x64/lib/python3.8/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='exp-blog.com', port=443): Max retries exceeded with url: /atom.xml (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8a415df190>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+
+2023-02-12 02:22:22 [INFO] - 正在更新 [README.md] ...
+2023-02-12 02:22:22 [INFO] - 已更新 [README.md]
