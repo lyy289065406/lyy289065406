@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    58.00%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.98%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.25%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.26%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.49%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.51%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,12 +56,12 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.49%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-11 15:42:04 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 13 | 2023-02-12 11:47:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-11 15:42:04  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-11 15:25:12  |
 | [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 100 | 2023-02-11 15:23:14  |
 | [ro-website](https://github.com/Casual-Ragnarok/ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 8 | 2023-02-11 13:31:49  |
 | [ro-docs](https://github.com/lyy289065406/ro-docs) | 仙境传说 RO 历年资料收录 | 9 | 2023-02-11 13:07:32  |
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 9 | 2023-02-11 12:55:25  |
 | [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 7 | 2023-02-08 04:04:11  |
 | [hexo-template](https://github.com/lyy289065406/hexo-template) | Hexo 博客创建模板 | 17 | 2023-02-07 08:10:16  |
 <!-- END_SECTION:activity -->
@@ -72,7 +72,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.49%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x9876;&#x70B9;&#x4E71;&#x9EBB;(&#x4E2D;&#x7BC7;)&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/105.html) | 2023-02-09 03:23:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [AI 全自动考勤原理与实现](https://exp-blog.com/deeplearn/ai-quan-zi-dong-kao-qin-yuan-li-yu-shi-xian/) | 2022-11-20 09:14:17  |
+| [articles](https://github.com/lyy289065406/articles) | [解决 Windows 10 启动 Docker 时端口被占用问题](https://exp-blog.com/container/win10-qi-dong-docker-shi-duan-kou-bei-zhan-yong/) | 2022-11-20 02:27:56  |
+| [articles](https://github.com/lyy289065406/articles) | [Docker 设置代理指引（Windows 系统）](https://exp-blog.com/container/windows-xi-tong-she-zhi-docker-dai-li-zhi-yin/) | 2022-11-20 01:46:08  |
+| [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
+| [articles](https://github.com/lyy289065406/articles) | [从零开始 DIFF Ragnarok 登入器教程](https://exp-blog.com/game/ro/cong-ling-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2022-11-18 23:29:14  |
+| [articles](https://github.com/lyy289065406/articles) | [利用 ADB 解锁手机指引](https://exp-blog.com/tools/adb-jie-suo-shou-ji-zhi-yin/) | 2022-11-13 13:01:27  |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x9876;&#x70B9;&#x4E71;&#x9EBB;(&#x540E;&#x7BC7;)&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/106.html) | 2023-02-11 03:31:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
