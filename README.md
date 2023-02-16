@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.99%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.23%
+Programming    24 hrs    ooooooooooooxxxxxxxx    58.02%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.22%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.26%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.52%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.50%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.52%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 13 | 2023-02-12 11:47:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-15 17:23:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 104 | 2023-02-15 17:20:56  |
+| [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 9 | 2023-02-15 16:24:49  |
+| [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 8 | 2023-02-15 10:19:46  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 13 | 2023-02-12 11:47:53  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-11 15:42:04  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-11 15:25:12  |
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 100 | 2023-02-11 15:23:14  |
 | [ro-website](https://github.com/Casual-Ragnarok/ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 8 | 2023-02-11 13:31:49  |
 | [ro-docs](https://github.com/lyy289065406/ro-docs) | 仙境传说 RO 历年资料收录 | 9 | 2023-02-11 13:07:32  |
-| [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 7 | 2023-02-08 04:04:11  |
-| [hexo-template](https://github.com/lyy289065406/hexo-template) | Hexo 博客创建模板 | 17 | 2023-02-07 08:10:16  |
 <!-- END_SECTION:activity -->
 
 
