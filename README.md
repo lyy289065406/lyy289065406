@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.98%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.96%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.25%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.25%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.52%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.53%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.52%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-16 17:04:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 107 | 2023-02-16 17:01:32  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-17 18:10:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 113 | 2023-02-17 18:09:08  |
+| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-17 17:39:51  |
+| [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 5 | 2023-02-17 15:33:05  |
 | [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 22 | 2023-02-16 10:07:43  |
 | [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 44 | 2023-02-16 08:43:59  |
 | [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 9 | 2023-02-15 16:24:49  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 13 | 2023-02-12 11:47:53  |
-| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-11 15:42:04  |
-| [ro-website](https://github.com/Casual-Ragnarok/ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 8 | 2023-02-11 13:31:49  |
 <!-- END_SECTION:activity -->
 
 
@@ -79,7 +79,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.52%
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [从零开始 DIFF Ragnarok 登入器教程](https://exp-blog.com/game/ro/cong-ling-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2022-11-18 23:29:14  |
 | [articles](https://github.com/lyy289065406/articles) | [利用 ADB 解锁手机指引](https://exp-blog.com/tools/adb-jie-suo-shou-ji-zhi-yin/) | 2022-11-13 13:01:27  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5373;&#x5C06;&#x5230;&#x6765;&#x7684;&#x5927;&#x707E;&#x96BE;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/108.html) | 2023-02-14 03:46:35 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5E1D;&#x56FD;&#x4E4B;&#x5251;&#x72FC;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/109.html) | 2023-02-17 03:41:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
