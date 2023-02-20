@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.93%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.26%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.89%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.28%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.26%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.55%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.57%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.55%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-18 22:24:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 119 | 2023-02-18 22:22:16  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-19 17:38:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 135 | 2023-02-19 17:30:05  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-17 17:39:51  |
 | [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 5 | 2023-02-17 15:33:05  |
 | [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 22 | 2023-02-16 10:07:43  |
@@ -79,7 +79,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.55%
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [从零开始 DIFF Ragnarok 登入器教程](https://exp-blog.com/game/ro/cong-ling-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2022-11-18 23:29:14  |
 | [articles](https://github.com/lyy289065406/articles) | [利用 ADB 解锁手机指引](https://exp-blog.com/tools/adb-jie-suo-shou-ji-zhi-yin/) | 2022-11-13 13:01:27  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x5E1D;&#x56FD;&#x4E4B;&#x5251;&#x72FC;&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/109.html) | 2023-02-17 03:41:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8868;&#x793A;&#x795D;&#x8D3A;(&#x795D;&#x8D3A;)&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/110.html) | 2023-02-19 03:22:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
