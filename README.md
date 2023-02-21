@@ -44,7 +44,7 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    24 hrs    ooooooooooooxxxxxxxx    57.84%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.30%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.31%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.27%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.58%
 ```
@@ -59,11 +59,11 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.58%
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-21 02:17:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 141 | 2023-02-21 02:11:52  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-20 13:10:00  |
-| [vulhub](https://github.com/lyy289065406/vulhub) | 漏洞靶场 | 28 | 2023-02-20 09:28:31  |
 | [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 5 | 2023-02-17 15:33:05  |
 | [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 44 | 2023-02-16 08:43:59  |
 | [flask-file-server](https://github.com/lyy289065406/flask-file-server) | 开箱即用的 Python Flask 文件服务 | 9 | 2023-02-15 16:24:49  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 13 | 2023-02-12 11:47:53  |
+| [ro-website](https://github.com/Casual-Ragnarok/ro-website) | 仙境 RO 传说 - 随缘仙境主站 | 8 | 2023-02-11 13:31:49  |
 <!-- END_SECTION:activity -->
 
 
