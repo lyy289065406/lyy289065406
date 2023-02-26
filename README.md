@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.72%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.39%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.69%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.42%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.31%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.57%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.59%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.57%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 48 | 2023-02-25 00:48:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-24 14:33:00  |
-| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 162 | 2023-02-24 14:32:24  |
-| [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题 | 8 | 2023-02-24 05:31:48  |
+| [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题 | 18 | 2023-02-26 01:51:42 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-26 01:20:17  |
+| [ro-npcs](https://github.com/lyy289065406/ro-npcs) | 仙境 RO 传说 - NPC 脚本集 | 165 | 2023-02-26 01:19:33  |
+| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 2 | 2023-02-25 17:46:27  |
+| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 48 | 2023-02-25 00:48:23  |
 | [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 45 | 2023-02-22 02:56:18  |
 | [reverse-proxy](https://github.com/Casual-Ragnarok/reverse-proxy) | Github Pages 专用反向代理 | 13 | 2023-02-21 15:15:42  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-20 13:10:00  |
-| [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 5 | 2023-02-17 15:33:05  |
 <!-- END_SECTION:activity -->
 
 
