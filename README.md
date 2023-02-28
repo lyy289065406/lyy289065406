@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.62%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.60%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.46%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.33%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.59%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.34%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.60%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.59%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 29 | 2023-02-26 18:43:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [node_modules](https://github.com/lyy289065406/node_modules) | gitbook 的 npm 定制安装包（含个人修改，故不使用官方版本） | 5 | 2023-02-27 18:30:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 34 | 2023-02-27 17:56:28  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-27 17:21:13  |
+| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 10 | 2023-02-27 17:20:31  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 8 | 2023-02-26 18:42:57  |
 | [exp-blog](https://github.com/lyy289065406/exp-blog) | EXP 技术博客 | 27 | 2023-02-26 18:40:55  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-26 18:31:07  |
-| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 9 | 2023-02-26 18:30:30  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-26 17:33:03  |
 | [hexo-template](https://github.com/lyy289065406/hexo-template) | Hexo 博客创建模板 | 20 | 2023-02-26 05:55:41  |
-| [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 86 | 2023-02-26 04:49:27  |
 <!-- END_SECTION:activity -->
 
 
@@ -79,7 +79,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.59%
 | [articles](https://github.com/lyy289065406/articles) | [Docker 设置代理指引（Windows 系统）](https://exp-blog.com/container/windows-xi-tong-she-zhi-docker-dai-li-zhi-yin/) | 2022-11-20 01:46:08  |
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [从零开始 DIFF Ragnarok 登入器教程](https://exp-blog.com/game/ro/cong-ling-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2022-11-18 23:29:14  |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8868;&#x793A;&#x795D;&#x8D3A;(&#x795D;&#x8D3A;)&#x300F;](https://lyy289065406.github.io/re0-web/gitbook/book/markdown/ch/chapter070/110.html) | 2023-02-19 03:22:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x4ECE;&#x96F6;&#x5F00;&#x59CB;&#x7684;&#x738B;&#x9009;&#x751F;&#x6D3B;&#x3000;&#x91D1;&#x72EE;&#x5B50;&#x4E0E;&#x5251;&#x5723;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter999/short05/09.html) | 2020-08-18 13:04:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
