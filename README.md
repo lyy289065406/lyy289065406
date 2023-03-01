@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.60%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.46%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.34%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.60%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.56%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.48%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.35%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.62%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.60%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [node_modules](https://github.com/lyy289065406/node_modules) | gitbook 的 npm 定制安装包（含个人修改，故不使用官方版本） | 5 | 2023-02-27 18:30:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [node_modules](https://github.com/lyy289065406/node_modules) | gitbook 的 npm 定制安装包（含个人修改，故不使用官方版本） | 6 | 2023-03-01 01:26:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-28 17:19:17  |
+| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 13 | 2023-02-28 17:18:25  |
+| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-28 17:16:27  |
+| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 45 | 2023-02-28 09:32:19  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 34 | 2023-02-27 17:56:28  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-27 17:21:13  |
-| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 10 | 2023-02-27 17:20:31  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 8 | 2023-02-26 18:42:57  |
 | [exp-blog](https://github.com/lyy289065406/exp-blog) | EXP 技术博客 | 27 | 2023-02-26 18:40:55  |
-| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-26 17:33:03  |
-| [hexo-template](https://github.com/lyy289065406/hexo-template) | Hexo 博客创建模板 | 20 | 2023-02-26 05:55:41  |
 <!-- END_SECTION:activity -->
 
 
