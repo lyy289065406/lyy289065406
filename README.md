@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.56%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.48%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.54%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.47%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.35%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.62%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.64%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.62%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [node_modules](https://github.com/lyy289065406/node_modules) | gitbook 的 npm 定制安装包（含个人修改，故不使用官方版本） | 6 | 2023-03-01 01:26:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 14 | 2023-03-02 01:00:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [node_modules](https://github.com/lyy289065406/node_modules) | gitbook 的 npm 定制安装包（含个人修改，故不使用官方版本） | 6 | 2023-03-01 01:26:10  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-28 17:19:17  |
-| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 13 | 2023-02-28 17:18:25  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-28 17:16:27  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 45 | 2023-02-28 09:32:19  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 34 | 2023-02-27 17:56:28  |
@@ -72,7 +72,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.62%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extraterrestrial/ru-he-yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extra/yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
 | [articles](https://github.com/lyy289065406/articles) | [AI 全自动考勤原理与实现](https://exp-blog.com/deeplearn/ai-quan-zi-dong-kao-qin-yuan-li-yu-shi-xian/) | 2022-11-20 09:14:17  |
 | [articles](https://github.com/lyy289065406/articles) | [解决 Windows 10 启动 Docker 时端口被占用问题](https://exp-blog.com/container/win10-qi-dong-docker-shi-duan-kou-bei-zhan-yong/) | 2022-11-20 02:27:56  |
