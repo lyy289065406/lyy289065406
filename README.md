@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.54%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.52%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.47%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.35%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.64%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.66%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,9 +56,9 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.64%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 14 | 2023-03-02 01:00:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-03-03 01:35:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 15 | 2023-03-03 01:24:39  |
 | [node_modules](https://github.com/lyy289065406/node_modules) | gitbook 的 npm 定制安装包（含个人修改，故不使用官方版本） | 6 | 2023-03-01 01:26:10  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-02-28 17:19:17  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-28 17:16:27  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 45 | 2023-02-28 09:32:19  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 34 | 2023-02-27 17:56:28  |
