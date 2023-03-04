@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.52%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.51%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.47%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.35%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.66%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.34%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.68%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.66%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-03-03 01:35:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 15 | 2023-03-03 01:24:39  |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-03-03 15:13:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | Hexo 仙境展览商城 - 数据仓库 | 17 | 2023-03-03 15:12:59  |
 | [node_modules](https://github.com/lyy289065406/node_modules) | gitbook 的 npm 定制安装包（含个人修改，故不使用官方版本） | 6 | 2023-03-01 01:26:10  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-28 17:16:27  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 45 | 2023-02-28 09:32:19  |
