@@ -18,6 +18,7 @@ app:
     - 'store-material'
     - 'vulhub'
     - 'node_modules'
+    - 'exp-blog'
     
 github:
   proxy: "<%= ENV['PROXY'] %>"  # 连接到 Github 的代理服务，如： http://127.0.0.1:8888, socks5://127.0.0.1:1088
