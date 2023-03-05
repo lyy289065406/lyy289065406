@@ -43,7 +43,7 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.44%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.43%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.52%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.36%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
@@ -58,12 +58,12 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
 |:------|:------|:------|:------|
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 18 | 2023-03-05 13:32:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 87 | 2023-03-05 13:31:25  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | 随缘仙境商城 | 2 | 2023-03-04 16:49:25  |
-| [hexo-ro-store](https://github.com/Casual-Ragnarok/hexo-ro-store) | RO 仙境商城 - Hexo 管理端 | 36 | 2023-03-04 16:47:56  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 6 | 2023-03-04 15:24:00  |
 | [node_modules](https://github.com/lyy289065406/node_modules) | gitbook 的 npm 定制安装包（含个人修改，故不使用官方版本） | 6 | 2023-03-01 01:26:10  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-28 17:16:27  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 45 | 2023-02-28 09:32:19  |
+| [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 34 | 2023-02-27 17:56:28  |
+| [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 8 | 2023-02-26 18:42:57  |
 <!-- END_SECTION:activity -->
 
 
@@ -79,6 +79,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
 | [articles](https://github.com/lyy289065406/articles) | [AI 全自动考勤原理与实现](https://exp-blog.com/deeplearn/ai-quan-zi-dong-kao-qin-yuan-li-yu-shi-xian/) | 2022-11-20 09:14:17  |
 | [articles](https://github.com/lyy289065406/articles) | [解决 Windows 10 启动 Docker 时端口被占用问题](https://exp-blog.com/container/win10-qi-dong-docker-shi-duan-kou-bei-zhan-yong/) | 2022-11-20 02:27:56  |
 | [articles](https://github.com/lyy289065406/articles) | [Docker 设置代理指引（Windows 系统）](https://exp-blog.com/container/windows-xi-tong-she-zhi-docker-dai-li-zhi-yin/) | 2022-11-20 01:46:08  |
+| [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8868;&#x793A;&#x795D;&#x8D3A;(&#x795D;&#x8D3A;)&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter070/110.html) | 2023-02-19 03:22:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
