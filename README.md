@@ -43,7 +43,7 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.43%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.42%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.53%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.36%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
@@ -63,7 +63,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 45 | 2023-02-28 09:32:19  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 34 | 2023-02-27 17:56:28  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 8 | 2023-02-26 18:42:57  |
-| [exp-blog](https://github.com/lyy289065406/exp-blog) | EXP 技术博客 | 27 | 2023-02-26 18:40:55  |
+| [hexo-template](https://github.com/lyy289065406/hexo-template) | Hexo 博客创建模板 | 20 | 2023-02-26 05:55:41  |
 <!-- END_SECTION:activity -->
 
 
