@@ -22,6 +22,8 @@ EXP_BLOG_URL = 'https://exp-blog.com/atom.xml'
 RE0_WEB_REPO = 're0-web'
 RE0_WEB_URL = 'https://rezero.buzz/gitbook/book/sitemap.xml'
 
+RO_STORE = 'ro-store'
+RO_STORE_URL = 'https://store.ragnarok.buzz/atom.xml'
 
 
 def build(github_token, proxy='') :
@@ -30,6 +32,10 @@ def build(github_token, proxy='') :
     ar = ArticleRefresher(github_token, EXP_BLOG_REPO, EXP_BLOG_URL, proxy)
     # ar.reflash()      # RSS 会自动排序，不需要缓存到本地
     rows.extend(ar.get_tops(MODE_RSS, settings.app['article_num']))
+
+    ar = ArticleRefresher(github_token, RO_STORE, RO_STORE_URL, proxy)
+    # ar.reflash()        # RSS 会自动排序，不需要缓存到本地
+    rows.extend(ar.get_tops(MODE_SITEMAP, 1))
 
     ar = ArticleRefresher(github_token, RE0_WEB_REPO, RE0_WEB_URL, proxy)
     ar.reflash()        # sitemap 无序，需要缓存到本地
