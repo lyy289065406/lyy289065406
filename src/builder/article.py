@@ -20,7 +20,7 @@ EXP_BLOG_REPO = 'articles'
 EXP_BLOG_URL = 'https://exp-blog.com/atom.xml'
 
 RE0_WEB_REPO = 're0-web'
-RE0_WEB_URL = 'https://lyy289065406.github.io/re0-web/gitbook/book/sitemap.xml'
+RE0_WEB_URL = 'https://rezero.buzz/gitbook/book/sitemap.xml'
 
 
 
