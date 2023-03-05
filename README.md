@@ -59,11 +59,11 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 18 | 2023-03-05 13:32:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 87 | 2023-03-05 13:31:25  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 6 | 2023-03-04 15:24:00  |
-| [node_modules](https://github.com/lyy289065406/node_modules) | gitbook 的 npm 定制安装包（含个人修改，故不使用官方版本） | 6 | 2023-03-01 01:26:10  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-02-28 17:16:27  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 45 | 2023-02-28 09:32:19  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 34 | 2023-02-27 17:56:28  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 8 | 2023-02-26 18:42:57  |
+| [exp-blog](https://github.com/lyy289065406/exp-blog) | EXP 技术博客 | 27 | 2023-02-26 18:40:55  |
 <!-- END_SECTION:activity -->
 
 
