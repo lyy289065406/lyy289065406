@@ -44,7 +44,7 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    23 hrs    ooooooooooooxxxxxxxx    57.43%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.52%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.53%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.36%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
 ```
@@ -80,6 +80,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
 | [articles](https://github.com/lyy289065406/articles) | [解决 Windows 10 启动 Docker 时端口被占用问题](https://exp-blog.com/container/win10-qi-dong-docker-shi-duan-kou-bei-zhan-yong/) | 2022-11-20 02:27:56  |
 | [articles](https://github.com/lyy289065406/articles) | [Docker 设置代理指引（Windows 系统）](https://exp-blog.com/container/windows-xi-tong-she-zhi-docker-dai-li-zhi-yin/) | 2022-11-20 01:46:08  |
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
+| [ro-store](https://github.com/lyy289065406/ro-store) | [「仙境脚本」NPC 清单合集](https://store.ragnarok.buzz/game/ro/npcs/readme/) | 2023-03-03 16:00:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8868;&#x793A;&#x795D;&#x8D3A;(&#x795D;&#x8D3A;)&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter070/110.html) | 2023-02-19 03:22:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
