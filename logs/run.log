@@ -8172,3 +8172,45 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
 
 2023-03-05 15:04:09 [INFO] - 正在更新 [README.md] ...
 2023-03-05 15:04:09 [INFO] - 已更新 [README.md]
+2023-03-06 02:25:10 [INFO] - 正在读取 [README.md] ...
+2023-03-06 02:25:10 [INFO] - 正在读取所有项目仓库的活动数据 ...
+2023-03-06 02:25:21 [INFO] - 获得 [141] 个项目仓库的数据
+2023-03-06 02:25:21 [INFO] - 正在构造 [时间分配] 数据 ...
+2023-03-06 02:25:21 [INFO] - 
+```text
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.40%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.56%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.35%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
+```
+
+2023-03-06 02:25:21 [INFO] - 正在构造 [最近活跃] 数据 ...
+2023-03-06 02:25:21 [INFO] - 
+| repo | description | commit count | push time |
+|:------|:------|:------|:------|
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 9 | 2023-03-06 01:04:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-03-06 00:55:46  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 18 | 2023-03-05 13:32:23  |
+| [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 87 | 2023-03-05 13:31:25  |
+| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 45 | 2023-02-28 09:32:19  |
+| [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 34 | 2023-02-27 17:56:28  |
+| [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 8 | 2023-02-26 18:42:57  |
+| [hexo-template](https://github.com/lyy289065406/hexo-template) | Hexo 博客创建模板 | 20 | 2023-02-26 05:55:41  |
+
+2023-03-06 02:25:21 [INFO] - 正在构造 [最新文章] 数据 ...
+2023-03-06 02:25:23 [INFO] - 
+| repo | article | push time |
+|:------|:------|:------|
+| [articles](https://github.com/lyy289065406/articles) | [AlipayHK 无法注册？如何为循环号码解绑前任的支付宝](https://exp-blog.com/travel/ru-he-wei-xun-huan-hao-ma-jie-bang-qian-ren-de-alipayhk/) | 2023-03-05 06:41:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」内地如何长期持有香港手机号](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-nei-di-ru-he-yong-jiu-chi-you-xiang-gang-shou-ji-hao/) | 2023-03-04 16:01:17  |
+| [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extra/yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10  |
+| [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
+| [articles](https://github.com/lyy289065406/articles) | [AI 全自动考勤原理与实现](https://exp-blog.com/deeplearn/ai-quan-zi-dong-kao-qin-yuan-li-yu-shi-xian/) | 2022-11-20 09:14:17  |
+| [articles](https://github.com/lyy289065406/articles) | [解决 Windows 10 启动 Docker 时端口被占用问题](https://exp-blog.com/container/win10-qi-dong-docker-shi-duan-kou-bei-zhan-yong/) | 2022-11-20 02:27:56  |
+| [articles](https://github.com/lyy289065406/articles) | [Docker 设置代理指引（Windows 系统）](https://exp-blog.com/container/windows-xi-tong-she-zhi-docker-dai-li-zhi-yin/) | 2022-11-20 01:46:08  |
+| [articles](https://github.com/lyy289065406/articles) | [rAthena 开发环境搭建指引手册](https://exp-blog.com/game/ro/rathena-kai-fa-huan-jing-da-jian-zhi-yin-shou-ce/) | 2022-11-19 15:12:57  |
+| [ro-store](https://github.com/lyy289065406/ro-store) | [「仙境脚本」NPC 清单合集](https://store.ragnarok.buzz/game/ro/npcs/readme/) | 2023-03-03 16:00:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8868;&#x793A;&#x795D;&#x8D3A;(&#x795D;&#x8D3A;)&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter070/110.html) | 2023-02-19 03:22:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+
+2023-03-06 02:25:23 [INFO] - 正在更新 [README.md] ...
+2023-03-06 02:25:23 [INFO] - 已更新 [README.md]
