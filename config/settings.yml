@@ -9,7 +9,7 @@ app:
     - 'steam-discount'
     - 'articles'
     - 'hexo-blog'
-    - 'hexo-ro-store'
+    - 'hexo-store'
     - 'ro-store'
     - 'music-library'
     - 'ebooks-library'
