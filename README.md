@@ -44,7 +44,7 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    23 hrs    ooooooooooooxxxxxxxx    57.34%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.59%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.60%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.35%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.71%
 ```
@@ -57,13 +57,13 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.71%
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 14 | 2023-03-07 16:52:50 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [hexo-store](https://github.com/Casual-Ragnarok/hexo-store) | RO 仙境商城 - Hexo 管理端 | 64 | 2023-03-07 16:52:49  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 258 | 2023-03-07 08:16:53  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 47 | 2023-03-07 06:10:53  |
 | [adsense](https://github.com/Casual-Ragnarok/adsense) | 临时仓库 | 2 | 2023-03-06 17:13:05  |
 | [reverse-proxy](https://github.com/Casual-Ragnarok/reverse-proxy) | Github Pages 专用反向代理 | 14 | 2023-03-06 16:56:56  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-03-06 16:48:49  |
 | [casual-ro-client-patch](https://github.com/lyy289065406/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 348 | 2023-03-06 16:18:13  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 18 | 2023-03-05 13:32:23  |
 <!-- END_SECTION:activity -->
 
 
