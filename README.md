@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.36%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.61%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.33%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.62%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.34%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.71%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.69%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 16 | 2023-03-08 18:01:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 17 | 2023-03-09 17:15:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-03-08 17:23:31  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 258 | 2023-03-07 08:16:53  |
 | [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 47 | 2023-03-07 06:10:53  |
