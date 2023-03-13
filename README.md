@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.25%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.22%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.69%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.33%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.73%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.75%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.73%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 19 | 2023-03-11 16:30:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 20 | 2023-03-12 03:55:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [adsense](https://github.com/Casual-Ragnarok/adsense) | 临时仓库 | 2 | 2023-03-11 13:41:28  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 11 | 2023-03-11 13:30:50  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 35 | 2023-03-11 13:26:47  |
