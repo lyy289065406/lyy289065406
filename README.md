@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.15%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.64%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.13%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.63%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.30%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.91%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.93%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.91%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 49 | 2023-03-21 04:20:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | 19 | 2023-03-23 16:26:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 50 | 2023-03-23 03:21:10  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 12 | 2023-03-18 08:45:17  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 36 | 2023-03-18 08:44:53  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 20 | 2023-03-12 03:55:10  |
 | [adsense](https://github.com/Casual-Ragnarok/adsense) | 临时仓库 | 2 | 2023-03-11 13:41:28  |
 | [casual-ro-server-docker](https://github.com/lyy289065406/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1332 | 2023-03-08 17:23:31  |
 | [exp-libs-refactor](https://github.com/lyy289065406/exp-libs-refactor) | 经验构件库（重构版） | 258 | 2023-03-07 08:16:53  |
-| [reverse-proxy](https://github.com/Casual-Ragnarok/reverse-proxy) | Github Pages 专用反向代理 | 14 | 2023-03-06 16:56:56  |
 <!-- END_SECTION:activity -->
 
 
