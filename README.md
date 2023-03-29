@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.89%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.89%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.87%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.90%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.28%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.93%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.95%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.93%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | 19 | 2023-03-23 16:26:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 50 | 2023-03-23 03:21:10  |
+| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 51 | 2023-03-28 10:27:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | 19 | 2023-03-23 16:26:11  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 12 | 2023-03-18 08:45:17  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 36 | 2023-03-18 08:44:53  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 20 | 2023-03-12 03:55:10  |
