@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.76%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.09%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.79%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.08%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.23%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.92%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.90%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.92%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 51 | 2023-04-06 11:26:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 人脸识别自动考勤 | 168 | 2023-04-07 16:25:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 53 | 2023-04-07 16:11:05  |
+| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 52 | 2023-04-07 06:58:39  |
 | [casual-ro-client-patch](https://github.com/lyy289065406/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 354 | 2023-04-05 17:13:01  |
-| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 51 | 2023-03-28 10:27:57  |
 | [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | 19 | 2023-03-23 16:26:11  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 12 | 2023-03-18 08:45:17  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 36 | 2023-03-18 08:44:53  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 20 | 2023-03-12 03:55:10  |
-| [adsense](https://github.com/Casual-Ragnarok/adsense) | 临时仓库 | 2 | 2023-03-11 13:41:28  |
 <!-- END_SECTION:activity -->
 
 
