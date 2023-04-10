@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.75%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.71%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.08%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.25%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.92%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.28%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.93%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.92%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 6 | 2023-04-09 02:36:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 22 | 2023-04-09 02:35:48  |
-| [AI-auto-checkin](https://github.com/lyy289065406/AI-auto-checkin) | AI 人脸识别自动考勤 | 168 | 2023-04-07 16:25:49  |
-| [onekey-ubuntu](https://github.com/lyy289065406/onekey-ubuntu) | ubuntu 一键装机脚本 | 53 | 2023-04-07 16:11:05  |
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 52 | 2023-04-07 06:58:39  |
-| [casual-ro-client-patch](https://github.com/lyy289065406/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 354 | 2023-04-05 17:13:01  |
-| [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | 19 | 2023-03-23 16:26:11  |
-| [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 12 | 2023-03-18 08:45:17  |
+| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 54 | 2023-04-09 13:03:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 346 | 2023-04-09 02:45:44  |
+| [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | 20 | 2023-04-09 02:44:24  |
+| [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 13 | 2023-04-09 02:44:08  |
+| [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 37 | 2023-04-09 02:44:01  |
+| [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 88 | 2023-04-09 02:43:43  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 19 | 2023-04-09 02:42:35  |
+| [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 6 | 2023-04-09 02:36:43  |
 <!-- END_SECTION:activity -->
 
 
@@ -81,7 +81,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.92%
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
 | [articles](https://github.com/lyy289065406/articles) | [AI 全自动考勤原理与实现](https://exp-blog.com/deeplearn/ai-quan-zi-dong-kao-qin-yuan-li-yu-shi-xian/) | 2022-11-20 09:14:17  |
 | [ro-store](https://github.com/lyy289065406/ro-store) | [「仙境脚本」NPC 清单合集](https://store.ragnarok.buzz/game/ro/npcs/readme/) | 2023-03-03 16:00:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8868;&#x793A;&#x795D;&#x8D3A;(&#x795D;&#x8D3A;)&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter070/110.html) | 2023-02-19 03:22:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x8C01;&#x6765;&#x7684;&#x51B3;&#x5FC3;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter070/94.html) | 2023-04-09 11:14:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
