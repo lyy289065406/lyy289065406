@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.73%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.06%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.76%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.05%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.28%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.93%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.91%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.93%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [gitlab-docker](https://github.com/lyy289065406/gitlab-docker) | docker 一键部署 Gitlab 破解版 | 4 | 2023-04-11 07:42:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 54 | 2023-04-09 13:03:30  |
+| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 48 | 2023-04-12 02:41:04 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 55 | 2023-04-12 02:40:06  |
+| [gitlab-docker](https://github.com/lyy289065406/gitlab-docker) | docker 一键部署 Gitlab 破解版 | 4 | 2023-04-11 07:42:37  |
 | [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 346 | 2023-04-09 02:45:44  |
 | [CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933) | CVE-2020-13933 靶场： shiro 认证绕过漏洞 | 20 | 2023-04-09 02:44:24  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 13 | 2023-04-09 02:44:08  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 37 | 2023-04-09 02:44:01  |
 | [site-package](https://github.com/lyy289065406/site-package) | 站点功能组件 | 88 | 2023-04-09 02:43:43  |
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 19 | 2023-04-09 02:42:35  |
 <!-- END_SECTION:activity -->
 
 
