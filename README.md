@@ -85,6 +85,12 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.95%
 <!-- END_SECTION:article -->
 
 
+### Donate
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3I0KL5)
+
+
+
 <a align="right" href="https://github.com/lyy289065406/lyy289065406/blob/master/How_this_works.md">How this works</a>
 
 <!-- -------------------------------------- -->
