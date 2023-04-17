@@ -43,9 +43,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.69%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.04%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.31%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.63%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.03%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.39%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.96%
 ```
 <!-- END_SECTION:weektime -->
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.96%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 14 | 2023-04-16 01:15:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [license](https://github.com/lyy289065406/license) | Github License 区别 | 2 | 2023-04-17 01:14:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 14 | 2023-04-16 01:15:12  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 39 | 2023-04-16 01:11:04  |
 | [ro-single-client](https://github.com/lyy289065406/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 28 | 2023-04-15 13:33:08  |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 382 | 2023-04-15 13:32:31  |
 | [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 48 | 2023-04-12 02:41:04  |
 | [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 55 | 2023-04-12 02:40:06  |
 | [gitlab-docker](https://github.com/lyy289065406/gitlab-docker) | docker 一键部署 Gitlab 破解版 | 4 | 2023-04-11 07:42:37  |
-| [AI-visual-training-cheater](https://github.com/lyy289065406/AI-visual-training-cheater) | 视觉 AI 辅助器 | 346 | 2023-04-09 02:45:44  |
 <!-- END_SECTION:activity -->
 
 
