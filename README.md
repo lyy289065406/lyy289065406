@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.63%
-Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.03%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.39%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.96%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.65%
+Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.02%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.40%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.94%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.96%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [license](https://github.com/lyy289065406/license) | Github License 区别 | 2 | 2023-04-17 01:14:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [Visual-AI-XR](https://github.com/lyy289065406/Visual-AI-XR) | 视觉 AI - 混合现实 | 2 | 2023-04-17 14:34:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [chatgpt-ping](https://github.com/lyy289065406/chatgpt-ping) | None | 3 | 2023-04-17 14:08:10  |
+| [gitbook-server-docker](https://github.com/lyy289065406/gitbook-server-docker) | docker 一键部署 GitBook 服务器 | 45 | 2023-04-17 11:35:03  |
+| [license](https://github.com/lyy289065406/license) | Github License 区别 | 2 | 2023-04-17 01:14:02  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 14 | 2023-04-16 01:15:12  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 39 | 2023-04-16 01:11:04  |
 | [ro-single-client](https://github.com/lyy289065406/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 28 | 2023-04-15 13:33:08  |
 | [ro-single-server](https://github.com/lyy289065406/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 382 | 2023-04-15 13:32:31  |
-| [py-gen-mur](https://github.com/lyy289065406/py-gen-mur) | python 机器码/用户码/注册码 生成器 | 48 | 2023-04-12 02:41:04  |
-| [trojan-docker](https://github.com/lyy289065406/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 55 | 2023-04-12 02:40:06  |
-| [gitlab-docker](https://github.com/lyy289065406/gitlab-docker) | docker 一键部署 Gitlab 破解版 | 4 | 2023-04-11 07:42:37  |
 <!-- END_SECTION:activity -->
 
 
@@ -81,7 +81,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.96%
 | [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extra/yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10  |
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
 | [ro-store](https://github.com/lyy289065406/ro-store) | [「仙境脚本」NPC 清单合集](https://store.ragnarok.buzz/game/ro/npcs/readme/) | 2023-03-03 16:00:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x80DC;&#x5229;&#x6761;&#x4EF6;&#x53D8;&#x66F4;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/01.html) | 2023-04-15 07:15:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/lyy289065406/re0-web) | [&#x300E;&#x9057;&#x6068;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/02.html) | 2023-04-16 07:02:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
