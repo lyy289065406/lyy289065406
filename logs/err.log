@@ -57,3 +57,19 @@ Traceback (most recent call last):
     raise ConnectionError(e, request=request)
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='exp-blog.com', port=443): Max retries exceeded with url: /atom.xml (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8a415df190>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
 
+2023-04-20 02:02:54 [ERROR] - 构造数据异常
+2023-04-20 02:02:54 [ERROR] - Traceback (most recent call last):
+  File "main.py", line 84, in main
+    data_ar = article.build(github_token, proxy)
+  File "/home/runner/work/lyy289065406/lyy289065406/src/builder/article.py", line 42, in build
+    rows.extend(ar.get_tops(MODE_SITEMAP, 1))
+  File "/home/runner/work/lyy289065406/lyy289065406/src/builder/article.py", line 88, in get_tops
+    articles = self._get_top_articles(mode, top)
+  File "/home/runner/work/lyy289065406/lyy289065406/src/builder/article.py", line 118, in _get_top_articles
+    time = self._query_filetime(url)
+  File "/home/runner/work/lyy289065406/lyy289065406/src/builder/article.py", line 150, in _query_filetime
+    return _git.query_filetime(self.gtk, self.repo_name, filepath)
+  File "/home/runner/work/lyy289065406/lyy289065406/src/utils/_git.py", line 97, in query_filetime
+    filetime = fileinfo[0]["commit"]["committedDate"]
+IndexError: list index out of range
+
