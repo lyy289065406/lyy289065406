@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.64%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.62%
 Learning       05 hrs    ooooxxxxxxxxxxxxxxxx    10.01%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.42%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.93%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.43%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.94%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.93%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 355 | 2023-04-18 16:06:07 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 46 | 2023-04-20 09:53:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 355 | 2023-04-18 16:06:07  |
 | [Visual-AI-XR](https://github.com/lyy289065406/Visual-AI-XR) | 视觉 AI - 混合现实 | 2 | 2023-04-17 14:34:47  |
 | [chatgpt-ping](https://github.com/lyy289065406/chatgpt-ping) | None | 3 | 2023-04-17 14:08:10  |
 | [gitbook-server-docker](https://github.com/re-zero-khis/gitbook-server-docker) | docker 一键部署 GitBook 服务器 | 45 | 2023-04-17 11:35:03  |
 | [license](https://github.com/lyy289065406/license) | Github License 区别 | 2 | 2023-04-17 01:14:02  |
 | [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 14 | 2023-04-16 01:15:12  |
 | [hexo-matery-docker](https://github.com/lyy289065406/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 39 | 2023-04-16 01:11:04  |
-| [ro-single-client](https://github.com/lyy289065406/ro-single-client) | 仙境RO传说-单机版-客户端（登陆补丁） | 28 | 2023-04-15 13:33:08  |
 <!-- END_SECTION:activity -->
 
 
