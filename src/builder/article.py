@@ -16,28 +16,31 @@ MODE_SITEMAP = 'sitemap'
 TPL_PATH = '%s/tpl/article.tpl' % PRJ_DIR
 SAVE_PATH = PRJ_DIR + '/cache/article_%s.dat'
 
+EXP_BLOG_OWNER = "lyy289065406"
 EXP_BLOG_REPO = 'articles'
 EXP_BLOG_URL = 'https://exp-blog.com/atom.xml'
 
-RE0_WEB_REPO = 're0-web'
-RE0_WEB_URL = 'https://rezero.buzz/gitbook/book/sitemap.xml'
-
+RO_OWNER = "Casual-Ragnarok"
 RO_STORE = 'ro-store'
 RO_STORE_URL = 'https://store.ragnarok.buzz/atom.xml'
+
+RE0_WEB_OWNER = "re-zero-khis"
+RE0_WEB_REPO = 're0-web'
+RE0_WEB_URL = 'https://rezero.buzz/gitbook/book/sitemap.xml'
 
 
 def build(github_token, proxy='') :
     rows = []
 
-    ar = ArticleRefresher(github_token, EXP_BLOG_REPO, EXP_BLOG_URL, proxy)
+    ar = ArticleRefresher(github_token, EXP_BLOG_OWNER, EXP_BLOG_REPO, EXP_BLOG_URL, proxy)
     # ar.reflash()      # RSS 会自动排序，不需要缓存到本地
     rows.extend(ar.get_tops(MODE_RSS, settings.app['article_num']))
 
-    ar = ArticleRefresher(github_token, RO_STORE, RO_STORE_URL, proxy)
+    ar = ArticleRefresher(github_token, RO_OWNER, RO_STORE, RO_STORE_URL, proxy)
     # ar.reflash()        # RSS 会自动排序，不需要缓存到本地
     rows.extend(ar.get_tops(MODE_RSS, 1))
 
-    ar = ArticleRefresher(github_token, RE0_WEB_REPO, RE0_WEB_URL, proxy)
+    ar = ArticleRefresher(github_token, RE0_WEB_OWNER, RE0_WEB_REPO, RE0_WEB_URL, proxy)
     ar.reflash()        # sitemap 无序，需要缓存到本地
     rows.extend(ar.get_tops(MODE_SITEMAP, 1))
 
@@ -51,10 +54,11 @@ def build(github_token, proxy='') :
 
 class ArticleRefresher :
 
-    def __init__(self, github_token, repo_name, url, proxy='', timeout=60, charset=CHARSET) :
+    def __init__(self, github_token, repo_owner, repo_name, url, proxy='', timeout=60, charset=CHARSET) :
         self.gtk = github_token
+        self.repo_owner = repo_owner
         self.repo_name = repo_name
-        self.github_url = settings.github['url'] + repo_name
+        self.github_url = "/".join([settings.github['url'], repo_owner, repo_name])
         self.url = url
         self.save_path = SAVE_PATH % self.repo_name
         self.save_cache = []
@@ -147,7 +151,7 @@ class ArticleRefresher :
 
     def _query_filetime(self, file_url) :
         filepath = self._to_filepath(file_url)
-        return _git.query_filetime(self.gtk, self.repo_name, filepath)
+        return _git.query_filetime(self.gtk, self.repo_owner, self.repo_name, filepath)
 
 
     def _to_filepath(self, file_url) :

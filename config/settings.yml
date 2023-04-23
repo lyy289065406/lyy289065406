@@ -23,6 +23,6 @@ app:
 github:
   proxy: "<%= ENV['PROXY'] %>"  # 连接到 Github 的代理服务，如： http://127.0.0.1:8888, socks5://127.0.0.1:1088
   owner: 'lyy289065406'
-  url: 'https://github.com/lyy289065406/'
+  url: 'https://github.com'
   graphql: 'https://api.github.com/graphql'
   gtk: "<%= ENV['GTK'] %>"      # Github Token

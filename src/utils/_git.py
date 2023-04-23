@@ -28,6 +28,7 @@ def query_repos(github_token, branch='master', iter=100, proxy=''):
                 continue  # 不存在的分支名
 
             repo = Repo(
+                _repo["owner"]["login"], 
                 _repo["name"], 
                 _repo["url"], 
                 _repo["description"], 
@@ -56,6 +57,15 @@ query {
         endCursor
       }
       nodes {
+        owner {
+          __typename
+          ... on User {
+            login
+          }
+          ... on Organization {
+            login
+          }
+        }
         name
         description
         url
@@ -85,10 +95,10 @@ query {
 
 
 
-def query_filetime(github_token, repo, filepath, proxy=''):
+def query_filetime(github_token, repo_owner, repo_name, filepath, proxy=''):
     client = _GraphqlClient(endpoint=settings.github['graphql'])
     data = client.exec(
-        query=_to_graphql_filetime(settings.github['owner'], repo, filepath),
+        query=_to_graphql_filetime(repo_owner, repo_name, filepath),
         headers={ "Authorization": "Bearer {}".format(github_token) },
         proxy=proxy
     )

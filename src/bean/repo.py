@@ -18,7 +18,8 @@ BIT_LEARNING = 8
 
 class Repo :
 
-    def __init__(self, name, url, desc, pushtime, commit_cnt) :
+    def __init__(self, owner, name, url, desc, pushtime, commit_cnt) :
+        self.owner = owner  # 可能是用户归属的组织
         self.name = name
         self.url = url
         self.desc = desc
