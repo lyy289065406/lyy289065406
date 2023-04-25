@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.47%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    10.00%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.50%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.99%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.56%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.97%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.96%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.97%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [license](https://github.com/lyy289065406/license) | Github License 区别 | 6 | 2023-04-24 01:14:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [license](https://github.com/lyy289065406/license) | Github License 区别 | 12 | 2023-04-24 16:04:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [calibre-docker](https://github.com/lyy289065406/calibre-docker) | docker 一键部署 calibre 在线书库 | 41 | 2023-04-24 05:24:25  |
 | [gitbook-server-docker](https://github.com/re-zero-khis/gitbook-server-docker) | docker 一键部署 GitBook 服务器 | 46 | 2023-04-23 11:12:18  |
 | [ark-server-docker](https://github.com/lyy289065406/ark-server-docker) | docker 一键部署 ARK 私服（方舟-生存进化） | 127 | 2023-04-23 11:01:41  |
 | [bitwarden-docker](https://github.com/lyy289065406/bitwarden-docker) | docker 一键部署密码管理工具 | 46 | 2023-04-20 09:53:20  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 355 | 2023-04-18 16:06:07  |
 | [Visual-AI-XR](https://github.com/lyy289065406/Visual-AI-XR) | 视觉 AI - 混合现实 | 2 | 2023-04-17 14:34:47  |
 | [chatgpt-ping](https://github.com/lyy289065406/chatgpt-ping) | None | 3 | 2023-04-17 14:08:10  |
-| [hexo-matery-template](https://github.com/lyy289065406/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 14 | 2023-04-16 01:15:12  |
 <!-- END_SECTION:activity -->
 
 
