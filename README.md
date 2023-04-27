@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.46%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    10.00%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.56%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.98%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.48%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.99%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.57%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.96%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.98%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [test-music](https://github.com/lyy289065406/test-music) | None | 6 | 2023-04-26 01:11:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [test-music](https://github.com/lyy289065406/test-music) | None | 12 | 2023-04-27 01:13:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [license](https://github.com/lyy289065406/license) | Github License 区别 | 14 | 2023-04-25 06:05:43  |
 | [calibre-docker](https://github.com/lyy289065406/calibre-docker) | docker 一键部署 calibre 在线书库 | 41 | 2023-04-24 05:24:25  |
 | [gitbook-server-docker](https://github.com/re-zero-khis/gitbook-server-docker) | docker 一键部署 GitBook 服务器 | 46 | 2023-04-23 11:12:18  |
@@ -81,7 +81,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.98%
 | [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extra/yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10  |
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」NPC 清单合集](https://store.ragnarok.buzz/game/ro/npcs/readme/) | 2023-03-03 16:00:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x6218;&#x58EB;&#x7684;&#x672C;&#x80FD;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/04.html) | 2023-04-23 15:34:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5BBD;&#x6055;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/05.html) | 2023-04-26 16:34:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
