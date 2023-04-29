@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.51%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.96%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.49%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.95%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.56%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.97%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    30.00%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.97%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [test-music](https://github.com/lyy289065406/test-music) | None | 18 | 2023-04-28 01:17:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [test-music](https://github.com/lyy289065406/test-music) | None | 20 | 2023-04-28 15:48:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [jira-docker](https://github.com/lyy289065406/jira-docker) | docker 一键部署 JIRA 破解版 | 11 | 2023-04-27 05:23:19  |
 | [license](https://github.com/lyy289065406/license) | Github License 区别 | 14 | 2023-04-25 06:05:43  |
 | [calibre-docker](https://github.com/lyy289065406/calibre-docker) | docker 一键部署 calibre 在线书库 | 41 | 2023-04-24 05:24:25  |
