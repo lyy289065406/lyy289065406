@@ -11,7 +11,7 @@
 
 
 <a href="https://exp-blog.com" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=articles&theme=nord" />
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=nord" />
 </a>
 
 <a href="https://github.com/lyy289065406/threat-broadcast" target="_blank">
