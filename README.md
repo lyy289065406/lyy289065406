@@ -46,7 +46,7 @@
 Programming    23 hrs    ooooooooooooxxxxxxxx    56.35%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.90%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.72%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.02%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.03%
 ```
 <!-- END_SECTION:weektime -->
 
