@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.35%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.90%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.36%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.87%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.72%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.03%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.04%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.03%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ark](https://github.com/Steam-ARK/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 113 | 2023-05-03 16:09:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 10 | 2023-05-04 05:22:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ark](https://github.com/Steam-ARK/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 113 | 2023-05-03 16:09:03  |
 | [ark-mods](https://github.com/Steam-ARK/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 9 | 2023-05-03 16:08:51  |
 | [exp-libs-refactor](https://github.com/EXP-Codes/exp-libs-refactor) | 经验构件库（重构版） | 259 | 2023-05-03 15:24:32  |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-03 14:28:27  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 89 | 2023-05-03 14:19:10  |
-| [test-music](https://github.com/lyy289065406/test-music) | None | 20 | 2023-04-28 15:48:19  |
+| [test-music](https://github.com/EXP-Res/test-music) | None | 20 | 2023-04-28 15:48:19  |
 | [jira-docker](https://github.com/EXP-Tools/jira-docker) | docker 一键部署 JIRA 破解版 | 11 | 2023-04-27 05:23:19  |
-| [license](https://github.com/EXP-Docs/license) | Github License 区别 | 14 | 2023-04-25 06:05:43  |
 <!-- END_SECTION:activity -->
 
 
