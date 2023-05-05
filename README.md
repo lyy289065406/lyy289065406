@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.36%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.87%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.35%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.88%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.72%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.04%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.05%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.04%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 10 | 2023-05-04 05:22:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 23 | 2023-05-04 15:24:59 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-04 15:24:05  |
+| [ubuntu-gcc-cmake-docker](https://github.com/EXP-Tools/ubuntu-gcc-cmake-docker) | ubuntu 20.04 + gcc 7.5.0 + cmake 3.16.0 | 26 | 2023-05-04 08:05:31  |
+| [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 91 | 2023-05-04 07:02:35  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 10 | 2023-05-04 05:22:28  |
 | [ark](https://github.com/Steam-ARK/ark) | ARK: 方舟‧生存进化 - steam 服务端 | 113 | 2023-05-03 16:09:03  |
 | [ark-mods](https://github.com/Steam-ARK/ark-mods) | ARK: 方舟‧生存进化 - 推荐 MOD | 9 | 2023-05-03 16:08:51  |
 | [exp-libs-refactor](https://github.com/EXP-Codes/exp-libs-refactor) | 经验构件库（重构版） | 259 | 2023-05-03 15:24:32  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-03 14:28:27  |
-| [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 89 | 2023-05-03 14:19:10  |
-| [test-music](https://github.com/EXP-Res/test-music) | None | 20 | 2023-04-28 15:48:19  |
-| [jira-docker](https://github.com/EXP-Tools/jira-docker) | docker 一键部署 JIRA 破解版 | 11 | 2023-04-27 05:23:19  |
 <!-- END_SECTION:activity -->
 
 
