@@ -85,7 +85,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.03%
 <!-- END_SECTION:article -->
 
 
-### ❤️‍🩹 Donate
+### ❤️ Donate
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3I0KL5)
 
