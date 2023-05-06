@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.38%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.36%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.86%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.73%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.03%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.74%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.04%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -81,7 +81,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.03%
 | [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extra/yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10  |
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」NPC 清单合集](https://store.ragnarok.buzz/game/ro/npcs/readme/) | 2023-03-03 16:00:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5BF9;&#x672A;&#x6765;&#x7684;&#x5C55;&#x671B;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/08.html) | 2023-05-05 06:36:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [](https://rezero.buzz/gitbook/book/markdown/sponsor.html) | 2023-05-06 04:20:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
