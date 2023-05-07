@@ -43,8 +43,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.36%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.86%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.33%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.88%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.74%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.04%
 ```
@@ -56,8 +56,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.04%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-05 05:57:06 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 23 | 2023-05-04 15:24:59  |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 24 | 2023-05-06 15:44:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-06 15:43:44  |
 | [ubuntu-gcc-cmake-docker](https://github.com/EXP-Tools/ubuntu-gcc-cmake-docker) | ubuntu 20.04 + gcc 7.5.0 + cmake 3.16.0 | 26 | 2023-05-04 08:05:31  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 91 | 2023-05-04 07:02:35  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 10 | 2023-05-04 05:22:28  |
@@ -80,7 +80,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.04%
 | [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」内地如何长期持有香港手机号](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-nei-di-ru-he-yong-jiu-chi-you-xiang-gang-shou-ji-hao/) | 2023-03-04 16:01:17  |
 | [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extra/yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10  |
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」NPC 清单合集](https://store.ragnarok.buzz/game/ro/npcs/readme/) | 2023-03-03 16:00:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」传送专员](https://store.ragnarok.buzz/game/ro/npc/1046-warpagent/readme/) | 2023-05-06 15:36:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [](https://rezero.buzz/gitbook/book/markdown/sponsor.html) | 2023-05-06 04:20:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
