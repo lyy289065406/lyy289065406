@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.13%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.92%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.79%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.15%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.09%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.95%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.80%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.16%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.15%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 35 | 2023-05-12 18:31:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-12 18:30:00  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-14 16:16:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 39 | 2023-05-14 15:44:18  |
 | [mstream-docker](https://github.com/EXP-Tools/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 15 | 2023-05-09 03:09:29  |
 | [hexo-matery-template](https://github.com/EXP-Docs/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 15 | 2023-05-08 15:30:26  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 40 | 2023-05-08 15:29:22  |
@@ -80,8 +80,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.15%
 | [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」内地如何长期持有香港手机号](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-nei-di-ru-he-yong-jiu-chi-you-xiang-gang-shou-ji-hao/) | 2023-03-04 16:01:17  |
 | [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extra/yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10  |
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
-| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」兽人的记忆](https://store.ragnarok.buzz/game/ro/npc/1080-orcsmemory/readme/) | 2023-05-12 18:16:58 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5404;&#x81EA;&#x7684;&#x4F24;&#x75D5;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/13.html) | 2023-05-13 11:15:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」刷级地图](https://store.ragnarok.buzz/game/ro/npc/1095-brushlevel/readme/) | 2023-05-14 15:11:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x738B;&#x56FD;&#x548C;&#x5E1D;&#x56FD;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/14.html) | 2023-05-14 00:44:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
