@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.09%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.95%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.80%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.16%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.07%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.94%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.81%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.18%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.16%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-14 16:16:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-15 05:10:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 39 | 2023-05-14 15:44:18  |
 | [mstream-docker](https://github.com/EXP-Tools/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 15 | 2023-05-09 03:09:29  |
 | [hexo-matery-template](https://github.com/EXP-Docs/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 15 | 2023-05-08 15:30:26  |
@@ -81,7 +81,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.16%
 | [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extra/yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10  |
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」刷级地图](https://store.ragnarok.buzz/game/ro/npc/1095-brushlevel/readme/) | 2023-05-14 15:11:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x738B;&#x56FD;&#x548C;&#x5E1D;&#x56FD;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/14.html) | 2023-05-14 00:44:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x793C;&#x8D5E;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/15.html) | 2023-05-15 18:52:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
