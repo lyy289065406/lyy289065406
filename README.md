@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.07%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.06%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.94%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.81%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.18%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.80%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.20%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.18%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-15 05:10:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 39 | 2023-05-14 15:44:18  |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 40 | 2023-05-16 15:11:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-16 15:09:19  |
 | [mstream-docker](https://github.com/EXP-Tools/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 15 | 2023-05-09 03:09:29  |
 | [hexo-matery-template](https://github.com/EXP-Docs/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 15 | 2023-05-08 15:30:26  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 40 | 2023-05-08 15:29:22  |
