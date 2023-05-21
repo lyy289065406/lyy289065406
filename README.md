@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.02%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.00%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.92%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.80%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.26%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.28%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,7 +56,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.26%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-18 05:33:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-20 13:31:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 40 | 2023-05-16 15:11:03  |
 | [mstream-docker](https://github.com/EXP-Tools/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 15 | 2023-05-09 03:09:29  |
 | [hexo-matery-template](https://github.com/EXP-Docs/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 15 | 2023-05-08 15:30:26  |
@@ -72,14 +72,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.26%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」使用 NobePay 开卡订阅 ChatGPT Plus 全流程](https://exp-blog.com/tools/bao-mu-ji-jiao-cheng-shi-yong-nobepay-kai-qia-ding-yue-chatgpt-quan-liu-cheng/) | 2023-04-15 11:29:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [Win11 终端美化](https://exp-blog.com/tools/win11-terminal-beautification/) | 2023-05-20 04:25:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」使用 NobePay 开卡订阅 ChatGPT Plus 全流程](https://exp-blog.com/tools/bao-mu-ji-jiao-cheng-shi-yong-nobepay-kai-qia-ding-yue-chatgpt-quan-liu-cheng/) | 2023-04-15 11:29:10  |
 | [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」2023 内地在香港银行开户攻略](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-2023-nei-di-zai-xiang-gang-yin-xing-kai-hu-gong-lue/) | 2023-04-08 13:38:15  |
 | [articles](https://github.com/lyy289065406/articles) | [2023 内地在香港银行开户材料清单](https://exp-blog.com/travel/2023-nei-di-zai-xiang-gang-yin-xing-kai-hu-cai-liao-qing-dan/) | 2023-04-04 13:38:15  |
 | [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」2023 如何丝滑通关香港](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-2023-ru-he-si-hua-tong-guan-xiang-gang/) | 2023-03-14 11:27:02  |
 | [articles](https://github.com/lyy289065406/articles) | [AlipayHK 无法注册？如何为循环号码解绑前任的支付宝](https://exp-blog.com/travel/ru-he-wei-xun-huan-hao-ma-jie-bang-qian-ren-de-alipayhk/) | 2023-03-05 06:41:56  |
 | [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」内地如何长期持有香港手机号](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-nei-di-ru-he-yong-jiu-chi-you-xiang-gang-shou-ji-hao/) | 2023-03-04 16:01:17  |
 | [articles](https://github.com/lyy289065406/articles) | [为了让外星人了解地球信息，他们拼命想出了这些“乱码”](https://exp-blog.com/extra/yu-di-wai-wen-ming-gou-tong/) | 2023-02-26 09:37:10  |
-| [articles](https://github.com/lyy289065406/articles) | [Visual Studio 版本详解](https://exp-blog.com/tools/visualstudio-ban-ben-xiang-jie/) | 2022-11-24 17:39:57  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」刷级地图](https://store.ragnarok.buzz/game/ro/npc/1095-brushlevel/readme/) | 2023-05-14 15:11:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x793C;&#x8D5E;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/15.html) | 2023-05-15 18:52:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
