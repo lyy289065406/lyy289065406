@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.02%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.90%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.06%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.88%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.79%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.29%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.28%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,14 +56,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.29%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-23 01:05:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 7 | 2023-05-23 17:02:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-05-23 06:02:22  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 40 | 2023-05-16 15:11:03  |
 | [mstream-docker](https://github.com/EXP-Tools/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 15 | 2023-05-09 03:09:29  |
 | [hexo-matery-template](https://github.com/EXP-Docs/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 15 | 2023-05-08 15:30:26  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 40 | 2023-05-08 15:29:22  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 362 | 2023-05-07 15:29:55  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 11 | 2023-05-07 02:44:11  |
-| [ubuntu-gcc-cmake-docker](https://github.com/EXP-Tools/ubuntu-gcc-cmake-docker) | ubuntu 20.04 + gcc 7.5.0 + cmake 3.16.0 | 26 | 2023-05-04 08:05:31  |
 <!-- END_SECTION:activity -->
 
 
