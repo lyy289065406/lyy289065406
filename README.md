@@ -34,7 +34,7 @@
 <!--BGN_SECTION:introduction-->
 - 🏰 I am currently working at a prominent internet company.
 - 🐾 My work is related to architecture, development, and security.
-- ✨ At present, I mainly study `AI` in my spare time, which helps to broaden my technical scope and improve work efficiency.
+- ✨ At present, I mainly study [AI](https://github.com/orgs/Visuals-AI/repositories) in my spare time, which helps to broaden my technical scope and improve work efficiency.
 - 🐱 I am passionate about practicing and `open-sourcing projects` of interest on [Github](https://github.com/lyy289065406), which allows me to verify my learning outcomes and gain a sense of accomplishment.
 - 🎹 I have a habit of documenting my knowledge accumulation on my [personal blog](https://exp-blog.com) for self-recollection and sharing with others.
 - 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues) or [email](exp.lqb@gmail.com).
