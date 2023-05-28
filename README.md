@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.16%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.14%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.85%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.77%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.22%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.24%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,14 +74,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.22%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [Visual Studio 搭建 Boost + CryptoPP 开发环境](https://exp-blog.com/lang/vs-da-jian-boostcryptopp-kai-fa-huan-jing/) | 2023-05-21 13:37:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [SD 零基础入门笔记 02 - AI 绘画模型](https://exp-blog.com/ai/sd-ru-men-02-ai-hui-hua-mo-xing/) | 2023-05-27 15:02:51 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [SD 零基础入门笔记 01 - AI 绘画原理与工具](https://exp-blog.com/ai/sd-ru-men-01-ai-hui-hua-yuan-li-yu-gong-ju/) | 2023-05-27 05:02:51  |
+| [articles](https://github.com/lyy289065406/articles) | [Visual Studio 搭建 Boost + CryptoPP 开发环境](https://exp-blog.com/lang/vs-da-jian-boostcryptopp-kai-fa-huan-jing/) | 2023-05-21 13:37:57  |
 | [articles](https://github.com/lyy289065406/articles) | [Win11 终端美化](https://exp-blog.com/tools/win11-terminal-beautification/) | 2023-05-20 04:25:08  |
 | [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」使用 NobePay 开卡订阅 ChatGPT Plus 全流程](https://exp-blog.com/tools/bao-mu-ji-jiao-cheng-shi-yong-nobepay-kai-qia-ding-yue-chatgpt-quan-liu-cheng/) | 2023-04-15 11:29:10  |
 | [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」2023 内地在香港银行开户攻略](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-2023-nei-di-zai-xiang-gang-yin-xing-kai-hu-gong-lue/) | 2023-04-08 13:38:15  |
 | [articles](https://github.com/lyy289065406/articles) | [2023 内地在香港银行开户材料清单](https://exp-blog.com/travel/2023-nei-di-zai-xiang-gang-yin-xing-kai-hu-cai-liao-qing-dan/) | 2023-04-04 13:38:15  |
 | [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」2023 如何丝滑通关香港](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-2023-ru-he-si-hua-tong-guan-xiang-gang/) | 2023-03-14 11:27:02  |
-| [articles](https://github.com/lyy289065406/articles) | [AlipayHK 无法注册？如何为循环号码解绑前任的支付宝](https://exp-blog.com/travel/ru-he-wei-xun-huan-hao-ma-jie-bang-qian-ren-de-alipayhk/) | 2023-03-05 06:41:56  |
-| [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」内地如何长期持有香港手机号](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-nei-di-ru-he-yong-jiu-chi-you-xiang-gang-shou-ji-hao/) | 2023-03-04 16:01:17  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」刷级地图](https://store.ragnarok.buzz/game/ro/npc/1095-brushlevel/readme/) | 2023-05-14 15:11:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x793C;&#x8D5E;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/15.html) | 2023-05-15 18:52:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
