@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.14%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.12%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.82%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.80%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.24%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.81%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.25%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,10 +74,10 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.24%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [SD 零基础入门 04 - 文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | [SD 零基础入门 03 - AI 绘画模型推荐](https://exp-blog.com/ai/sd-ru-men-03-ai-hui-hua-mo-xing-tui-jian/) | 2023-05-28 06:34:02  |
-| [articles](https://github.com/lyy289065406/articles) | [SD 零基础入门 02 - AI 绘画模型原理扫盲](https://exp-blog.com/ai/sd-ru-men-02-ai-hui-hua-mo-xing-sao-mang/) | 2023-05-27 15:02:51  |
-| [articles](https://github.com/lyy289065406/articles) | [SD 零基础入门 01 - AI 绘画原理与工具](https://exp-blog.com/ai/sd-ru-men-01-ai-hui-hua-yuan-li-yu-gong-ju/) | 2023-05-27 05:02:51  |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 03」AI 绘画模型推荐](https://exp-blog.com/ai/sd-ru-men-03-ai-hui-hua-mo-xing-tui-jian/) | 2023-05-28 06:34:02  |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 02」AI 绘画模型原理扫盲](https://exp-blog.com/ai/sd-ru-men-02-ai-hui-hua-mo-xing-sao-mang/) | 2023-05-27 15:02:51  |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 01」AI 绘画原理与工具](https://exp-blog.com/ai/sd-ru-men-01-ai-hui-hua-yuan-li-yu-gong-ju/) | 2023-05-27 05:02:51  |
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 搭建 Boost + CryptoPP 开发环境](https://exp-blog.com/lang/vs-da-jian-boostcryptopp-kai-fa-huan-jing/) | 2023-05-21 13:37:57  |
 | [articles](https://github.com/lyy289065406/articles) | [Win11 终端美化](https://exp-blog.com/tools/win11-terminal-beautification/) | 2023-05-20 04:25:08  |
 | [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」使用 NobePay 开卡订阅 ChatGPT Plus 全流程](https://exp-blog.com/tools/bao-mu-ji-jiao-cheng-shi-yong-nobepay-kai-qia-ding-yue-chatgpt-quan-liu-cheng/) | 2023-04-15 11:29:10  |
