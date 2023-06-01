@@ -89,8 +89,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.24%
 
 ### ❤️ Donate
 
-<iframe src="https://github.com/sponsors/lyy289065406/card" title="Sponsor lyy289065406" height="225" width="600" style="border: 0;"></iframe>
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3I0KL5)
 
 
