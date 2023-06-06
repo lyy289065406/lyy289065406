@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.11%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.78%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.15%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.76%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.84%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.27%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.25%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,14 +74,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.27%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 05」图生图：突破次元圈限制](https://exp-blog.com/ai/sd-ru-men-05-tu-sheng-tu/) | 2023-06-03 06:57:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 05」图生图：突破次元圈限制](https://exp-blog.com/ai/sd-ru-men-05-tu-sheng-tu/) | 2023-06-03 06:57:25  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 03」AI 绘画模型推荐](https://exp-blog.com/ai/sd-ru-men-03-ai-hui-hua-mo-xing-tui-jian/) | 2023-05-28 06:34:02  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 02」AI 绘画模型原理扫盲](https://exp-blog.com/ai/sd-ru-men-02-ai-hui-hua-mo-xing-sao-mang/) | 2023-05-27 15:02:51  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 01」AI 绘画原理与工具](https://exp-blog.com/ai/sd-ru-men-01-ai-hui-hua-yuan-li-yu-gong-ju/) | 2023-05-27 05:02:51  |
 | [articles](https://github.com/lyy289065406/articles) | [Visual Studio 搭建 Boost + CryptoPP 开发环境](https://exp-blog.com/lang/vs-da-jian-boostcryptopp-kai-fa-huan-jing/) | 2023-05-21 13:37:57  |
 | [articles](https://github.com/lyy289065406/articles) | [Win11 终端美化](https://exp-blog.com/tools/win11-terminal-beautification/) | 2023-05-20 04:25:08  |
-| [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」使用 NobePay 开卡订阅 ChatGPT Plus 全流程](https://exp-blog.com/tools/bao-mu-ji-jiao-cheng-shi-yong-nobepay-kai-qia-ding-yue-chatgpt-quan-liu-cheng/) | 2023-04-15 11:29:10  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」刷级地图](https://store.ragnarok.buzz/game/ro/npc/1095-brushlevel/readme/) | 2023-05-14 15:11:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x793C;&#x8D5E;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/15.html) | 2023-05-15 18:52:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
