@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.15%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.12%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.76%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.84%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.25%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.85%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.27%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.25%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [CTF-Solving-Reports](https://github.com/EXP-Docs/CTF-Solving-Reports) | CTF 解题报告 | 307 | 2023-06-03 15:23:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 24 | 2023-06-06 04:20:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [CTF-Solving-Reports](https://github.com/EXP-Docs/CTF-Solving-Reports) | CTF 解题报告 | 307 | 2023-06-03 15:23:48  |
 | [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 235 | 2023-06-03 15:23:16  |
 | [AI-auto-checkin](https://github.com/Visuals-AI/AI-auto-checkin) | AI 人脸识别自动考勤 | 169 | 2023-06-03 15:22:49  |
 | [exp-libs-refactor](https://github.com/EXP-Codes/exp-libs-refactor) | 经验构件库（重构版） | 260 | 2023-06-03 15:22:34  |
 | [kali-docker](https://github.com/EXP-Tools/kali-docker) | docker 一键部署 kali 渗透测试环境 | 25 | 2023-06-03 15:22:14  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 56 | 2023-06-03 15:21:53  |
 | [hexo-matery-template](https://github.com/EXP-Docs/hexo-matery-template) | docker 一键部署 Hexo 博客 ：matery 主题 | 16 | 2023-06-03 15:18:20  |
-| [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 41 | 2023-05-28 07:43:37  |
 <!-- END_SECTION:activity -->
 
 
@@ -74,7 +74,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.25%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 05」图生图：突破次元圈限制](https://exp-blog.com/ai/sd-ru-men-05-tu-sheng-tu/) | 2023-06-03 06:57:25  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 03」AI 绘画模型推荐](https://exp-blog.com/ai/sd-ru-men-03-ai-hui-hua-mo-xing-tui-jian/) | 2023-05-28 06:34:02  |
