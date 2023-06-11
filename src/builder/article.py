@@ -94,7 +94,7 @@ class ArticleRefresher :
                 tops.append(tpl % {
                     'repo': self.repo_name, 
                     'repo_url': self.github_url, 
-                    'article': article.title, 
+                    'article': article.title.replace('|', r'\|'), 
                     'article_url': article.url, 
                     'time': article.time, 
                     'new_flag': settings.app['new_flag_img'] if cnt == 0 else ''
