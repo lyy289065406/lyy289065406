@@ -45,8 +45,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.10%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.72%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.12%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.71%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.87%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.30%
 ```
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.30%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [mstream-docker](https://github.com/EXP-Tools/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 18 | 2023-06-11 05:08:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 4 | 2023-06-12 10:17:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [mstream-docker](https://github.com/EXP-Tools/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 18 | 2023-06-11 05:08:49  |
 | [license](https://github.com/EXP-Docs/license) | Github License 区别 | 15 | 2023-06-10 16:45:13  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 42 | 2023-06-09 10:42:55  |
 | [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 24 | 2023-06-06 04:20:43  |
 | [CTF-Solving-Reports](https://github.com/EXP-Docs/CTF-Solving-Reports) | CTF 解题报告 | 307 | 2023-06-03 15:23:48  |
 | [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 235 | 2023-06-03 15:23:16  |
 | [AI-auto-checkin](https://github.com/Visuals-AI/AI-auto-checkin) | AI 人脸识别自动考勤 | 169 | 2023-06-03 15:22:49  |
-| [exp-libs-refactor](https://github.com/EXP-Codes/exp-libs-refactor) | 经验构件库（重构版） | 260 | 2023-06-03 15:22:34  |
 <!-- END_SECTION:activity -->
 
 
@@ -74,14 +74,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.30%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 09」ControlNet：姿态控制](https://exp-blog.com/ai/sd-ru-men-09-controlnet/) | 2023-06-10 23:08:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 08」LoRA 专题](https://exp-blog.com/ai/sd-ru-men-08-lora/) | 2023-06-10 00:29:21  |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 10」ControlNet：姿态控制](https://exp-blog.com/ai/sd-ru-men-10-controlnet/) | 2023-06-16 23:08:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 09」LoRA 专题：不会炼丹的魔法师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-09-lora-train/) | 2023-06-12 00:29:21  |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 08」LoRA 专题：五大应用场景](https://exp-blog.com/ai/sd-ru-men-08-lora/) | 2023-06-10 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 07」提示词进阶：渐变\|交替\|混合](https://exp-blog.com/ai/sd-ru-men-07-ti-shi-ci-jin-jie/) | 2023-06-08 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 05」图生图：突破次元圈限制](https://exp-blog.com/ai/sd-ru-men-05-tu-sheng-tu/) | 2023-06-03 06:57:25  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 03」AI 绘画模型推荐](https://exp-blog.com/ai/sd-ru-men-03-ai-hui-hua-mo-xing-tui-jian/) | 2023-05-28 06:34:02  |
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 02」AI 绘画模型原理扫盲](https://exp-blog.com/ai/sd-ru-men-02-ai-hui-hua-mo-xing-sao-mang/) | 2023-05-27 15:02:51  |
 | [ro-store](https://github.com/Casual-Ragnarok/ro-store) | [「仙境脚本」刷级地图](https://store.ragnarok.buzz/game/ro/npc/1095-brushlevel/readme/) | 2023-05-14 15:11:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x793C;&#x8D5E;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/15.html) | 2023-05-15 18:52:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
