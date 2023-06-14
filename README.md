@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.12%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.71%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.87%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.30%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.11%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.70%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.88%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.32%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -75,7 +75,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.30%
 | repo | article | push time |
 |:------|:------|:------|
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 10」ControlNet：姿态控制](https://exp-blog.com/ai/sd-ru-men-10-controlnet/) | 2023-06-16 23:08:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 09」LoRA 专题：不会炼丹的魔法师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-09-lora-train/) | 2023-06-12 00:29:21  |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 09」LoRA 训练：不会炼丹的魔法师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-09-lora-train/) | 2023-06-12 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 08」LoRA 专题：五大应用场景](https://exp-blog.com/ai/sd-ru-men-08-lora/) | 2023-06-10 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 07」提示词进阶：渐变\|交替\|混合](https://exp-blog.com/ai/sd-ru-men-07-ti-shi-ci-jin-jie/) | 2023-06-08 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44  |
