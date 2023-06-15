@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.11%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.70%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.88%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.32%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.13%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.69%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.87%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.31%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.32%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 4 | 2023-06-12 10:17:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-06-14 11:48:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 4 | 2023-06-12 10:17:08  |
 | [mstream-docker](https://github.com/EXP-Tools/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 18 | 2023-06-11 05:08:49  |
 | [license](https://github.com/EXP-Docs/license) | Github License 区别 | 15 | 2023-06-10 16:45:13  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 42 | 2023-06-09 10:42:55  |
 | [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 24 | 2023-06-06 04:20:43  |
 | [CTF-Solving-Reports](https://github.com/EXP-Docs/CTF-Solving-Reports) | CTF 解题报告 | 307 | 2023-06-03 15:23:48  |
 | [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 235 | 2023-06-03 15:23:16  |
-| [AI-auto-checkin](https://github.com/Visuals-AI/AI-auto-checkin) | AI 人脸识别自动考勤 | 169 | 2023-06-03 15:22:49  |
 <!-- END_SECTION:activity -->
 
 
