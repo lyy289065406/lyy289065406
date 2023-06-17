@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.14%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.65%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.17%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.64%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.87%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.34%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.32%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.34%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-06-14 11:48:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-06-16 10:34:35 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 4 | 2023-06-12 10:17:08  |
 | [mstream-docker](https://github.com/EXP-Tools/mstream-docker) | docker 一键部署 mstream 私人云音乐 | 18 | 2023-06-11 05:08:49  |
 | [license](https://github.com/EXP-Docs/license) | Github License 区别 | 15 | 2023-06-10 16:45:13  |
