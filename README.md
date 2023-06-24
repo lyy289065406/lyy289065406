@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.10%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.61%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.88%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.41%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.44%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.48%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.83%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.24%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.41%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 1333 | 2023-06-22 13:29:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-06-24 02:24:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 57 | 2023-06-23 16:03:48  |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 363 | 2023-06-23 12:25:16  |
+| [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 41 | 2023-06-23 09:07:36  |
 | [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 38 | 2023-06-22 11:51:22  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 385 | 2023-06-22 02:36:14  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 92 | 2023-06-22 01:40:35  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 45 | 2023-06-21 00:57:45  |
-| [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 3 | 2023-06-20 16:51:36  |
-| [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 56 | 2023-06-19 05:19:51  |
-| [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 4 | 2023-06-12 10:17:08  |
 <!-- END_SECTION:activity -->
 
 
