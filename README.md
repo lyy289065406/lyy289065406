@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.44%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.48%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.43%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.49%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.83%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.24%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.26%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.24%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-06-24 02:24:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [cpp-gen-mur](https://github.com/EXP-Codes/cpp-gen-mur) | c++ 机器码/用户码/注册码 生成器 | 5 | 2023-06-25 01:16:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 39 | 2023-06-25 01:03:18  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-06-24 15:55:30  |
 | [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 57 | 2023-06-23 16:03:48  |
 | [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 363 | 2023-06-23 12:25:16  |
 | [ro-npcs](https://github.com/Casual-Ragnarok/ro-npcs) | RO NPC 脚本清单 | 41 | 2023-06-23 09:07:36  |
-| [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 38 | 2023-06-22 11:51:22  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 385 | 2023-06-22 02:36:14  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 92 | 2023-06-22 01:40:35  |
-| [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 45 | 2023-06-21 00:57:45  |
 <!-- END_SECTION:activity -->
 
 
