@@ -46,9 +46,9 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    23 hrs    ooooooooooooxxxxxxxx    55.41%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.48%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.47%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.82%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.28%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.30%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.28%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [cpp-gen-mur](https://github.com/EXP-Codes/cpp-gen-mur) | c++ 机器码/用户码/注册码 生成器 | 11 | 2023-06-26 01:11:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [cpp-gen-mur](https://github.com/EXP-Codes/cpp-gen-mur) | c++ 机器码/用户码/注册码 生成器 | 17 | 2023-06-27 01:11:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-06-25 14:34:51  |
 | [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 40 | 2023-06-25 05:29:36  |
 | [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 57 | 2023-06-23 16:03:48  |
