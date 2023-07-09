@@ -1,7 +1,7 @@
 app:
   new_flag_img: '![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif)'
   activity_num: 8              # 展示的活动项数
-  article_num: 8               # 展示的文章项数
+  article_num: 9               # 展示的文章项数
   skip_repos:
     - '.*?demo.*'
     - 'crop-circles'
