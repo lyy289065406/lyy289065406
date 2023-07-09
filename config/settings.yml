@@ -16,6 +16,7 @@ app:
     - 're0-web'
     - 'idea-cloud-settings'
     - 'store-material'
+    - 'ro-npcs'
     - 'vulhub'
     - 'node_modules'
     - 'exp-blog'
