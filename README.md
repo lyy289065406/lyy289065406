@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.40%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.41%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.75%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.44%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.38%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.40%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.76%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.45%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -83,7 +83,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.44%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 03」AI 绘画模型推荐](https://exp-blog.com/ai/sd-ru-men-03-ai-hui-hua-mo-xing-tui-jian/) | 2023-05-28 06:34:02  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 02」AI 绘画模型原理扫盲](https://exp-blog.com/ai/sd-ru-men-02-ai-hui-hua-mo-xing-sao-mang/) | 2023-05-27 15:02:51  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x77ED;&#x6682;&#x7684;&#x91CD;&#x9022;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/18.html) | 2023-07-24 04:18:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5DF4;&#x5C14;&#x52A0;&#x30FB;&#x514B;&#x7F57;&#x59C6;&#x5A01;&#x5C14;&#x306E;&#x7B56;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/19.html) | 2023-07-25 18:11:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
