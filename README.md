@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.34%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.32%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.40%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.78%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.48%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.77%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.51%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,8 +58,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.48%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-07-29 14:11:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 374 | 2023-07-29 13:54:59  |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 378 | 2023-07-30 11:27:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-07-30 10:49:03  |
 | [cron-expression](https://github.com/EXP-Codes/cron-expression) | cron表达式生成器 | 24 | 2023-07-17 03:25:53  |
 | [cpp-gen-machanti](https://github.com/EXP-Codes/cpp-gen-machanti) | c++ 机器码/防伪码 生成器 | 82 | 2023-07-06 02:45:40  |
 | [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 54 | 2023-07-05 05:22:38  |
