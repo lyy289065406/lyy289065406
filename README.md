@@ -45,8 +45,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.32%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.37%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.26%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.44%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.77%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.54%
 ```
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.54%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-08-05 17:37:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 380 | 2023-08-05 16:39:38  |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 384 | 2023-08-07 01:03:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-08-07 01:03:03  |
+| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 14 | 2023-08-06 13:22:24  |
 | [cron-expression](https://github.com/EXP-Codes/cron-expression) | cron表达式生成器 | 24 | 2023-07-17 03:25:53  |
 | [cpp-gen-machanti](https://github.com/EXP-Codes/cpp-gen-machanti) | c++ 机器码/防伪码 生成器 | 82 | 2023-07-06 02:45:40  |
 | [pyc-cross-crypto](https://github.com/EXP-Codes/pyc-cross-crypto) | python & c++ 跨平台加解密 | 54 | 2023-07-05 05:22:38  |
 | [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 57 | 2023-06-23 16:03:48  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 仙境RO传说-单机版-服务端（支持联机） | 385 | 2023-06-22 02:36:14  |
-| [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 92 | 2023-06-22 01:40:35  |
 <!-- END_SECTION:activity -->
 
 
