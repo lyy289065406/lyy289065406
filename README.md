@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.26%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.22%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.40%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.76%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.58%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.61%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,11 +58,11 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.58%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 16 | 2023-08-10 05:20:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 387 | 2023-08-09 05:26:38  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-08-12 15:56:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 396 | 2023-08-12 15:47:56  |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 16 | 2023-08-10 05:20:30  |
 | [pypi-template](https://github.com/EXP-Codes/pypi-template) | pypi 开发模板 | 14 | 2023-08-09 01:02:23  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 4 | 2023-08-07 05:02:21  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-08-07 01:03:03  |
 | [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 14 | 2023-08-06 13:22:24  |
 | [cron-expression](https://github.com/EXP-Codes/cron-expression) | cron表达式生成器 | 24 | 2023-07-17 03:25:53  |
 | [cpp-gen-machanti](https://github.com/EXP-Codes/cpp-gen-machanti) | c++ 机器码/防伪码 生成器 | 82 | 2023-07-06 02:45:40  |
@@ -83,7 +83,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.58%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 03」AI 绘画模型推荐](https://exp-blog.com/ai/sd-ru-men-03-ai-hui-hua-mo-xing-tui-jian/) | 2023-05-28 06:34:02  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 02」AI 绘画模型原理扫盲](https://exp-blog.com/ai/sd-ru-men-02-ai-hui-hua-mo-xing-sao-mang/) | 2023-05-27 15:02:51  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5149;&#x7684;&#x884C;&#x8D70;&#x65B9;&#x5F0F;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/24.html) | 2023-08-10 06:03:59 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5C06;&#x6B7B;&#x4E4B;&#x4EBA;&#x7684;&#x613F;&#x671B;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/25.html) | 2023-08-12 09:04:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
