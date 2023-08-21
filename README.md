@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.09%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.40%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.04%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.45%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.76%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.74%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.75%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,8 +58,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.74%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-08-19 16:54:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 403 | 2023-08-19 16:21:53  |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-08-21 01:02:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 404 | 2023-08-20 10:21:57  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 93 | 2023-08-19 11:03:14  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 23 | 2023-08-19 10:58:50  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 6 | 2023-08-19 05:00:05  |
@@ -83,7 +83,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.74%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 05」图生图：突破次元圈限制](https://exp-blog.com/ai/sd-ru-men-05-tu-sheng-tu/) | 2023-06-03 06:57:25  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 03」AI 绘画模型推荐](https://exp-blog.com/ai/sd-ru-men-03-ai-hui-hua-mo-xing-tui-jian/) | 2023-05-28 06:34:02  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5E1D;&#x56FD;&#x7684;&#x5144;&#x59B9;.&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/28.html) | 2023-08-19 18:31:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5E1D;&#x56FD;&#x7684;&#x5144;&#x59B9;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/28.html) | 2023-08-20 02:04:58 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
