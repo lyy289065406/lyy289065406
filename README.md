@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    22 hrs    ooooooooooooxxxxxxxx    54.97%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.42%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.77%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.85%
+Programming    22 hrs    ooooooooooooxxxxxxxx    54.93%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.45%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.76%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.86%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,9 +58,9 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.85%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 405 | 2023-09-02 01:33:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-09-02 16:50:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-client-patch](https://github.com/Casual-Ragnarok/casual-ro-client-patch) | 仙境 RO 传说 - 随缘仙境客户端（补丁） | 406 | 2023-09-02 03:25:37  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 24 | 2023-09-01 05:10:05  |
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2048 | 2023-08-28 15:43:49  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 93 | 2023-08-19 11:03:14  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 6 | 2023-08-19 05:00:05  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 58 | 2023-08-18 05:00:06  |
