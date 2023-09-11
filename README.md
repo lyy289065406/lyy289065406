@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    22 hrs    ooooooooooooxxxxxxxx    54.87%
+Programming    22 hrs    ooooooooooooxxxxxxxx    54.84%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.47%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.74%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.93%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.75%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.94%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.93%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」2023 内地在境外银行开户攻略](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-2023-nei-di-zai-jing-wai-yin-xing-kai-hu-gong-lue/) | 2023-07-28 15:12:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 11」AI 动画初探：整个宇宙为你而闪烁](https://exp-blog.com/ai/sd-ru-men-11-ai-dong-hua/) | 2023-09-10 00:49:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」2023 内地在境外银行开户攻略](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-2023-nei-di-zai-jing-wai-yin-xing-kai-hu-gong-lue/) | 2023-07-28 15:12:15  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 10」ControlNet：姿态控制](https://exp-blog.com/ai/sd-ru-men-10-controlnet/) | 2023-06-18 13:08:01  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 09」LoRA 训练：不会炼丹的魔法师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-09-lora-train/) | 2023-06-12 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 08」LoRA 专题：五大应用场景](https://exp-blog.com/ai/sd-ru-men-08-lora/) | 2023-06-10 00:29:21  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.93%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 05」图生图：突破次元圈限制](https://exp-blog.com/ai/sd-ru-men-05-tu-sheng-tu/) | 2023-06-03 06:57:25  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14  |
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 03」AI 绘画模型推荐](https://exp-blog.com/ai/sd-ru-men-03-ai-hui-hua-mo-xing-tui-jian/) | 2023-05-28 06:34:02  |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5E1D;&#x56FD;&#x7684;&#x5144;&#x59B9;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/28.html) | 2023-08-20 02:04:58 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
