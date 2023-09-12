@@ -4,6 +4,7 @@ app:
   article_num: 9               # 展示的文章项数
   skip_repos:
     - '.*?demo.*'
+    - '.*?casual.*'
     - 'crop-circles'
     - 'threat-broadcast'
     - 'steam-discount'
