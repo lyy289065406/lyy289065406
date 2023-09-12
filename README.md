@@ -64,8 +64,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.94%
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 58 | 2023-08-18 05:00:06  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 16 | 2023-08-10 05:20:30  |
 | [pypi-template](https://github.com/EXP-Codes/pypi-template) | pypi 开发模板 | 14 | 2023-08-09 01:02:23  |
-| [ro-docs](https://github.com/Casual-Ragnarok/ro-docs) | 仙境传说 RO 历年资料收录 | 14 | 2023-08-06 13:22:24  |
 | [cron-expression](https://github.com/EXP-Codes/cron-expression) | cron表达式生成器 | 24 | 2023-07-17 03:25:53  |
+| [cpp-gen-machanti](https://github.com/EXP-Codes/cpp-gen-machanti) | c++ 机器码/防伪码 生成器 | 82 | 2023-07-06 02:45:40  |
 <!-- END_SECTION:activity -->
 
 
