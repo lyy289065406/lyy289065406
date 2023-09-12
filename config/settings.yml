@@ -5,6 +5,7 @@ app:
   skip_repos:
     - '.*?demo.*'
     - '.*?casual.*'
+    - '.*?ro-.*'
     - 'crop-circles'
     - 'threat-broadcast'
     - 'steam-discount'
