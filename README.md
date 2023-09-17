@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.95%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.92%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.04%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.96%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.05%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.97%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.07%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,8 +74,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.05%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 11」AI 动画初探：整个宇宙为你而闪烁](https://exp-blog.com/ai/sd-ru-men-11-ai-dong-hua/) | 2023-09-10 00:49:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | [「保姆级教程」2023 内地在境外银行开户攻略](https://exp-blog.com/travel/bao-mu-ji-jiao-cheng-2023-nei-di-zai-jing-wai-yin-xing-kai-hu-gong-lue/) | 2023-07-28 15:12:15  |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 12」AI 动画初探：整个宇宙为你而闪烁](https://exp-blog.com/ai/sd-ru-men-12-ai-dong-hua/) | 2023-09-10 00:49:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 11」ControlNet 进阶：打造炫酷的艺术字和二维码](https://exp-blog.com/ai/sd-ru-men-11-qrcode-logo/) | 2023-08-22 13:27:01  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 10」ControlNet：姿态控制](https://exp-blog.com/ai/sd-ru-men-10-controlnet/) | 2023-06-18 13:08:01  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 09」LoRA 训练：不会炼丹的魔法师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-09-lora-train/) | 2023-06-12 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 08」LoRA 专题：五大应用场景](https://exp-blog.com/ai/sd-ru-men-08-lora/) | 2023-06-10 00:29:21  |
