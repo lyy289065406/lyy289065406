@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.89%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.03%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.98%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.10%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.92%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    09.02%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.97%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.09%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,14 +58,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.10%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 24 | 2023-09-01 05:10:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 5 | 2023-09-18 05:18:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 24 | 2023-09-01 05:10:05  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 93 | 2023-08-19 11:03:14  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 6 | 2023-08-19 05:00:05  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 58 | 2023-08-18 05:00:06  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 16 | 2023-08-10 05:20:30  |
 | [pypi-template](https://github.com/EXP-Codes/pypi-template) | pypi 开发模板 | 14 | 2023-08-09 01:02:23  |
 | [cron-expression](https://github.com/EXP-Codes/cron-expression) | cron表达式生成器 | 24 | 2023-07-17 03:25:53  |
-| [cpp-gen-machanti](https://github.com/EXP-Codes/cpp-gen-machanti) | c++ 机器码/防伪码 生成器 | 82 | 2023-07-06 02:45:40  |
 <!-- END_SECTION:activity -->
 
 
