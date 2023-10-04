@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.82%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.95%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.80%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.94%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.93%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.30%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.33%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,12 +58,12 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.30%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 31 | 2023-09-24 13:50:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 17 | 2023-10-03 23:19:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 31 | 2023-09-24 13:50:17  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 7 | 2023-09-24 13:20:55  |
 | [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 5 | 2023-09-18 05:18:27  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 93 | 2023-08-19 11:03:14  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 58 | 2023-08-18 05:00:06  |
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 16 | 2023-08-10 05:20:30  |
 | [pypi-template](https://github.com/EXP-Codes/pypi-template) | pypi 开发模板 | 14 | 2023-08-09 01:02:23  |
 | [cron-expression](https://github.com/EXP-Codes/cron-expression) | cron表达式生成器 | 24 | 2023-07-17 03:25:53  |
 <!-- END_SECTION:activity -->
