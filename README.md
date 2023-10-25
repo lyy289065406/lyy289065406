@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.48%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.88%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.50%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.86%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.89%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.75%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.74%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,8 +58,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.75%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 94 | 2023-10-09 06:57:06 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 17 | 2023-10-03 23:19:05  |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 19 | 2023-10-25 00:53:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 94 | 2023-10-09 06:57:06  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 31 | 2023-09-24 13:50:17  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 7 | 2023-09-24 13:20:55  |
 | [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 5 | 2023-09-18 05:18:27  |
