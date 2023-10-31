@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.54%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.82%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.57%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.81%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.88%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.76%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.75%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,9 +58,9 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.76%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 19 | 2023-10-25 00:53:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 32 | 2023-10-31 01:16:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 19 | 2023-10-25 00:53:13  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 94 | 2023-10-09 06:57:06  |
-| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 31 | 2023-09-24 13:50:17  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 7 | 2023-09-24 13:20:55  |
 | [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 5 | 2023-09-18 05:18:27  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 58 | 2023-08-18 05:00:06  |
@@ -83,7 +83,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.76%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 05」图生图：突破次元圈限制](https://exp-blog.com/ai/sd-ru-men-05-tu-sheng-tu/) | 2023-06-03 06:57:25  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x9009;&#x62D4;&#x6210;&#x5458;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/32.html) | 2023-10-28 23:58:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5236;&#x88C1;&#x7231;.&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/33.html) | 2023-10-30 19:10:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
