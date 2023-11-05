@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.59%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.57%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.77%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.87%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.77%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.88%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.78%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.77%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 42 | 2023-10-31 15:47:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 45 | 2023-11-04 10:22:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 59 | 2023-10-31 14:15:24  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 19 | 2023-10-25 00:53:13  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 94 | 2023-10-09 06:57:06  |
@@ -83,7 +83,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.77%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 05」图生图：突破次元圈限制](https://exp-blog.com/ai/sd-ru-men-05-tu-sheng-tu/) | 2023-06-03 06:57:25  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 04」文生图：不会念咒的炼丹师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-04-wen-sheng-tu/) | 2023-05-28 23:35:14  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5371;&#x9669;&#x7684;&#x5DE5;&#x4F5C;&#x3002;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/35.html) | 2023-11-03 18:29:02 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x547D;&#x60AC;&#x4E00;&#x7EBF;&#x7684;&#x5DE5;&#x4F5C;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/35.html) | 2023-11-04 01:24:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
