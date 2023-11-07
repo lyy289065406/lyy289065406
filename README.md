@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.54%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.76%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.89%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.80%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.56%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.75%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.90%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.79%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.80%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「Openkore 笔记」入门篇](https://exp-blog.com/game/ro/openkore-bi-ji-ru-men-pian/) | 2023-11-06 00:55:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「Openkore 笔记」入门篇 - 基础知识科普](https://exp-blog.com/game/ro/openkore-bi-ji-ru-men-pian/) | 2023-11-06 00:55:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [我曾是少年](https://exp-blog.com/insights/wo-ceng-shi-shao-nian/) | 2023-10-04 15:49:35  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 12」AI 动画初探：整个宇宙为你而闪烁](https://exp-blog.com/ai/sd-ru-men-12-ai-dong-hua/) | 2023-09-10 00:49:01  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 11」ControlNet 进阶：打造炫酷的艺术字和二维码](https://exp-blog.com/ai/sd-ru-men-11-qrcode-logo/) | 2023-08-22 13:27:01  |
