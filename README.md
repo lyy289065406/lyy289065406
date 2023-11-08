@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.56%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.54%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.75%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.90%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.79%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.81%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,14 +58,14 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.79%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 45 | 2023-11-04 10:22:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 46 | 2023-11-08 01:11:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 20 | 2023-11-08 00:43:02  |
+| [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 45 | 2023-11-04 10:22:13  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 59 | 2023-10-31 14:15:24  |
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 19 | 2023-10-25 00:53:13  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 94 | 2023-10-09 06:57:06  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 7 | 2023-09-24 13:20:55  |
 | [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 5 | 2023-09-18 05:18:27  |
 | [pypi-template](https://github.com/EXP-Codes/pypi-template) | pypi 开发模板 | 14 | 2023-08-09 01:02:23  |
-| [cron-expression](https://github.com/EXP-Codes/cron-expression) | cron表达式生成器 | 24 | 2023-07-17 03:25:53  |
 <!-- END_SECTION:activity -->
 
 
@@ -83,7 +83,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.79%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 08」LoRA 专题：五大应用场景](https://exp-blog.com/ai/sd-ru-men-08-lora/) | 2023-06-10 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 07」提示词进阶：渐变\|交替\|混合](https://exp-blog.com/ai/sd-ru-men-07-ti-shi-ci-jin-jie/) | 2023-06-08 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5C38;&#x90FD;&#x9C81;&#x666E;&#x52A0;&#x7EB3;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/36.html) | 2023-11-05 18:21:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x4F0F;&#x7B14;&#x7684;&#x65F6;&#x95F4;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/37.html) | 2023-11-08 01:08:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
