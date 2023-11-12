@@ -1,9 +1,5 @@
 ## 👋  Hi there, I'm [EXP](https://exp-blog.com)
 
-### ➡️ WeChat
-
-<img width="120" src="/imgs/wechat.jpg">
-
 <!--BGN_SECTION:github-readme-stats-->
 <!-- a href="https://exp-blog.com" target="_blank">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML,CSS,TSQL&theme=great-gatsby" alt="EXP's Top Langs" />
@@ -44,6 +40,10 @@
 - 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues) or [email](exp.lqb@gmail.com).
 <!--BGN_SECTION:introduction-->
 
+
+### ➡️ WeChat
+
+<img width="120" src="/imgs/wechat.jpg">
 
 
 ### ⏰  This week I spent my free time on
