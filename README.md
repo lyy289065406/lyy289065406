@@ -41,10 +41,6 @@
 <!--BGN_SECTION:introduction-->
 
 
-### ➡️ WeChat
-
-<img width="120" src="/imgs/wechat.jpg">
-
 
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
@@ -89,6 +85,11 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.85%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44  |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x57DF;&#x5916;&#x7684;&#x7B11;&#x58F0;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/39.html) | 2023-11-12 01:00:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
+
+
+### ➡️ WeChat
+
+<img width="120" src="/imgs/wechat.jpg">
 
 
 ### ❤️ Donate
