@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.50%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.71%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.52%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.70%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.92%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.87%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.86%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -83,7 +83,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.87%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 08」LoRA 专题：五大应用场景](https://exp-blog.com/ai/sd-ru-men-08-lora/) | 2023-06-10 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 07」提示词进阶：渐变\|交替\|混合](https://exp-blog.com/ai/sd-ru-men-07-ti-shi-ci-jin-jie/) | 2023-06-08 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5FAE;&#x4E0D;&#x8DB3;&#x9053;&#x7684;&#x5A01;&#x80C1;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/40.html) | 2023-11-13 18:51:55 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5730;&#x72F1;&#x4E4B;&#x6240;&#x5728;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/41.html) | 2023-11-15 18:18:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
