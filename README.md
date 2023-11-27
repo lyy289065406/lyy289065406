@@ -45,8 +45,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.41%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.65%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.39%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.66%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.94%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.01%
 ```
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.01%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 21 | 2023-11-11 23:51:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [bitwarden-docker](https://github.com/EXP-Tools/bitwarden-docker) | docker 一键部署密码管理工具 | 47 | 2023-11-27 02:54:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 10 | 2023-11-26 15:40:32  |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 21 | 2023-11-11 23:51:12  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 52 | 2023-11-08 15:32:13  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 45 | 2023-11-04 10:22:13  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 59 | 2023-10-31 14:15:24  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 94 | 2023-10-09 06:57:06  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 7 | 2023-09-24 13:20:55  |
-| [Visual-AI-XR](https://github.com/Visuals-AI/Visual-AI-XR) | 视觉 AI - 混合现实 | 5 | 2023-09-18 05:18:27  |
-| [pypi-template](https://github.com/EXP-Codes/pypi-template) | pypi 开发模板 | 14 | 2023-08-09 01:02:23  |
 <!-- END_SECTION:activity -->
 
 
