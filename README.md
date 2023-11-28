@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.39%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.66%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.94%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.01%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.37%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.67%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.93%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.02%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,8 +58,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.01%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [bitwarden-docker](https://github.com/EXP-Tools/bitwarden-docker) | docker 一键部署密码管理工具 | 47 | 2023-11-27 02:54:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 10 | 2023-11-26 15:40:32  |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 18 | 2023-11-28 00:59:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [bitwarden-docker](https://github.com/EXP-Tools/bitwarden-docker) | docker 一键部署密码管理工具 | 48 | 2023-11-27 11:12:59  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 21 | 2023-11-11 23:51:12  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 52 | 2023-11-08 15:32:13  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 45 | 2023-11-04 10:22:13  |
