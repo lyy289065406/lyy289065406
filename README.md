@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.23%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.21%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.69%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.93%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.15%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.94%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.17%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.15%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 41 | 2023-12-04 01:14:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 43 | 2023-12-05 01:13:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [bitwarden-docker](https://github.com/EXP-Tools/bitwarden-docker) | docker 一键部署密码管理工具 | 48 | 2023-11-27 11:12:59  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 21 | 2023-11-11 23:51:12  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 52 | 2023-11-08 15:32:13  |
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.15%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「Openkore 笔记」入门篇 - 基础知识科普](https://exp-blog.com/game/ro/openkore-bi-ji-ru-men-pian/) | 2023-11-06 00:55:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 01」强化学习环境搭建](https://exp-blog.com/ai/gym-bi-ji-01-huan-jing-da-jian/) | 2023-12-04 11:08:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「Openkore 笔记」入门篇 - 基础知识科普](https://exp-blog.com/game/ro/openkore-bi-ji-ru-men-pian/) | 2023-11-06 00:55:24  |
 | [articles](https://github.com/lyy289065406/articles) | [我曾是少年](https://exp-blog.com/insights/wo-ceng-shi-shao-nian/) | 2023-10-04 15:49:35  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 12」AI 动画初探：整个宇宙为你而闪烁](https://exp-blog.com/ai/sd-ru-men-12-ai-dong-hua/) | 2023-09-10 00:49:01  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 11」ControlNet 进阶：打造炫酷的艺术字和二维码](https://exp-blog.com/ai/sd-ru-men-11-qrcode-logo/) | 2023-08-22 13:27:01  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.15%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 09」LoRA 训练：不会炼丹的魔法师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-09-lora-train/) | 2023-06-12 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 08」LoRA 专题：五大应用场景](https://exp-blog.com/ai/sd-ru-men-08-lora/) | 2023-06-10 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 07」提示词进阶：渐变\|交替\|混合](https://exp-blog.com/ai/sd-ru-men-07-ti-shi-ci-jin-jie/) | 2023-06-08 00:29:21  |
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 06」高清修复：轻松拥有 24K 钛合金画质](https://exp-blog.com/ai/sd-ru-men-06-gao-qing-xiu-fu/) | 2023-06-05 22:23:44  |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5404;&#x81EA;&#x7684;&#x4F53;&#x9A8C;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/43.html) | 2023-11-21 05:10:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
