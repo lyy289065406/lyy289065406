@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.21%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.69%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.94%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.17%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.18%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.68%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.95%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.19%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.17%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 01」强化学习环境搭建](https://exp-blog.com/ai/gym-bi-ji-01-huan-jing-da-jian/) | 2023-12-04 11:08:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 01」环境搭建与基本概念](https://exp-blog.com/ai/gym-bi-ji-01-huan-jing-da-jian-yu-ji-ben-gai-nian/) | 2023-12-04 11:08:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [「Openkore 笔记」入门篇 - 基础知识科普](https://exp-blog.com/game/ro/openkore-bi-ji-ru-men-pian/) | 2023-11-06 00:55:24  |
 | [articles](https://github.com/lyy289065406/articles) | [我曾是少年](https://exp-blog.com/insights/wo-ceng-shi-shao-nian/) | 2023-10-04 15:49:35  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 12」AI 动画初探：整个宇宙为你而闪烁](https://exp-blog.com/ai/sd-ru-men-12-ai-dong-hua/) | 2023-09-10 00:49:01  |
