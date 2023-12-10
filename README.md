@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.12%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.09%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.67%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.96%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.25%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.97%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.27%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.25%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 01」环境搭建与基本概念](https://exp-blog.com/ai/gym-bi-ji-01-huan-jing-da-jian-yu-ji-ben-gai-nian/) | 2023-12-04 11:08:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [2023-2027 如何缴最少的税、拿最多的钱 ？](https://exp-blog.com/finance/ge-shui-ji-suan/) | 2023-12-07 01:00:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 01」环境搭建与基本概念](https://exp-blog.com/ai/gym-bi-ji-01-huan-jing-da-jian-yu-ji-ben-gai-nian/) | 2023-12-04 11:08:25  |
 | [articles](https://github.com/lyy289065406/articles) | [「Openkore 笔记」入门篇 - 基础知识科普](https://exp-blog.com/game/ro/openkore-bi-ji-ru-men-pian/) | 2023-11-06 00:55:24  |
 | [articles](https://github.com/lyy289065406/articles) | [我曾是少年](https://exp-blog.com/insights/wo-ceng-shi-shao-nian/) | 2023-10-04 15:49:35  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 12」AI 动画初探：整个宇宙为你而闪烁](https://exp-blog.com/ai/sd-ru-men-12-ai-dong-hua/) | 2023-09-10 00:49:01  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.25%
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 10」ControlNet：姿态控制](https://exp-blog.com/ai/sd-ru-men-10-controlnet/) | 2023-06-18 13:08:01  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 09」LoRA 训练：不会炼丹的魔法师不是一个好画家](https://exp-blog.com/ai/sd-ru-men-09-lora-train/) | 2023-06-12 00:29:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 08」LoRA 专题：五大应用场景](https://exp-blog.com/ai/sd-ru-men-08-lora/) | 2023-06-10 00:29:21  |
-| [articles](https://github.com/lyy289065406/articles) | [「SD 零基础入门 07」提示词进阶：渐变\|交替\|混合](https://exp-blog.com/ai/sd-ru-men-07-ti-shi-ci-jin-jie/) | 2023-06-08 00:29:21  |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5404;&#x81EA;&#x7684;&#x4F53;&#x9A8C;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/43.html) | 2023-11-21 05:10:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
