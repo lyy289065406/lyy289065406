@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.09%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.07%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.67%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.97%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.27%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.29%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.27%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 45 | 2023-12-06 05:22:32 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [jira-docker](https://github.com/EXP-Tools/jira-docker) | docker 一键部署 JIRA 破解版 | 11 | 2023-12-10 13:50:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 45 | 2023-12-06 05:22:32  |
 | [bitwarden-docker](https://github.com/EXP-Tools/bitwarden-docker) | docker 一键部署密码管理工具 | 48 | 2023-11-27 11:12:59  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 21 | 2023-11-11 23:51:12  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 52 | 2023-11-08 15:32:13  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 45 | 2023-11-04 10:22:13  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 59 | 2023-10-31 14:15:24  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 94 | 2023-10-09 06:57:06  |
-| [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 7 | 2023-09-24 13:20:55  |
 <!-- END_SECTION:activity -->
 
 
