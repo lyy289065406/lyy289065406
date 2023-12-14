@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.07%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.05%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.66%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.97%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.30%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.32%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.30%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 47 | 2023-12-12 17:12:50 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 48 | 2023-12-14 01:54:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 60 | 2023-12-13 09:19:04  |
+| [bitwarden-docker](https://github.com/EXP-Tools/bitwarden-docker) | docker 一键部署密码管理工具 | 49 | 2023-12-13 08:02:48  |
 | [jira-docker](https://github.com/EXP-Tools/jira-docker) | docker 一键部署 JIRA 破解版 | 11 | 2023-12-10 13:50:33  |
-| [bitwarden-docker](https://github.com/EXP-Tools/bitwarden-docker) | docker 一键部署密码管理工具 | 48 | 2023-11-27 11:12:59  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 21 | 2023-11-11 23:51:12  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 52 | 2023-11-08 15:32:13  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 45 | 2023-11-04 10:22:13  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 59 | 2023-10-31 14:15:24  |
-| [site-package](https://github.com/EXP-Tools/site-package) | 站点功能组件 | 94 | 2023-10-09 06:57:06  |
 <!-- END_SECTION:activity -->
 
 
