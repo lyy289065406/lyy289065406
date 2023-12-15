@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.05%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.66%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.02%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.67%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.97%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.32%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.34%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.32%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 48 | 2023-12-14 01:54:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 56 | 2023-12-15 01:15:04 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 60 | 2023-12-13 09:19:04  |
 | [bitwarden-docker](https://github.com/EXP-Tools/bitwarden-docker) | docker 一键部署密码管理工具 | 49 | 2023-12-13 08:02:48  |
 | [jira-docker](https://github.com/EXP-Tools/jira-docker) | docker 一键部署 JIRA 破解版 | 11 | 2023-12-10 13:50:33  |
