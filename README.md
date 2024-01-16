@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.66%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.64%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.57%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.03%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.74%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.76%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -83,7 +83,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.74%
 | [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 03」经典控制 - Cart Pole 倒立摆问题](https://exp-blog.com/ai/gym-bi-ji-03-cartpole/) | 2023-12-24 01:34:50  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」SDE 基础使用指引](https://exp-blog.com/game/ro/ro-bi-ji-sde-zhi-yin/) | 2023-12-23 13:40:26  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」GRF 加密指引](https://exp-blog.com/game/ro/ro-bi-ji-grf-encrypt/) | 2023-12-21 13:26:56  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x4E4C;&#x6BD4;&#x5C14;&#x514B;&#xFF0C;&#x4E4C;&#x6BD4;&#x5C14;&#x514B;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/1705166122.html) | 2024-01-13 18:24:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x4FE1;&#x4EFB;&#x7684;&#x56DE;&#x5E94;&#x65B9;&#x5F0F;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/44.html) | 2024-01-15 18:27:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
