@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.51%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.49%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.55%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.06%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.87%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.07%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.89%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -83,7 +83,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.87%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」Thor 登陆器配置指南](https://exp-blog.com/game/ro/ro-bi-ji-thor-patcher/) | 2023-12-29 23:48:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」攻击伤害字型修改](https://exp-blog.com/game/ro/ro-bi-ji-damage-font/) | 2023-12-25 17:53:47  |
 | [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 03」经典控制 - Cart Pole 倒立摆问题](https://exp-blog.com/ai/gym-bi-ji-03-cartpole/) | 2023-12-24 01:34:50  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x98CE;&#x7684;&#x5473;&#x9053;.&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/46.html) | 2024-01-21 08:59:04 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x98CE;&#x7684;&#x5473;&#x9053;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/46.html) | 2024-01-22 04:51:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
