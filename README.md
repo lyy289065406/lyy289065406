@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.49%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.47%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.55%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.07%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.89%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.91%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.89%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 披风/翅膀篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-wings/) | 2024-01-20 10:38:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 盾牌篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-shield/) | 2024-01-23 17:09:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 披风/翅膀篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-wings/) | 2024-01-20 10:38:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」武器外观 ID 解读](https://exp-blog.com/game/ro/ro-bi-ji-weapon-view-id/) | 2024-01-17 16:54:18  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」头饰制作基础 - 五色卡浩之角](https://exp-blog.com/game/ro/ro-bi-ji-add-kahao/) | 2024-01-06 07:29:45  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」客户端目录结构及功能说明（2024 修订）](https://exp-blog.com/game/ro/ro-bi-ji-client-struct/) | 2024-01-05 18:21:16  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.89%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义地图](https://exp-blog.com/game/ro/ro-bi-ji-add-map/) | 2024-01-01 09:45:23  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」Thor 登陆器配置指南](https://exp-blog.com/game/ro/ro-bi-ji-thor-patcher/) | 2023-12-29 23:48:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」攻击伤害字型修改](https://exp-blog.com/game/ro/ro-bi-ji-damage-font/) | 2023-12-25 17:53:47  |
-| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 03」经典控制 - Cart Pole 倒立摆问题](https://exp-blog.com/ai/gym-bi-ji-03-cartpole/) | 2023-12-24 01:34:50  |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x98CE;&#x7684;&#x5473;&#x9053;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/46.html) | 2024-01-22 04:51:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
