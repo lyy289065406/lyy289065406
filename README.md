@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.45%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.55%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.07%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.93%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.43%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.54%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.08%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.95%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -83,7 +83,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.93%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 头饰篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-id/) | 2024-01-05 09:45:23  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义地图](https://exp-blog.com/game/ro/ro-bi-ji-add-map/) | 2024-01-01 09:45:23  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」Thor 登陆器配置指南](https://exp-blog.com/game/ro/ro-bi-ji-thor-patcher/) | 2023-12-29 23:48:21  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x98CE;&#x7684;&#x5473;&#x9053;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/46.html) | 2024-01-22 04:51:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x5766;&#x8428;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/47.html) | 2024-01-25 18:25:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
