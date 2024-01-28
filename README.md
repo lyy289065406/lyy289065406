@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.41%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.39%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.54%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.08%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.97%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.99%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.97%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」特殊外观 ID 解读 - 时装/影子篇](https://exp-blog.com/game/ro/ro-bi-ji-costume-view-id/) | 2024-01-24 16:28:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」人物外观修改 - 发型/发色篇](https://exp-blog.com/game/ro/ro-bi-ji-hairstyle/) | 2024-01-27 15:51:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」特殊外观 ID 解读 - 时装/影子篇](https://exp-blog.com/game/ro/ro-bi-ji-costume-view-id/) | 2024-01-24 16:28:36  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 盾牌篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-shield/) | 2024-01-23 17:09:37  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 披风/翅膀篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-wings/) | 2024-01-20 10:38:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」武器外观 ID 解读](https://exp-blog.com/game/ro/ro-bi-ji-weapon-view-id/) | 2024-01-17 16:54:18  |
@@ -82,8 +83,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.97%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」客户端目录结构及功能说明（2024 修订）](https://exp-blog.com/game/ro/ro-bi-ji-client-struct/) | 2024-01-05 18:21:16  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 头饰篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-id/) | 2024-01-05 09:45:23  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义地图](https://exp-blog.com/game/ro/ro-bi-ji-add-map/) | 2024-01-01 09:45:23  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」Thor 登陆器配置指南](https://exp-blog.com/game/ro/ro-bi-ji-thor-patcher/) | 2023-12-29 23:48:21  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x8346;&#x68D8;&#x7684;&#x8840;&#x5492;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/48.html) | 2024-01-26 03:45:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x8346;&#x68D8;&#x4E4B;&#x738B;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/49.html) | 2024-01-27 18:24:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
