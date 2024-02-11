@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.41%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.45%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.39%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.44%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.10%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.05%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.07%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -83,7 +83,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.05%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」特殊外观 ID 解读 - 时装/影子篇](https://exp-blog.com/game/ro/ro-bi-ji-costume-view-id/) | 2024-01-24 16:28:36  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 盾牌篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-shield/) | 2024-01-23 17:09:37  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 披风/翅膀篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-wings/) | 2024-01-20 10:38:21  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x82CF;&#x95E8;&#x7B54;&#x814A;(&#x82CF;&#x95E8;&#x7B54;&#x814A;)&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/54.html) | 2024-02-09 18:30:44 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x8D70;&#x9A6C;&#x706F;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/54.html) | 2024-02-10 10:41:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
