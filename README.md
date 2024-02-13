@@ -45,9 +45,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.37%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.44%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.10%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.39%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.43%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.09%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.09%
 ```
 <!-- END_SECTION:weektime -->
@@ -58,8 +58,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.09%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 9 | 2024-01-30 15:32:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 98 | 2024-01-19 19:48:09  |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 99 | 2024-02-12 23:12:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 9 | 2024-01-30 15:32:29  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 47 | 2023-12-18 12:06:11  |
 | [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 236 | 2023-12-17 04:45:14  |
 | [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 60 | 2023-12-13 09:19:04  |
@@ -83,7 +83,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.09%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」特殊外观 ID 解读 - 时装/影子篇](https://exp-blog.com/game/ro/ro-bi-ji-costume-view-id/) | 2024-01-24 16:28:36  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 盾牌篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-shield/) | 2024-01-23 17:09:37  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」防具外观 ID 解读 - 披风/翅膀篇](https://exp-blog.com/game/ro/ro-bi-ji-armor-view-wings/) | 2024-01-20 10:38:21  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x8D70;&#x9A6C;&#x706F;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/54.html) | 2024-02-10 10:41:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x739B;&#x5FB7;&#x7433;&#xB7;&#x827E;&#x6C99;&#x5C14;&#x300F;](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/55.html) | 2024-02-12 18:36:53 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
