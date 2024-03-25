@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.88%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.85%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.35%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.05%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.72%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.06%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.74%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.72%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 133 | 2024-03-24 01:12:18 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 137 | 2024-03-25 01:09:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 9 | 2024-01-30 15:32:29  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 47 | 2023-12-18 12:06:11  |
 | [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 236 | 2023-12-17 04:45:14  |
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.72%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 04」经典控制 - Mountain Car 山地车（离散动作）](https://exp-blog.com/ai/gym-bi-ji-04-mountaincar/) | 2024-03-04 15:53:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 05」经典控制 - Mountain Car 山地车（连续动作）](https://exp-blog.com/ai/gym-bi-ji-05-mountaincarcontinuous/) | 2024-03-23 07:06:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 04」经典控制 - Mountain Car 山地车（离散动作）](https://exp-blog.com/ai/gym-bi-ji-04-mountaincar/) | 2024-03-04 15:53:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义 NPC](https://exp-blog.com/game/ro/ro-bi-ji-add-npc/) | 2024-02-27 16:28:28  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」设定自定义宠物的进化路线](https://exp-blog.com/game/ro/ro-bi-ji-pet-evolution/) | 2024-02-05 16:27:09  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义宠物](https://exp-blog.com/game/ro/ro-bi-ji-add-pet/) | 2024-02-03 08:57:06  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.72%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义魔物](https://exp-blog.com/game/ro/ro-bi-ji-add-monster/) | 2024-01-29 16:28:36  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」人物外观修改 - 身体/职装篇](https://exp-blog.com/game/ro/ro-bi-ji-bodystyle/) | 2024-01-28 07:44:34  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」人物外观修改 - 发型/发色篇](https://exp-blog.com/game/ro/ro-bi-ji-hairstyle/) | 2024-01-27 15:51:48  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」特殊外观 ID 解读 - 时装/影子篇](https://exp-blog.com/game/ro/ro-bi-ji-costume-view-id/) | 2024-01-24 16:28:36  |
 <!-- END_SECTION:article -->
 
 
