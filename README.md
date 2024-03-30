@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.81%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.79%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.35%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.06%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.78%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.80%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.78%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 150 | 2024-03-28 00:55:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 153 | 2024-03-29 18:27:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 9 | 2024-01-30 15:32:29  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 47 | 2023-12-18 12:06:11  |
 | [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 236 | 2023-12-17 04:45:14  |
