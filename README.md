@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.74%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.72%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.35%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.10%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.81%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.83%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.81%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 161 | 2024-03-30 07:30:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 163 | 2024-03-31 13:10:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 9 | 2024-01-30 15:32:29  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 47 | 2023-12-18 12:06:11  |
 | [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 236 | 2023-12-17 04:45:14  |
@@ -74,15 +74,15 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.81%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 05」经典控制 - Mountain Car 山地车（连续动作）](https://exp-blog.com/ai/gym-bi-ji-05-mountaincarcontinuous/) | 2024-03-23 07:06:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「BrowEdit3 入门教程 01」 安装、配置、界面介绍](https://exp-blog.com/game/browedit/browedit3-bi-ji-01-intro-setup/) | 2024-04-01 23:24:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 06」经典控制 - Pendulum 摆锤](https://exp-blog.com/ai/gym-bi-ji-06-pendulum/) | 2024-03-25 16:41:36  |
+| [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 05」经典控制 - Mountain Car 山地车（连续动作）](https://exp-blog.com/ai/gym-bi-ji-05-mountaincarcontinuous/) | 2024-03-23 07:06:33  |
 | [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 04」经典控制 - Mountain Car 山地车（离散动作）](https://exp-blog.com/ai/gym-bi-ji-04-mountaincar/) | 2024-03-04 15:53:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义 NPC](https://exp-blog.com/game/ro/ro-bi-ji-add-npc/) | 2024-02-27 16:28:28  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」设定自定义宠物的进化路线](https://exp-blog.com/game/ro/ro-bi-ji-pet-evolution/) | 2024-02-05 16:27:09  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义宠物](https://exp-blog.com/game/ro/ro-bi-ji-add-pet/) | 2024-02-03 08:57:06  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义卡片](https://exp-blog.com/game/ro/ro-bi-ji-add-card/) | 2024-01-31 15:47:51  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义魔物](https://exp-blog.com/game/ro/ro-bi-ji-add-monster/) | 2024-01-29 16:28:36  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」人物外观修改 - 身体/职装篇](https://exp-blog.com/game/ro/ro-bi-ji-bodystyle/) | 2024-01-28 07:44:34  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」人物外观修改 - 发型/发色篇](https://exp-blog.com/game/ro/ro-bi-ji-hairstyle/) | 2024-01-27 15:51:48  |
 <!-- END_SECTION:article -->
 
 
