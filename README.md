@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    55.53%
+Programming    23 hrs    ooooooooooooxxxxxxxx    55.51%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.17%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.09%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.21%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.10%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.23%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.21%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」设置自定义任务到 UI](https://exp-blog.com/game/ro/ro-bi-ji-set-quest/) | 2024-04-02 16:02:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [3DS 翻新改造笔记](https://exp-blog.com/game/3ds/3ds-renovation-notes/) | 2024-05-12 15:12:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」设置自定义任务到 UI](https://exp-blog.com/game/ro/ro-bi-ji-set-quest/) | 2024-04-02 16:02:45  |
 | [articles](https://github.com/lyy289065406/articles) | [「BrowEdit3 入门教程 01」 安装、配置、界面介绍](https://exp-blog.com/game/browedit/browedit3-bi-ji-01-intro-setup/) | 2024-04-01 23:24:16  |
 | [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 06」经典控制 - Pendulum 摆锤](https://exp-blog.com/ai/gym-bi-ji-06-pendulum/) | 2024-03-25 16:41:36  |
 | [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 05」经典控制 - Mountain Car 山地车（连续动作）](https://exp-blog.com/ai/gym-bi-ji-05-mountaincarcontinuous/) | 2024-03-23 07:06:33  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.21%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义 NPC](https://exp-blog.com/game/ro/ro-bi-ji-add-npc/) | 2024-02-27 16:28:28  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」设定自定义宠物的进化路线](https://exp-blog.com/game/ro/ro-bi-ji-pet-evolution/) | 2024-02-05 16:27:09  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义宠物](https://exp-blog.com/game/ro/ro-bi-ji-add-pet/) | 2024-02-03 08:57:06  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义卡片](https://exp-blog.com/game/ro/ro-bi-ji-add-card/) | 2024-01-31 15:47:51  |
 <!-- END_SECTION:article -->
 
 
