@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.15%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.09%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.19%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.08%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.65%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.11%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.08%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.11%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [onekey-mysql](https://github.com/EXP-Codes/onekey-mysql) | 一键 注册/反注册/启动/停止 mysql 脚本 | 12 | 2024-06-23 15:35:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [onekey-mysql](https://github.com/EXP-Codes/onekey-mysql) | 一键 注册/反注册/启动/停止 mysql 脚本 | 13 | 2024-06-24 08:13:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 7 | 2024-06-11 17:18:14  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 22 | 2024-05-14 04:39:10  |
 | [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 168 | 2024-04-16 04:49:49  |
