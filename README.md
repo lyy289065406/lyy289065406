@@ -45,7 +45,7 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.24%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.23%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.07%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.65%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.05%
@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.05%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [onekey-mysql](https://github.com/EXP-Codes/onekey-mysql) | 一键 注册/反注册/启动/停止 mysql 脚本 | 13 | 2024-06-24 08:13:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [environment](https://github.com/EXP-Tools/environment) | 环境安装包 | 31 | 2024-06-29 09:24:52 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [onekey-mysql](https://github.com/EXP-Codes/onekey-mysql) | 一键 注册/反注册/启动/停止 mysql 脚本 | 13 | 2024-06-24 08:13:01  |
 | [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 7 | 2024-06-11 17:18:14  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 22 | 2024-05-14 04:39:10  |
 | [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 168 | 2024-04-16 04:49:49  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 9 | 2024-01-30 15:32:29  |
 | [chatgpt-docker](https://github.com/Visuals-AI/chatgpt-docker) | docker 一键部署 ChatGPT 服务端 | 47 | 2023-12-18 12:06:11  |
 | [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 236 | 2023-12-17 04:45:14  |
-| [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 60 | 2023-12-13 09:19:04  |
 <!-- END_SECTION:activity -->
 
 
