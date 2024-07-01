@@ -48,7 +48,7 @@
 Programming    23 hrs    ooooooooooooxxxxxxxx    56.23%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.07%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.65%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.05%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.04%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.05%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [Windows 一键 注册/反注册/启动/停止 mysql 脚本](https://exp-blog.com/tools/onekey-mysql/) | 2024-06-25 14:26:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [rAthena 的 NPC 脚本语法高亮设置指引](https://exp-blog.com/game/ro/rathena-syntax-highlighting/) | 2024-06-30 17:03:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [Windows 一键 注册/反注册/启动/停止 mysql 脚本](https://exp-blog.com/tools/onekey-mysql/) | 2024-06-25 14:26:38  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」启动客户端时 d3d 异常处理](https://exp-blog.com/game/ro/ro-bi-ji-d3d-error/) | 2024-06-23 13:22:36  |
 | [articles](https://github.com/lyy289065406/articles) | [3DS 翻新改造笔记](https://exp-blog.com/game/3ds/3ds-renovation-notes/) | 2024-05-12 15:12:57  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」设置自定义任务到 UI](https://exp-blog.com/game/ro/ro-bi-ji-set-quest/) | 2024-04-02 16:02:45  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.05%
 | [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 06」经典控制 - Pendulum 摆锤](https://exp-blog.com/ai/gym-bi-ji-06-pendulum/) | 2024-03-25 16:41:36  |
 | [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 05」经典控制 - Mountain Car 山地车（连续动作）](https://exp-blog.com/ai/gym-bi-ji-05-mountaincarcontinuous/) | 2024-03-23 07:06:33  |
 | [articles](https://github.com/lyy289065406/articles) | [「Gym 课程笔记 04」经典控制 - Mountain Car 山地车（离散动作）](https://exp-blog.com/ai/gym-bi-ji-04-mountaincar/) | 2024-03-04 15:53:21  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」添加自定义 NPC](https://exp-blog.com/game/ro/ro-bi-ji-add-npc/) | 2024-02-27 16:28:28  |
 <!-- END_SECTION:article -->
 
 
