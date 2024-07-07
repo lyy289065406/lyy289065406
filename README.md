@@ -45,9 +45,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.22%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.21%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.07%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.69%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.70%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.02%
 ```
 <!-- END_SECTION:weektime -->
@@ -74,15 +74,15 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    32.02%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [如何为英语视频添加双语字幕](https://exp-blog.com/tools/ru-he-wei-ying-yu-shi-pin-tian-jia-shuang-yu-zi-mu/) | 2024-07-03 17:59:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「BrowEdit3 入门教程 03」 高度编辑教程](https://exp-blog.com/game/browedit/browedit3-bi-ji-03-height-edit/) | 2024-07-06 02:58:37 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「BrowEdit3 入门教程 02」 准备工作](https://exp-blog.com/game/browedit/browedit3-bi-ji-02-ready/) | 2024-07-06 02:54:18  |
+| [articles](https://github.com/lyy289065406/articles) | [如何为英语视频添加双语字幕](https://exp-blog.com/tools/ru-he-wei-ying-yu-shi-pin-tian-jia-shuang-yu-zi-mu/) | 2024-07-03 17:59:26  |
 | [articles](https://github.com/lyy289065406/articles) | [「NPC 技巧」利用邮件触发客户端缓存同步数据库](https://exp-blog.com/game/ro/npc-ji-qiao-mail-sync-cache/) | 2024-07-03 15:59:27  |
 | [articles](https://github.com/lyy289065406/articles) | [「NPC 技巧」随机打乱数组 —— 如何数组传参？](https://exp-blog.com/game/ro/npc-ji-qiao-shuffle-array/) | 2024-07-02 15:46:36  |
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 的 NPC 脚本语法高亮设置指引](https://exp-blog.com/game/ro/rathena-syntax-highlighting/) | 2024-06-30 17:03:26  |
 | [articles](https://github.com/lyy289065406/articles) | [Windows 一键 注册/反注册/启动/停止 mysql 脚本](https://exp-blog.com/tools/onekey-mysql/) | 2024-06-25 14:26:38  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」启动客户端时 d3d 异常处理](https://exp-blog.com/game/ro/ro-bi-ji-d3d-error/) | 2024-06-23 13:22:36  |
 | [articles](https://github.com/lyy289065406/articles) | [3DS 翻新改造笔记](https://exp-blog.com/game/3ds/3ds-renovation-notes/) | 2024-05-12 15:12:57  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」设置自定义任务到 UI](https://exp-blog.com/game/ro/ro-bi-ji-set-quest/) | 2024-04-02 16:02:45  |
-| [articles](https://github.com/lyy289065406/articles) | [「BrowEdit3 入门教程 01」 安装、配置、界面介绍](https://exp-blog.com/game/browedit/browedit3-bi-ji-01-intro-setup/) | 2024-04-01 23:24:16  |
 <!-- END_SECTION:article -->
 
 
