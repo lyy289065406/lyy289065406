@@ -14,15 +14,15 @@
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=exp-blog&theme=nord" />
 </a>
 
-<a href="https://github.com/lyy289065406/threat-broadcast" target="_blank">
+<a href="https://github.com/EXP-Tools/threat-broadcast" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=threat-broadcast&theme=nord" />
 </a>
 
-<a href="https://github.com/lyy289065406/CTF-Solving-Reports" target="_blank">
-  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=CTF-Solving-Reports&theme=nord" />
+<a href="https://github.com/Visuals-AI/AI-auto-checkin" target="_blank">
+  <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=AI-auto-checkin&theme=nord" />
 </a>
 
-<a href="https://github.com/lyy289065406/POJ-Solving-Reports" target="_blank">
+<a href="https://github.com/EXP-Docs/POJ-Solving-Reports" target="_blank">
   <img height="114" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lyy289065406&repo=POJ-Solving-Reports&theme=nord" />
 </a>
 
