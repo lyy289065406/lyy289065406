@@ -47,7 +47,7 @@
 ```text
 Programming    23 hrs    ooooooooooooxxxxxxxx    56.61%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.01%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.72%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.73%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.66%
 ```
 <!-- END_SECTION:weektime -->
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.66%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [快速搭建本地大模型与知识库](https://exp-blog.com/ai/build-ollama-anythingllm/) | 2024-07-21 11:47:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [掌上仙境？教你如何在 SteamDeck 原生系统上运行 RO ！](https://exp-blog.com/game/ro/run-ro-on-steamdeck/) | 2024-08-10 12:34:57 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [快速搭建本地大模型与知识库](https://exp-blog.com/ai/build-ollama-anythingllm/) | 2024-07-21 11:47:28  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」rAthena 联机教程](https://exp-blog.com/game/ro/ro-bi-ji-rathena-lian-ji-jiao-cheng/) | 2024-07-07 17:24:36  |
 | [articles](https://github.com/lyy289065406/articles) | [「BrowEdit3 入门教程 03」 高度编辑教程](https://exp-blog.com/game/browedit/browedit3-bi-ji-03-height-edit/) | 2024-07-06 02:58:37  |
 | [articles](https://github.com/lyy289065406/articles) | [「BrowEdit3 入门教程 02」 准备工作](https://exp-blog.com/game/browedit/browedit3-bi-ji-02-ready/) | 2024-07-06 02:54:18  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.66%
 | [articles](https://github.com/lyy289065406/articles) | [「NPC 技巧」利用邮件触发客户端缓存同步数据库](https://exp-blog.com/game/ro/npc-ji-qiao-mail-sync-cache/) | 2024-07-03 15:59:27  |
 | [articles](https://github.com/lyy289065406/articles) | [「NPC 技巧」随机打乱数组 —— 如何数组传参？](https://exp-blog.com/game/ro/npc-ji-qiao-shuffle-array/) | 2024-07-02 15:46:36  |
 | [articles](https://github.com/lyy289065406/articles) | [rAthena 的 NPC 脚本语法高亮设置指引](https://exp-blog.com/game/ro/rathena-syntax-highlighting/) | 2024-06-30 17:03:26  |
-| [articles](https://github.com/lyy289065406/articles) | [Windows 一键 注册/反注册/启动/停止 mysql 脚本](https://exp-blog.com/tools/onekey-mysql/) | 2024-06-25 14:26:38  |
 <!-- END_SECTION:article -->
 
 
