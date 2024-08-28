@@ -47,7 +47,7 @@
 ```text
 Programming    23 hrs    ooooooooooooxxxxxxxx    56.63%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    08.00%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.75%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.76%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.61%
 ```
 <!-- END_SECTION:weektime -->
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.61%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 23 | 2024-08-19 03:48:42 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 24 | 2024-08-27 05:04:19 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 63 | 2024-07-12 05:24:39  |
 | [environment](https://github.com/EXP-Tools/environment) | 环境安装包 | 31 | 2024-06-29 09:24:52  |
 | [onekey-mysql](https://github.com/EXP-Codes/onekey-mysql) | 一键 注册/反注册/启动/停止 mysql 脚本 | 13 | 2024-06-24 08:13:01  |
