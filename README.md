@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.84%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.97%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.88%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.96%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.77%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.42%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.39%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.42%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [pypdm-db](https://github.com/EXP-Codes/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 94 | 2024-09-19 00:28:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pypdm-db](https://github.com/EXP-Codes/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 95 | 2024-09-20 15:35:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 8 | 2024-09-18 00:35:38  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 26 | 2024-08-28 14:46:01  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 63 | 2024-07-12 05:24:39  |
