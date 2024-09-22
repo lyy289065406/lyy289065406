@@ -58,14 +58,14 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    31.39%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [pypdm-db](https://github.com/EXP-Codes/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 95 | 2024-09-20 15:35:40 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 237 | 2024-09-21 09:47:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pypdm-db](https://github.com/EXP-Codes/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 95 | 2024-09-20 15:35:40  |
 | [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 8 | 2024-09-18 00:35:38  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 26 | 2024-08-28 14:46:01  |
 | [trojan-docker](https://github.com/EXP-Tools/trojan-docker) | docker 一键部署 trojan 服务端 ：自建 VPS 科学上网 | 63 | 2024-07-12 05:24:39  |
 | [environment](https://github.com/EXP-Tools/environment) | 环境安装包 | 31 | 2024-06-29 09:24:52  |
 | [onekey-mysql](https://github.com/EXP-Codes/onekey-mysql) | 一键 注册/反注册/启动/停止 mysql 脚本 | 13 | 2024-06-24 08:13:01  |
 | [gym-course-exercises](https://github.com/Visuals-AI/gym-course-exercises) | OpenAI Gym 课程练习笔记 | 168 | 2024-04-16 04:49:49  |
-| [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 9 | 2024-01-30 15:32:29  |
 <!-- END_SECTION:activity -->
 
 
