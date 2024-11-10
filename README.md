@@ -45,9 +45,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.50%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.49%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.79%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.16%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.17%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.55%
 ```
 <!-- END_SECTION:weektime -->
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.55%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [让生活更有 AI 意](https://exp-blog.com/ai/rang-sheng-huo-geng-you-ai-yi/) | 2024-10-07 05:37:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 01」开班典礼](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-01/) | 2024-11-09 11:00:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [让生活更有 AI 意](https://exp-blog.com/ai/rang-sheng-huo-geng-you-ai-yi/) | 2024-10-07 05:37:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「AI 写真自由」如何在朋友圈正式出道、成为最瞩目的仔 ？](https://exp-blog.com/ai/ai-xie-zhen-zi-you/) | 2024-09-15 10:04:00  |
 | [articles](https://github.com/lyy289065406/articles) | [掌上仙境？教你如何在 SteamDeck 原生系统上运行 RO ！](https://exp-blog.com/game/ro/run-ro-on-steamdeck/) | 2024-08-10 12:34:57  |
 | [articles](https://github.com/lyy289065406/articles) | [快速搭建本地大模型与知识库](https://exp-blog.com/ai/build-ollama-anythingllm/) | 2024-07-21 11:47:28  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.55%
 | [articles](https://github.com/lyy289065406/articles) | [「BrowEdit3 入门教程 03」 高度编辑教程](https://exp-blog.com/game/browedit/browedit3-bi-ji-03-height-edit/) | 2024-07-06 02:58:37  |
 | [articles](https://github.com/lyy289065406/articles) | [「BrowEdit3 入门教程 02」 准备工作](https://exp-blog.com/game/browedit/browedit3-bi-ji-02-ready/) | 2024-07-06 02:54:18  |
 | [articles](https://github.com/lyy289065406/articles) | [如何为英语视频添加双语字幕](https://exp-blog.com/tools/ru-he-wei-ying-yu-shi-pin-tian-jia-shuang-yu-zi-mu/) | 2024-07-03 17:59:26  |
-| [articles](https://github.com/lyy289065406/articles) | [「NPC 技巧」利用邮件触发客户端缓存同步数据库](https://exp-blog.com/game/ro/npc-ji-qiao-mail-sync-cache/) | 2024-07-03 15:59:27  |
 <!-- END_SECTION:article -->
 
 
