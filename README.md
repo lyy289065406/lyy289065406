@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    56.66%
+Programming    23 hrs    ooooooooooooxxxxxxxx    56.69%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.76%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.17%
-Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.41%
+Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.38%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,10 +74,10 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.41%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 06」正确的声音通道](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-06/) | 2024-11-16 17:57:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 05」基础发声实践](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-05/) | 2024-11-16 14:32:36  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 04」真假声与头声](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-04/) | 2024-11-16 14:25:20  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 03」声带控制](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-03/) | 2024-11-16 12:21:11  |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 06」正确的声音通道](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-06/) | 2024-11-23 17:57:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 05」基础发声实践](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-05/) | 2024-11-23 14:32:36  |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 04」真假声与头声](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-04/) | 2024-11-23 14:25:20  |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 03」声带控制](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-03/) | 2024-11-22 17:44:11  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 02」气息控制](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-02/) | 2024-11-16 11:30:00  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 01」入学测试](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-01/) | 2024-11-13 11:30:00  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 00」开班典礼](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-00/) | 2024-11-09 11:00:00  |
