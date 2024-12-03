@@ -74,7 +74,7 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.32%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 10」歌曲演唱技巧：气声、气泡音与颤音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-10/) | 2024-12-01 14:01:08 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 10」歌曲演唱技巧：气声、气泡音与颤音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-10/) | 2024-12-02 16:03:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 09」基础发声实践 2](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-09/) | 2024-12-01 13:57:34  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 08」元音和咬字](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-08/) | 2024-12-01 04:54:42  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 07」共鸣腔体](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-07/) | 2024-12-01 02:05:41  |
