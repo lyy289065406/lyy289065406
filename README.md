@@ -74,12 +74,12 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.31%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 11」歌曲情感要素](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-11/) | 2024-12-03 15:08:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 11」歌曲情感要素](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-11/) | 2024-12-05 18:00:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 10」歌曲演唱技巧：气声、气泡音与颤音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-10/) | 2024-12-02 16:03:12  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 09」基础发声实践 2](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-09/) | 2024-12-01 13:57:34  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 08」元音和咬字](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-08/) | 2024-12-01 04:54:42  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 07」共鸣腔体](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-07/) | 2024-12-01 02:05:41  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 06」正确的声音通道](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-06/) | 2024-11-29 17:57:21  |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 06」声音通道控制](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-06/) | 2024-11-29 17:57:21  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 05」真假声与头声](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-05/) | 2024-11-27 14:25:20  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 04」基础发声实践](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-04/) | 2024-11-23 11:10:36  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 03」声带控制](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-03/) | 2024-11-22 17:44:11  |
