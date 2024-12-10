@@ -46,7 +46,7 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    23 hrs    ooooooooooooxxxxxxxx    56.76%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.74%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.75%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.19%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.31%
 ```
