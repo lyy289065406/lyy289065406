@@ -45,7 +45,7 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.07%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.06%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.69%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.19%
 Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.05%
@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.05%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 17」弱混和边缘化](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-17/) | 2025-01-18 11:30:35 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 18」R&amp;B与转音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-18/) | 2025-01-22 13:41:04 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 17」弱混和边缘化](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-17/) | 2025-01-18 11:30:35  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 16」混声体系和换声概念](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-16/) | 2025-01-15 11:30:35  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 15」期中考试](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-15/) | 2025-01-11 11:30:35  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 14」音乐风格](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-14/) | 2025-01-08 05:12:35  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.05%
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 12」歌曲演唱技巧：哭腔与怒音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-12/) | 2024-12-31 11:30:03  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 11」歌曲情感要素](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-11/) | 2024-12-28 11:30:24  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 10」歌曲演唱技巧：气声、气泡音与颤音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-10/) | 2024-12-27 11:30:12  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 09」基础发声实践 2](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-09/) | 2024-12-14 14:14:34  |
 <!-- END_SECTION:article -->
 
 
