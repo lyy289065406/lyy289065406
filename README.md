@@ -74,7 +74,8 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.04%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [MacOS 彻底格式化磁盘指引](https://exp-blog.com/safe/macos-che-di-ge-shi-hua-ci-pan-zhi-yin/) | 2025-01-26 11:24:41 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 21」戏腔与中国风/古风](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-21/) | 2025-01-27 03:47:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [MacOS 彻底格式化磁盘指引](https://exp-blog.com/safe/macos-che-di-ge-shi-hua-ci-pan-zhi-yin/) | 2025-01-26 11:24:41  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 20」咽音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-20/) | 2025-01-26 08:08:24  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 19」进阶发声实践](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-19/) | 2025-01-25 10:22:18  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 18」R&amp;B与转音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-18/) | 2025-01-22 13:41:04  |
@@ -82,7 +83,6 @@ Playing        13 hrs    ooooooooxxxxxxxxxxxx    30.04%
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 16」混声体系和换声概念](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-16/) | 2025-01-15 11:30:35  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 15」期中考试](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-15/) | 2025-01-11 11:30:35  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 14」音乐风格](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-14/) | 2025-01-08 05:12:35  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 13」基础发声实践 3](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-13/) | 2025-01-04 11:30:35  |
 <!-- END_SECTION:article -->
 
 
