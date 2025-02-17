@@ -74,7 +74,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.86%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [AI 集成到常用办公软件指引](https://exp-blog.com/ai/ai-for-work/) | 2025-02-12 17:11:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [常用办公软件集成 AI 指引](https://exp-blog.com/ai/ai-for-work/) | 2025-02-12 17:11:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Ollama 运行本地 AI 大模型时如何调用 GPU ?](https://exp-blog.com/ai/ollama-use-gpu/) | 2025-02-09 07:04:32  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 21」戏腔与中国风/古风](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-21/) | 2025-01-27 03:47:54  |
 | [articles](https://github.com/lyy289065406/articles) | [MacOS 彻底格式化磁盘指引](https://exp-blog.com/safe/macos-che-di-ge-shi-hua-ci-pan-zhi-yin/) | 2025-01-26 11:24:41  |
