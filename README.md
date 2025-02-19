@@ -48,7 +48,7 @@
 Programming    23 hrs    ooooooooooooxxxxxxxx    57.32%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.65%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.19%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.84%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.83%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.84%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [常用办公软件集成 AI 指引](https://exp-blog.com/ai/ai-for-work/) | 2025-02-12 17:11:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 22」强混（Belting）](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-22/) | 2025-02-15 11:30:58 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [常用办公软件集成 AI 指引](https://exp-blog.com/ai/ai-for-work/) | 2025-02-12 17:11:54  |
 | [articles](https://github.com/lyy289065406/articles) | [使用 Ollama 运行本地 AI 大模型时如何调用 GPU ?](https://exp-blog.com/ai/ollama-use-gpu/) | 2025-02-09 07:04:32  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 21」戏腔与中国风/古风](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-21/) | 2025-01-27 03:47:54  |
 | [articles](https://github.com/lyy289065406/articles) | [MacOS 彻底格式化磁盘指引](https://exp-blog.com/safe/macos-che-di-ge-shi-hua-ci-pan-zhi-yin/) | 2025-01-26 11:24:41  |
@@ -82,7 +83,6 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.84%
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 19」进阶发声实践](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-19/) | 2025-01-25 10:22:18  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 18」R&amp;B与转音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-18/) | 2025-01-22 13:41:04  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 17」弱混和边缘化](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-17/) | 2025-01-18 11:30:35  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 16」混声体系和换声概念](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-16/) | 2025-01-15 11:30:35  |
 <!-- END_SECTION:article -->
 
 
