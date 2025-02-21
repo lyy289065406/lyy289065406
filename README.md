@@ -48,7 +48,7 @@
 Programming    23 hrs    ooooooooooooxxxxxxxx    57.35%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.65%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.20%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.81%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.80%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,7 +74,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.81%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 24」摇滚与撕裂音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-24/) | 2025-02-19 11:30:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 25」民谣与烟嗓](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-25/) | 2025-02-21 00:44:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 24」摇滚与撕裂音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-24/) | 2025-02-19 11:30:54  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 23」进阶发声实践 2](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-23/) | 2025-02-17 16:50:11  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 22」强混（Belting）](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-22/) | 2025-02-15 11:30:58  |
 | [articles](https://github.com/lyy289065406/articles) | [常用办公软件集成 AI 指引](https://exp-blog.com/ai/ai-for-work/) | 2025-02-12 17:11:54  |
@@ -82,7 +83,6 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.81%
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 21」戏腔与中国风/古风](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-21/) | 2025-01-27 03:47:54  |
 | [articles](https://github.com/lyy289065406/articles) | [MacOS 彻底格式化磁盘指引](https://exp-blog.com/safe/macos-che-di-ge-shi-hua-ci-pan-zhi-yin/) | 2025-01-26 11:24:41  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 20」咽音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-20/) | 2025-01-26 08:08:24  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 19」进阶发声实践](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-19/) | 2025-01-25 10:22:18  |
 <!-- END_SECTION:article -->
 
 
