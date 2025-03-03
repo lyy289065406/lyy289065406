@@ -45,9 +45,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    23 hrs    ooooooooooooxxxxxxxx    57.39%
+Programming    23 hrs    ooooooooooooxxxxxxxx    57.38%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.66%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.22%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.23%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.73%
 ```
 <!-- END_SECTION:weektime -->
@@ -77,12 +77,12 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.73%
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 30」你歌唱的理由是什么 ？](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-30/) | 2025-03-15 11:30:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 29」期末考试](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-29/) | 2025-03-08 11:33:45  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 28」课程回顾与复习](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-28/) | 2025-03-05 11:25:54  |
+| [articles](https://github.com/lyy289065406/articles) | [如何免费扩容 Github 的 LFS 到 100G](https://exp-blog.com/scm/gitlfs-free-to-100g/) | 2025-03-02 09:58:59  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 27」歌曲实践 2](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-27/) | 2025-03-01 11:15:04  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 26」每日自主练习与 K 歌技巧](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-26/) | 2025-02-26 11:30:01  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 25」民谣与烟嗓](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-25/) | 2025-02-22 11:30:47  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 24」摇滚与撕裂音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-24/) | 2025-02-19 11:30:54  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 23」进阶发声实践 2](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-23/) | 2025-02-14 16:50:11  |
-| [articles](https://github.com/lyy289065406/articles) | [常用办公软件集成 AI 指引](https://exp-blog.com/ai/ai-for-work/) | 2025-02-12 17:11:54  |
 <!-- END_SECTION:article -->
 
 
