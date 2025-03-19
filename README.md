@@ -48,7 +48,7 @@
 Programming    23 hrs    ooooooooooooxxxxxxxx    57.37%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.66%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.26%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.72%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.71%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,11 +58,11 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.72%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [vscode-web-docker](https://github.com/EXP-Tools/vscode-web-docker) | docker 一键部署 vscode-web ：使用浏览器远程开发 | 49 | 2025-03-03 17:08:38 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 29 | 2025-03-18 17:05:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [vscode-web-docker](https://github.com/EXP-Tools/vscode-web-docker) | docker 一键部署 vscode-web ：使用浏览器远程开发 | 49 | 2025-03-03 17:08:38  |
 | [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 61 | 2025-02-25 16:29:00  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 58 | 2025-02-22 08:34:05  |
 | [onekey-mysql](https://github.com/EXP-Codes/onekey-mysql) | 一键 注册/反注册/启动/停止 mysql 脚本 | 18 | 2025-01-06 09:14:34  |
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 27 | 2024-10-27 13:59:54  |
 | [POJ-Solving-Reports](https://github.com/EXP-Docs/POJ-Solving-Reports) | POJ 解题报告 | 237 | 2024-09-21 09:47:22  |
 | [pypdm-db](https://github.com/EXP-Codes/pypdm-db) | sqlite/mysql 的 PDM 生成器 | 95 | 2024-09-20 15:35:40  |
 | [sponsor](https://github.com/lyy289065406/sponsor) | 友情赞助 | 8 | 2024-09-18 00:35:38  |
