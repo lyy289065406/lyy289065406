@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.77%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.58%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.29%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.36%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.81%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.57%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.28%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.34%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,15 +74,16 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.36%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 30」你歌唱的理由是什么 ？](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-30/) | 2025-03-15 11:30:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 29」期末考试](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-29/) | 2025-03-08 11:33:45  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 28」课程回顾与复习](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-28/) | 2025-03-05 11:25:54  |
-| [articles](https://github.com/lyy289065406/articles) | [如何免费扩容 Github 的 LFS 到 100G](https://exp-blog.com/scm/gitlfs-free-to-100g/) | 2025-03-02 09:58:59  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 27」歌曲实践 2](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-27/) | 2025-03-01 11:15:04  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 26」每日自主练习与 K 歌技巧](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-26/) | 2025-02-26 11:30:01  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 25」民谣与烟嗓](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-25/) | 2025-02-22 11:30:47  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 24」摇滚与撕裂音](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-24/) | 2025-02-19 11:30:54  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 23」进阶发声实践 2](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-23/) | 2025-02-14 16:50:11  |
+| [articles](https://github.com/lyy289065406/articles) | [每日英语口语训练打卡](https://exp-blog.com/insights/dailyenglish/) | 2025-04-15 17:51:46 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [AI 时代如何有效率地提高「英语口语」水平 ？](https://exp-blog.com/ai/improve-en-by-ai/) | 2025-04-02 14:00:00  |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」2023 新表情系统配置指引](https://exp-blog.com/game/ro/ro-bi-ji-emotesys/) | 2025-03-29 01:04:25  |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」2023 符文石碑配置指引](https://exp-blog.com/game/ro/ro-bi-ji-runesys-sop/) | 2025-03-23 17:05:48  |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 30」你歌唱的理由是什么 ？](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-30/) | 2025-03-22 11:30:23  |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 29」期末考试](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-29/) | 2025-03-21 11:33:45  |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」汉化个人信息面板的职业名（进阶版）](https://exp-blog.com/game/ro/ro-bi-ji-ge-ren-mian-ban-zhi-ye-ming-han-hua-plus/) | 2025-03-15 13:08:53  |
+| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 28」课程回顾与复习](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-28/) | 2025-03-12 11:25:54  |
+| [articles](https://github.com/lyy289065406/articles) | [从一开始 DIFF Ragnarok 登入器教程（WARP 版）](https://exp-blog.com/game/ro/cong-yi-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2025-03-10 00:48:30  |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/58.html) | 2024-02-19 18:26:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
