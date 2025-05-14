@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    57.81%
+Programming    24 hrs    ooooooooooooxxxxxxxx    57.84%
 Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.57%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.28%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.34%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.32%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -83,6 +83,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.34%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」汉化个人信息面板的职业名（进阶版）](https://exp-blog.com/game/ro/ro-bi-ji-ge-ren-mian-ban-zhi-ye-ming-han-hua-plus/) | 2025-03-15 13:08:53  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 28」课程回顾与复习](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-28/) | 2025-03-12 11:25:54  |
 | [articles](https://github.com/lyy289065406/articles) | [从一开始 DIFF Ragnarok 登入器教程（WARP 版）](https://exp-blog.com/game/ro/cong-yi-kai-shi-diff-ragnarok-deng-ru-qi-jiao-cheng/) | 2025-03-10 00:48:30  |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/58.html) | 2024-02-19 18:26:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
