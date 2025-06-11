@@ -74,7 +74,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.16%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」服务器终止联机 Connection refused](https://exp-blog.com/game/ro/ro-bi-ji-connection-refused/) | 2025-06-11 00:03:51 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
 | [articles](https://github.com/lyy289065406/articles) | [每日英语口语训练打卡](https://exp-blog.com/insights/dailyenglish/) | 2025-04-15 17:51:46  |
 | [articles](https://github.com/lyy289065406/articles) | [AI 时代如何有效率地提高「英语口语」水平 ？](https://exp-blog.com/ai/improve-en-by-ai/) | 2025-04-02 14:00:00  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」2023 新表情系统配置指引](https://exp-blog.com/game/ro/ro-bi-ji-emotesys/) | 2025-03-29 01:04:25  |
@@ -82,7 +83,6 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    29.16%
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 30」你歌唱的理由是什么 ？](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-30/) | 2025-03-22 11:30:23  |
 | [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 29」期末考试](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-29/) | 2025-03-21 11:33:45  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」汉化个人信息面板的职业名（进阶版）](https://exp-blog.com/game/ro/ro-bi-ji-ge-ren-mian-ban-zhi-ye-ming-han-hua-plus/) | 2025-03-15 13:08:53  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 28」课程回顾与复习](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-28/) | 2025-03-12 11:25:54  |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/58.html) | 2024-02-19 18:26:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
