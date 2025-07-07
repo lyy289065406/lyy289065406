@@ -47,7 +47,7 @@
 ```text
 Programming    24 hrs    ooooooooooooxxxxxxxx    58.36%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.48%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.24%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.23%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.93%
 ```
 <!-- END_SECTION:weektime -->
