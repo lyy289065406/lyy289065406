@@ -48,7 +48,7 @@
 Programming    24 hrs    ooooooooooooxxxxxxxx    59.01%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.37%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.20%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.43%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.42%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -58,7 +58,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.43%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 60 | 2025-10-25 18:05:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 61 | 2025-10-26 13:42:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 31 | 2025-08-27 00:31:00  |
 | [vscode-web-docker](https://github.com/EXP-Tools/vscode-web-docker) | docker 一键部署 vscode-web ：使用浏览器远程开发 | 49 | 2025-03-03 17:08:38  |
 | [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | ubuntu 一键装机脚本 | 61 | 2025-02-25 16:29:00  |
