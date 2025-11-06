@@ -33,7 +33,7 @@ def args() :
         ])
     )
     parser.add_argument('-g', '--gtk', dest='gtk', type=str, default="", help='Github Token， 用于 GraphQL 查询')
-    parser.add_argument('-p', '--proxy', dest='proxy', type=str, default="", help='代理服务，如： http://127.0.0.1:18888, socks5://127.0.0.1:1088')
+    parser.add_argument('-p', '--proxy', dest='proxy', type=str, default="", help='http 代理服务，如： http://127.0.0.1:10090')
     return parser.parse_args()
 
 

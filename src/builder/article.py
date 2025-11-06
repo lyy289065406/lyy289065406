@@ -22,11 +22,11 @@ EXP_BLOG_URL = 'https://exp-blog.com/atom.xml'
 
 RO_OWNER = "Casual-Ragnarok"
 RO_STORE = 'ro-store'
-RO_STORE_URL = 'https://store.ragnarok.buzz/atom.xml'
+RO_STORE_URL = 'https://store.casualro.top/atom.xml'
 
 RE0_WEB_OWNER = "re-zero-khis"
 RE0_WEB_REPO = 're0-web'
-RE0_WEB_URL = 'https://rezero.buzz/gitbook/book/sitemap.xml'
+RE0_WEB_URL = 'https://re0zero.top/gitbook/book/sitemap.xml'
 
 
 def build(github_token, proxy='') :

@@ -1,5 +1,5 @@
 requests
-python-graphql-client==0.3.1
+python-graphql-client>=0.4.3
 pyyaml-erb==1.0.2
 py-color-log>=1.0.3
 argparse>=1.4.0

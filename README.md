@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.09%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.10%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.35%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.20%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.36%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.34%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -74,16 +74,16 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.36%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」服务器终止联机 Connection refused](https://exp-blog.com/game/ro/ro-bi-ji-connection-refused/) | 2025-06-11 00:03:51 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [Switch 使用 DBI 安装免费游戏笔记](https://exp-blog.com/game/switch/dbi-install-games/) | 2025-10-25 15:38:35  |
+| [articles](https://github.com/lyy289065406/articles) | [Switch 大气层与系统版本升级笔记](https://exp-blog.com/game/switch/atmosphere-firmware-upgrade/) | 2025-10-25 07:01:12  |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」攻击伤害字型修改 2023](https://exp-blog.com/game/ro/ro-bi-ji-damage-font-2023/) | 2025-10-12 10:10:44  |
+| [articles](https://github.com/lyy289065406/articles) | [Ragnarok EP 版本时间线](https://exp-blog.com/game/ro/ragnarok-episode-timeline/) | 2025-08-10 04:35:12  |
+| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」服务器终止联机 Connection refused](https://exp-blog.com/game/ro/ro-bi-ji-connection-refused/) | 2025-06-11 00:03:51  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
 | [articles](https://github.com/lyy289065406/articles) | [每日英语口语训练打卡](https://exp-blog.com/insights/dailyenglish/) | 2025-04-15 17:51:46  |
 | [articles](https://github.com/lyy289065406/articles) | [AI 时代如何有效率地提高「英语口语」水平 ？](https://exp-blog.com/ai/improve-en-by-ai/) | 2025-04-02 14:00:00  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」2023 新表情系统配置指引](https://exp-blog.com/game/ro/ro-bi-ji-emotesys/) | 2025-03-29 01:04:25  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」2023 符文石碑配置指引](https://exp-blog.com/game/ro/ro-bi-ji-runesys-sop/) | 2025-03-23 17:05:48  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 30」你歌唱的理由是什么 ？](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-30/) | 2025-03-22 11:30:23  |
-| [articles](https://github.com/lyy289065406/articles) | [「流行声乐学习笔记 29」期末考试](https://exp-blog.com/music/liu-xing-sheng-le-xue-xi-bi-ji-29/) | 2025-03-21 11:33:45  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」汉化个人信息面板的职业名（进阶版）](https://exp-blog.com/game/ro/ro-bi-ji-ge-ren-mian-ban-zhi-ye-ming-han-hua-plus/) | 2025-03-15 13:08:53  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [](https://rezero.buzz/gitbook/book/markdown/ch/chapter080/58.html) | 2024-02-19 18:26:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [](https://re0zero.top/gitbook/book/markdown/sponsor.html) | 2023-05-06 04:20:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 

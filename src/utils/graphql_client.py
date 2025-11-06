@@ -21,17 +21,17 @@ class _GraphqlClient(GraphqlClient) :
         proxy: str = ''
     ):
         """Make synchronous request to graphQL server."""
-        request_body = self.__request_body(
-            query=query, variables=variables, operation_name=operation_name
-        )
-
+        # 使用新版本的 execute 方法
+        headers = headers or {}
+        # 自动添加 http:// 前缀（如果没有的话）
+        if proxy and not proxy.startswith(('http://', 'https://')):
+            proxy = f"http://{proxy}"
         proxies = { "http": proxy, "https": proxy } if proxy else {}
-        result = requests.post(
-            self.endpoint, 
-            json=request_body, 
-            headers=self.__request_headers(headers),
+        
+        return self.execute(
+            query=query,
+            variables=variables,
+            operation_name=operation_name,
+            headers=headers,
             proxies=proxies
         )
-
-        result.raise_for_status()
-        return result.json()
