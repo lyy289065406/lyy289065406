@@ -83,7 +83,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.34%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
 | [articles](https://github.com/lyy289065406/articles) | [每日英语口语训练打卡](https://exp-blog.com/insights/dailyenglish/) | 2025-04-15 17:51:46  |
 | [articles](https://github.com/lyy289065406/articles) | [AI 时代如何有效率地提高「英语口语」水平 ？](https://exp-blog.com/ai/improve-en-by-ai/) | 2025-04-02 14:00:00  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [](https://re0zero.top/gitbook/book/markdown/sponsor.html) | 2023-05-06 04:20:20 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [&#x300E;&#x963F;&#x5C14;&#x5FB7;&#x5DF4;&#x5170; &#x2160;&#x300F;](https://re0zero.top/gitbook/book/markdown/ch/chapter090/52.html) | 2025-11-04 17:07:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
