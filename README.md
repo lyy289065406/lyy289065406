@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.20%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.23%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.34%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.19%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.27%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.25%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -83,7 +83,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.27%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
 | [articles](https://github.com/lyy289065406/articles) | [每日英语口语训练打卡](https://exp-blog.com/insights/dailyenglish/) | 2025-04-15 17:51:46  |
 | [articles](https://github.com/lyy289065406/articles) | [AI 时代如何有效率地提高「英语口语」水平 ？](https://exp-blog.com/ai/improve-en-by-ai/) | 2025-04-02 14:00:00  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『魔人VS魔女』](https://re0zero.top/gitbook/book/markdown/ch/chapter090/54.html) | 2025-11-12 19:20:28 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [『领域之加害者』](https://re0zero.top/gitbook/book/markdown/ch/chapter090/55.html) | 2025-11-14 19:04:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
