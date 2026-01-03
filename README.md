@@ -74,7 +74,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.00%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [如何使用 AI 一键规划旅行行程](https://exp-blog.com/travel/ru-he-shi-yong-ai-yi-jian-gui-hua-lu-xing-xing-cheng/) | 2026-01-02 01:32:09 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch 使用 DBI 安装免费游戏笔记](https://exp-blog.com/game/switch/dbi-install-games/) | 2025-10-25 15:38:35  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch 大气层与系统版本升级笔记](https://exp-blog.com/game/switch/atmosphere-firmware-upgrade/) | 2025-10-25 07:01:12  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」攻击伤害字型修改 2023](https://exp-blog.com/game/ro/ro-bi-ji-damage-font-2023/) | 2025-10-12 10:10:44  |
@@ -82,7 +83,6 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    28.00%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」服务器终止联机 Connection refused](https://exp-blog.com/game/ro/ro-bi-ji-connection-refused/) | 2025-06-11 00:03:51  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
 | [articles](https://github.com/lyy289065406/articles) | [每日英语口语训练打卡](https://exp-blog.com/insights/dailyenglish/) | 2025-04-15 17:51:46  |
-| [articles](https://github.com/lyy289065406/articles) | [AI 时代如何有效率地提高「英语口语」水平 ？](https://exp-blog.com/ai/improve-en-by-ai/) | 2025-04-02 14:00:00  |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [『重织』](https://re0zero.top/gitbook/book/markdown/ch/chapter090/60.html) | 2025-11-26 19:35:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
