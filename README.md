@@ -45,10 +45,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.71%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.72%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.26%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.16%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.87%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.86%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -83,7 +83,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.87%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」服务器终止联机 Connection refused](https://exp-blog.com/game/ro/ro-bi-ji-connection-refused/) | 2025-06-11 00:03:51  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
 | [articles](https://github.com/lyy289065406/articles) | [每日英语口语训练打卡](https://exp-blog.com/insights/dailyenglish/) | 2025-04-15 17:51:46  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『信赖的沉淀』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/10.html) | 2026-02-24 19:59:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [『龙珠闪耀的理由』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/11.html) | 2026-02-25 19:58:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
