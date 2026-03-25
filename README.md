@@ -83,7 +83,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.84%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」服务器终止联机 Connection refused](https://exp-blog.com/game/ro/ro-bi-ji-connection-refused/) | 2025-06-11 00:03:51  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
 | [articles](https://github.com/lyy289065406/articles) | [每日英语口语训练打卡](https://exp-blog.com/insights/dailyenglish/) | 2025-04-15 17:51:46  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『龙珠闪耀的理由』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/11.html) | 2026-02-25 19:58:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [『呻吟』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/12.html) | 2026-03-24 19:21:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
