@@ -45,8 +45,8 @@
 ```text
 Programming    24 hrs    ooooooooooooxxxxxxxx    59.83%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.24%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.15%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.78%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.16%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.77%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -72,7 +72,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.78%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」新增/编辑角色状态](https://exp-blog.com/game/ro/ro-bi-ji-stateicon/) | 2026-03-29 15:40:27 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [从零开始搭建 AI 环境](https://exp-blog.com/ai/ai-env/) | 2026-05-05 01:32:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [articles](https://github.com/lyy289065406/articles) | [如何使用 AI 一键规划旅行行程](https://exp-blog.com/travel/ru-he-shi-yong-ai-yi-jian-gui-hua-lu-xing-xing-cheng/) | 2026-01-02 01:32:09  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch 使用 DBI 安装免费游戏笔记](https://exp-blog.com/game/switch/dbi-install-games/) | 2025-10-25 15:38:35  |
@@ -81,7 +81,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.78%
 | [articles](https://github.com/lyy289065406/articles) | [Ragnarok EP 版本时间线](https://exp-blog.com/game/ro/ragnarok-episode-timeline/) | 2025-08-10 04:35:12  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」服务器终止联机 Connection refused](https://exp-blog.com/game/ro/ro-bi-ji-connection-refused/) | 2025-06-11 00:03:51  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『逆贼』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/14.html) | 2026-05-03 19:17:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [『与你共赴地狱』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/15.html) | 2026-05-05 19:39:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
