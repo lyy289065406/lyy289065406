@@ -45,7 +45,7 @@
 ```text
 Programming    24 hrs    ooooooooooooxxxxxxxx    59.82%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.24%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.17%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.18%
 Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.76%
 ```
 <!-- END_SECTION:weektime -->
@@ -81,7 +81,7 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.76%
 | [articles](https://github.com/lyy289065406/articles) | [Ragnarok EP 版本时间线](https://exp-blog.com/game/ro/ragnarok-episode-timeline/) | 2025-08-10 04:35:12  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」服务器终止联机 Connection refused](https://exp-blog.com/game/ro/ro-bi-ji-connection-refused/) | 2025-06-11 00:03:51  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『化为灰烬』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/17.html) | 2026-05-09 19:20:43 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [『梦中的邂逅』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/18.html) | 2026-05-11 20:28:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
