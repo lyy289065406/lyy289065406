@@ -72,7 +72,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.74%
 <!-- BGN_SECTION:article -->
 | repo | article | push time |
 |:------|:------|:------|
-| [articles](https://github.com/lyy289065406/articles) | [从零开始搭建 AI 环境](https://exp-blog.com/ai/ai-env/) | 2026-05-05 01:32:24 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [new-api 对接 GitHub Copilot 笔记](https://exp-blog.com/ai/new-api-link-copilot/) | 2026-05-30 16:10:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [articles](https://github.com/lyy289065406/articles) | [从零开始搭建 AI 环境](https://exp-blog.com/ai/ai-env/) | 2026-05-05 01:32:24  |
 | [articles](https://github.com/lyy289065406/articles) | [如何使用 AI 一键规划旅行行程](https://exp-blog.com/travel/ru-he-shi-yong-ai-yi-jian-gui-hua-lu-xing-xing-cheng/) | 2026-01-02 01:32:09  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch 使用 DBI 安装免费游戏笔记](https://exp-blog.com/game/switch/dbi-install-games/) | 2025-10-25 15:38:35  |
@@ -80,7 +81,6 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.74%
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」攻击伤害字型修改 2023](https://exp-blog.com/game/ro/ro-bi-ji-damage-font-2023/) | 2025-10-12 10:10:44  |
 | [articles](https://github.com/lyy289065406/articles) | [Ragnarok EP 版本时间线](https://exp-blog.com/game/ro/ragnarok-episode-timeline/) | 2025-08-10 04:35:12  |
 | [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」服务器终止联机 Connection refused](https://exp-blog.com/game/ro/ro-bi-ji-connection-refused/) | 2025-06-11 00:03:51  |
-| [articles](https://github.com/lyy289065406/articles) | [「RO 笔记」npc_market_fromsql 警告修复](https://exp-blog.com/game/ro/ro-bi-ji-npc-market-fromsql/) | 2025-05-24 14:31:23  |
 | [re0-web](https://github.com/re-zero-khis/re0-web) | [『追寻最优解』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/23.html) | 2026-05-24 19:12:58 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
