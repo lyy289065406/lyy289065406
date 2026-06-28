@@ -4,4 +4,4 @@ logs/*
 *.py[cod]
 *$py.class
 .idea
-
+.sisyphus
