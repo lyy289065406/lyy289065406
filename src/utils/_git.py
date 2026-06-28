@@ -103,8 +103,10 @@ def query_filetime(github_token, repo_owner, repo_name, filepath, proxy=''):
         proxy=proxy
     )
     # log.debug(data)
-    fileinfo = data["data"]["repository"]["object"]["blame"]["ranges"]
-    filetime = fileinfo[0]["commit"]["committedDate"]
+    commits = data["data"]["repository"]["object"]["commitHistory"]["nodes"]
+    if not commits:
+        raise ValueError(f"No commit history found for {filepath}")
+    filetime = commits[0]["committedDate"]
     return _utc_to_local(filetime)
 
 
@@ -113,13 +115,11 @@ def _to_graphql_filetime(owner, repo, filepath) :
   return """
 query {
   repository(owner: "%s", name: "%s") {
-    object(expression: "master") {
-      ... on Commit {
-        blame(path: "%s") {
-          ranges {
-            commit {
-              committedDate
-            }
+    object(expression: "master:%s") {
+      ... on Blob {
+        commitHistory(first: 1) {
+          nodes {
+            committedDate
           }
         }
       }
