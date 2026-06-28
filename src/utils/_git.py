@@ -4,6 +4,7 @@
 # @Time   : 2020/4/28 21:56
 # -----------------------------------------------
 
+import requests
 from color_log.clog import log
 from src.config import *
 from src.bean.repo import *
@@ -96,37 +97,22 @@ query {
 
 
 def query_filetime(github_token, repo_owner, repo_name, filepath, proxy=''):
-    client = _GraphqlClient(endpoint=settings.github['graphql'])
-    data = client.exec(
-        query=_to_graphql_filetime(repo_owner, repo_name, filepath),
-        headers={ "Authorization": "Bearer {}".format(github_token) },
-        proxy=proxy
-    )
-    # log.debug(data)
-    commits = data["data"]["repository"]["object"]["commitHistory"]["nodes"]
-    if not commits:
-        raise ValueError(f"No commit history found for {filepath}")
-    filetime = commits[0]["committedDate"]
-    return _utc_to_local(filetime)
-
-
-
-def _to_graphql_filetime(owner, repo, filepath) :
-  return """
-query {
-  repository(owner: "%s", name: "%s") {
-    object(expression: "master:%s") {
-      ... on Blob {
-        commitHistory(first: 1) {
-          nodes {
-            committedDate
-          }
-        }
-      }
+    """通过 REST API 查询文件最后提交时间，比 GraphQL blame/commitHistory 更稳定"""
+    url = f"{settings.github['url'].replace('https://github.com', 'https://api.github.com')}/repos/{repo_owner}/{repo_name}/commits"
+    headers = {
+        "Authorization": "Bearer {}".format(github_token),
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "python"
     }
-  }
-}
-""" % (owner, repo, filepath)
+    proxies = { "http": proxy, "https": proxy } if proxy else {}
+    params = { "path": filepath, "page": 1, "per_page": 1 }
+    rsp = requests.get(url, headers=headers, params=params, proxies=proxies, timeout=30)
+    rsp.raise_for_status()
+    commits = rsp.json()
+    if not commits:
+        raise ValueError(f"No commits found for {filepath}")
+    filetime = commits[0]["commit"]["committer"]["date"]
+    return _utc_to_local(filetime)
 
 
 
