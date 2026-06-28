@@ -27,7 +27,7 @@ RO_STORE_URL = 'https://store.casualro.top/atom.xml'
 
 RE0_WEB_OWNER = "re-zero-khis"
 RE0_WEB_REPO = 're0-web'
-RE0_WEB_URL = 'https://re0zero.top/gitbook/book/sitemap.xml'
+RE0_WEB_URL = 'https://re0zero.top/mdbook/book/sitemap.xml'
 
 
 def build(github_token, proxy='') :
@@ -157,7 +157,7 @@ class ArticleRefresher :
 
 
     def _to_filepath(self, file_url) :
-        return re.sub(r'.*?/markdown', 'gitbook/markdown', file_url.replace('.html', '.md'))
+        return re.sub(r'.*?/markdown', 'mdbook/markdown', file_url.replace('.html', '.md'))
 
 
     def _headers(self):
