@@ -157,7 +157,8 @@ class ArticleRefresher :
 
 
     def _to_filepath(self, file_url) :
-        return re.sub(r'.*?/markdown', 'mdbook/src/markdown', file_url.replace('.html', '.md'))
+        relative = re.sub(r'https?://[^/]+/mdbook/book/', '', file_url)
+        return 'mdbook/book/' + relative
 
 
     def _headers(self):
