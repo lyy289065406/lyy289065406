@@ -119,7 +119,7 @@ class ArticleRefresher :
                 if rsp.status_code == 200 :
                     rst = re.findall(r'<h1 id=".+?">(.+?)</h1>', rsp.text)
                     title = rst[0].strip() if len(rst) > 0 else ''
-                    title = re.sub(r'.*</a>', '', title)
+                    title = re.sub(r'<[^>]+>', '', title)
                     title = html.unescape(title)  # 解码 HTML 实体
                     time = self._query_filetime(url)
                     article = Article(title, url, time)
@@ -157,7 +157,7 @@ class ArticleRefresher :
 
 
     def _to_filepath(self, file_url) :
-        return re.sub(r'.*?/markdown', 'mdbook/markdown', file_url.replace('.html', '.md'))
+        return re.sub(r'.*?/markdown', 'mdbook/src/markdown', file_url.replace('.html', '.md'))
 
 
     def _headers(self):
