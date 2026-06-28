@@ -43,10 +43,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    24 hrs    ooooooooooooxxxxxxxx    59.82%
+Programming    24 hrs    ooooooooooooxxxxxxxx    59.81%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.25%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.23%
-Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.70%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.25%
+Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.69%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -56,8 +56,8 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.70%
 <!-- BGN_SECTION:activity -->
 | repo | description | commit count | push time |
 |:------|:------|:------|:------|
-| [exp-skill](https://github.com/Visuals-AI/exp-skill) | None | 8 | 2026-05-16 08:22:05 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 32 | 2026-03-08 14:06:11  |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 35 | 2026-06-27 06:11:13 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [exp-skill](https://github.com/Visuals-AI/exp-skill) | None | 8 | 2026-05-16 08:22:05  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | Github Pages 在线音乐播放器 | 15 | 2026-01-05 14:40:04  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 61 | 2025-10-26 13:42:01  |
 | [vscode-web-docker](https://github.com/EXP-Tools/vscode-web-docker) | docker 一键部署 vscode-web ：使用浏览器远程开发 | 49 | 2025-03-03 17:08:38  |
@@ -81,7 +81,6 @@ Playing        12 hrs    ooooooxxxxxxxxxxxxxx    27.70%
 | [articles](https://github.com/lyy289065406/articles) | [从零开始搭建 AI 环境](https://exp-blog.com/ai/ai-env/) | 2026-05-05 01:32:24  |
 | [articles](https://github.com/lyy289065406/articles) | [如何使用 AI 一键规划旅行行程](https://exp-blog.com/travel/ru-he-shi-yong-ai-yi-jian-gui-hua-lu-xing-xing-cheng/) | 2026-01-02 01:32:09  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『一个好家伙』](https://re0zero.top/gitbook/book/markdown/ch/chapter100/24.html) | 2026-06-24 20:24:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
