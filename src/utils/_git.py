@@ -37,6 +37,7 @@ def query_repos(github_token, iter=100, proxy=''):
                 _repo["name"], 
                 _repo["url"], 
                 _repo["description"], 
+                _repo["visibility"],
                 _utc_to_local(_repo["pushedAt"]), 
                 default_branch["target"]["history"]["totalCount"]
             )
@@ -75,6 +76,7 @@ query {
         name
         description
         url
+        visibility
         pushedAt
         repositoryTopics(first: 5) {
           nodes {

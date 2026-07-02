@@ -26,6 +26,7 @@ class FakeGraphqlClient:
                             "name": "custom-default-branch",
                             "url": "https://github.com/example-org/custom-default-branch",
                             "description": "Uses develop instead of main",
+                            "visibility": "PUBLIC",
                             "pushedAt": "2026-07-02T08:00:00Z",
                             "repositoryTopics": {"nodes": []},
                             "defaultBranchRef": {
@@ -49,11 +50,13 @@ class QueryReposTest(unittest.TestCase):
 
         self.assertEqual(1, len(repos))
         self.assertEqual("example-org", repos[0].owner)
+        self.assertEqual("PUBLIC", repos[0].visibility)
         self.assertEqual(12, repos[0].commit_cnt)
         query = FakeGraphqlClient.queries[0]
         self.assertIn("defaultBranchRef", query)
         self.assertIn("repositoriesContributedTo", query)
         self.assertIn("contributionTypes: [COMMIT]", query)
+        self.assertIn("visibility", query)
         self.assertNotIn('object(expression:', query)
 
 

@@ -18,11 +18,12 @@ BIT_LEARNING = 8
 
 class Repo :
 
-    def __init__(self, owner, name, url, desc, pushtime, commit_cnt) :
+    def __init__(self, owner, name, url, desc, visibility, pushtime, commit_cnt) :
         self.owner = owner  # 可能是用户归属的组织
         self.name = name
         self.url = url
         self.desc = desc
+        self.visibility = visibility
         self.pushtime = pushtime
         self.commit_cnt = commit_cnt
         self.topics = []
@@ -61,4 +62,3 @@ class Repo :
 
     def is_for_playing(self) :
         return (self.usefor & BIT_PLAYING) != 0 
-

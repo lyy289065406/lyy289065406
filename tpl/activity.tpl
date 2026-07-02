@@ -1,1 +1,1 @@
-| [%(repo)s](%(repo_url)s) | %(desc)s | %(count)i | %(time)s %(new_flag)s |
+| [%(repo)s](%(repo_url)s) | %(visibility)s | %(desc)s | %(count)i | %(time)s %(new_flag)s |

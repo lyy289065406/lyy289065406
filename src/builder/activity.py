@@ -22,6 +22,7 @@ def build(repos, top=3) :
         row = tpl % {
             'repo': repo.name, 
             'repo_url': repo.url, 
+            'visibility': '公开' if repo.visibility == 'PUBLIC' else '非公开',
             'desc': repo.desc, 
             'count': repo.commit_cnt, 
             'time': repo.pushtime, 
@@ -34,8 +35,8 @@ def build(repos, top=3) :
             break
 
     return """
-| repo | description | commit count | push time |
-|:------|:------|:------|:------|
+| repo | visibility | description | commit count | push time |
+|:------|:------|:------|:------|:------|
 %s
 """ % '\n'.join(rows)
 
