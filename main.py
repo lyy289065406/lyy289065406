@@ -51,9 +51,7 @@ def main(github_token, proxy):
         readme = file.read()
 
     log.info("正在读取所有项目仓库的活动数据 ...")
-    repos = []
-    repos.extend(_git.query_repos(github_token, 'master'))
-    repos.extend(_git.query_repos(github_token, 'main'))    # 兼容主分支为 main 情况
+    repos = _git.query_repos(github_token, proxy=proxy)
     repos.sort(reverse=True, key=lambda repo: int(time.mktime(
         datetime.datetime.strptime(repo.pushtime, "%Y-%m-%d %H:%M:%S").timetuple()
     )))

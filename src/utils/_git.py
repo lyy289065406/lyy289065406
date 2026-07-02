@@ -11,22 +11,26 @@ from src.bean.repo import *
 from src.utils.graphql_client import _GraphqlClient
 
 
-def query_repos(github_token, branch='master', iter=100, proxy=''):
+def query_repos(github_token, iter=100, proxy=''):
     repos = []
     client = _GraphqlClient(endpoint=settings.github['graphql'])
     has_next_page = True
     next_cursor = None
     while has_next_page:
         data = client.exec(
-            query=_to_graphql_repoinfo(branch, next_cursor, iter),
+            query=_to_graphql_repoinfo(next_cursor, iter),
             headers={ "Authorization": "Bearer {}".format(github_token) },
             proxy=proxy
         )
         # log.debug(data)
-        _repos = data["data"]["viewer"]["repositories"]["nodes"]
+        _repos = data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]
         for _repo in _repos :
-            if _repo["object"] is None :
-                continue  # 不存在的分支名
+            if _repo["isFork"] :
+                continue
+
+            default_branch = _repo["defaultBranchRef"]
+            if default_branch is None :
+                continue  # 空仓库没有默认分支
 
             repo = Repo(
                 _repo["owner"]["login"], 
@@ -34,30 +38,31 @@ def query_repos(github_token, branch='master', iter=100, proxy=''):
                 _repo["url"], 
                 _repo["description"], 
                 _utc_to_local(_repo["pushedAt"]), 
-                _repo["object"]["history"]["totalCount"]
+                default_branch["target"]["history"]["totalCount"]
             )
             topics = _repo["repositoryTopics"]["nodes"]
             for topic in topics :
                 repo.add_topic(topic["topic"]["name"])
             repos.append(repo)
         
-        pageInfo = data["data"]["viewer"]["repositories"]["pageInfo"]
+        pageInfo = data["data"]["viewer"]["repositoriesContributedTo"]["pageInfo"]
         has_next_page = pageInfo["hasNextPage"]
         next_cursor = pageInfo["endCursor"]
     return repos
 
 
 
-def _to_graphql_repoinfo(branch, next_cursor, iter):
+def _to_graphql_repoinfo(next_cursor, iter):
     return """
 query {
   viewer {
-    repositories(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, isFork: false, after: NEXT) {
+    repositoriesContributedTo(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, contributionTypes: [COMMIT], includeUserRepositories: true, after: NEXT) {
       pageInfo {
         hasNextPage
         endCursor
       }
       nodes {
+        isFork
         owner {
           __typename
           ... on User {
@@ -78,10 +83,12 @@ query {
             }
           }
         }
-        object(expression: "BRANCH") {
-          ... on Commit {
-            history(first: 1) {
-              totalCount
+        defaultBranchRef {
+          target {
+            ... on Commit {
+              history(first: 1) {
+                totalCount
+              }
             }
           }
         }
@@ -89,7 +96,7 @@ query {
     }
   }
 }
-""".replace("BRANCH", branch).replace("ITER", str(iter)).replace(
+""".replace("ITER", str(iter)).replace(
     "NEXT", '"{}"'.format(next_cursor) if next_cursor else "null"
 )
 
@@ -118,4 +125,3 @@ def query_filetime(github_token, repo_owner, repo_name, filepath, proxy=''):
 
 def _utc_to_local(utc) :
     return utc.replace('T', ' ').replace('Z', '')
-
