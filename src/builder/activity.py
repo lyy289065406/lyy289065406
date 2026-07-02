@@ -11,7 +11,7 @@ TPL_PATH = '%s/tpl/activity.tpl' % PRJ_DIR
 
 def build(repos, top=3) :
     with open(TPL_PATH, 'r') as file :
-        tpl = file.read()
+        tpl = file.read().rstrip('\r\n')
 
     rows = []
     cnt = 0

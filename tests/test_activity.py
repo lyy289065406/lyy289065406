@@ -20,6 +20,13 @@ class ActivityTest(unittest.TestCase):
         self.assertIn("| repo | visibility | description |", table)
         self.assertIn("| 公开 |", table)
         self.assertIn("| 非公开 |", table)
+        self.assertNotIn("\n\n| [", table)
+        self.assertIn(
+            "| 公开 |", table.splitlines()[3]
+        )
+        self.assertIn(
+            "| 非公开 |", table.splitlines()[4]
+        )
 
 
 if __name__ == "__main__":
