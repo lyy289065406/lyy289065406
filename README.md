@@ -43,8 +43,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    34 hrs    ooooooooooooooooooxx    83.83%
-Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    06.13%
+Programming    34 hrs    ooooooooooooooooooxx    83.82%
+Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    06.14%
 Writing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.65%
 Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    00.39%
 ```
@@ -54,16 +54,24 @@ Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    00.39%
 
 ### 🔥  Recent activity
 <!-- BGN_SECTION:activity -->
-| repo | description | commit count | push time |
-|:------|:------|:------|:------|
-| [skills](https://github.com/Visuals-AI/skills) | 自用 AI Skill 合集 | 52 | 2026-07-02 01:06:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | ragnarok 历年完整客户端 | 9 | 2026-07-01 18:12:57  |
-| [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 38 | 2026-06-28 10:54:47  |
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 35 | 2026-06-27 06:11:13  |
-| [finance](https://github.com/EXP-Tools/finance) | 个税计算器 | 2 | 2026-06-26 01:43:42  |
-| [house-design](https://github.com/Visuals-AI/house-design) | AI 室内设计 | 9 | 2026-06-23 01:11:45  |
-| [codex-auth-generator](https://github.com/Visuals-AI/codex-auth-generator) | 把已登录的 ChatGPT session 转成 Codex 可用的 auth.json，减少登录时手机号验证和接码的麻烦。 | 2 | 2026-06-02 18:27:56  |
-| [camera-capture](https://github.com/EXP-Codes/camera-capture) | Camera Capture，支持交互式配置摄像头、分辨率、FPS、麦克风和预览窗口 | 40 | 2026-05-23 09:13:24  |
+| repo | visibility | description | commit count | push time |
+|:------|:------|:------|:------|:------|
+| [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 52 | 2026-07-02 01:06:00 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+
+| [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 9 | 2026-07-01 18:12:57  |
+
+| [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 38 | 2026-06-28 10:54:47  |
+
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 35 | 2026-06-27 06:11:13  |
+
+| [finance](https://github.com/EXP-Tools/finance) | 非公开 | 个税计算器 | 2 | 2026-06-26 01:43:42  |
+
+| [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 9 | 2026-06-23 01:11:45  |
+
+| [codex-auth-generator](https://github.com/Visuals-AI/codex-auth-generator) | 公开 | 把已登录的 ChatGPT session 转成 Codex 可用的 auth.json，减少登录时手机号验证和接码的麻烦。 | 2 | 2026-06-02 18:27:56  |
+
+| [camera-capture](https://github.com/EXP-Codes/camera-capture) | 非公开 | Camera Capture，支持交互式配置摄像头、分辨率、FPS、麦克风和预览窗口 | 40 | 2026-05-23 09:13:24  |
+
 <!-- END_SECTION:activity -->
 
 
