@@ -28,14 +28,15 @@
 
 
 
-### 👨‍💻  I'm a developer from China, and this is the place where I opensource stuff.
+### 👨‍💻  I'm a developer, and this is the place where I opensource stuff.
 <!--BGN_SECTION:introduction-->
-- 🏰 I am currently working at a prominent internet company.
-- 🐾 My work is related to architecture, development, and security.
-- ✨ At present, I mainly study [AI](https://github.com/orgs/Visuals-AI/repositories) in my spare time, which helps to broaden my technical scope and improve work efficiency.
-- 🐱 I am passionate about practicing and `open-sourcing projects` of interest on [Github](https://github.com/lyy289065406), which allows me to verify my learning outcomes and gain a sense of accomplishment.
-- 🎹 I have a habit of documenting my knowledge accumulation on my [personal blog](https://exp-blog.com) for self-recollection and sharing with others.
-- 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues) or [email](exp.lqb@gmail.com).
+- 🏰 I work as a senior engineer at a large internet company, mainly around backend engineering, security operations, and system architecture.
+- 🐾 My daily work spans Java services, platform engineering, SOC systems, DevSecOps workflows, and security reviews before production release.
+- 🛡️ I have long-term interests in Web security, CTF, CVE reproduction, threat intelligence, reverse engineering, and practical automation for security operations.
+- ✨ I am also exploring [AI](https://github.com/orgs/Visuals-AI/repositories) from an engineering perspective: local LLMs, multi-model toolchains, AIGC workflows, and reinforcement learning experiments.
+- 🐱 I keep open-sourcing tools and notes on [GitHub](https://github.com/lyy289065406), mostly to verify what I have learned and to leave reusable artifacts instead of temporary conclusions.
+- 🎹 I write long-form technical notes on [EXP-Blog](https://exp-blog.com), where I document security research, engineering practice, AI experiments, RO reverse engineering, and other things I find interesting.
+- 💬 Ask me about anything [here](https://github.com/lyy289065406/lyy289065406/issues) or by [email](mailto:exp.lqb@gmail.com).
 <!--BGN_SECTION:introduction-->
 
 
