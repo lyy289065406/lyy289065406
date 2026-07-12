@@ -44,9 +44,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    33 hrs    ooooooooooooooooooxx    81.95%
+Programming    33 hrs    ooooooooooooooooooxx    81.94%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.43%
-Writing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.40%
+Writing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.39%
 Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    01.23%
 ```
 <!-- END_SECTION:weektime -->
@@ -57,10 +57,10 @@ Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    01.23%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 81 | 2026-07-11 00:40:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 39 | 2026-07-12 02:11:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 81 | 2026-07-11 00:40:49  |
 | [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 10 | 2026-07-06 00:03:55  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 公开 | 仙境 RO 传说 - 单机服务端（支持联机） | 391 | 2026-07-05 14:09:03  |
-| [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 38 | 2026-06-28 10:54:47  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 35 | 2026-06-27 06:11:13  |
 | [finance](https://github.com/EXP-Tools/finance) | 非公开 | 个税计算器 | 2 | 2026-06-26 01:43:42  |
 | [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 9 | 2026-06-23 01:11:45  |
