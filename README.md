@@ -57,12 +57,12 @@ Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    01.23%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [grf-crypto-mgr](https://github.com/Casual-Ragnarok/grf-crypto-mgr) | 非公开 | GRF 加解密管理器 | 49 | 2026-07-15 18:14:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [grf-crypto-mgr](https://github.com/Casual-Ragnarok/grf-crypto-mgr) | 非公开 | GRF 加解密管理器 | 49 | 2026-07-17 01:43:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 36 | 2026-07-16 16:14:22  |
 | [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 84 | 2026-07-12 22:10:30  |
 | [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 39 | 2026-07-12 02:11:39  |
 | [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 10 | 2026-07-06 00:03:55  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 公开 | 仙境 RO 传说 - 单机服务端（支持联机） | 391 | 2026-07-05 14:09:03  |
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 35 | 2026-06-27 06:11:13  |
 | [finance](https://github.com/EXP-Tools/finance) | 非公开 | 个税计算器 | 2 | 2026-06-26 01:43:42  |
 | [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 9 | 2026-06-23 01:11:45  |
 <!-- END_SECTION:activity -->
