@@ -44,9 +44,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    33 hrs    ooooooooooooooooooxx    81.93%
-Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.45%
-Writing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.39%
+Programming    33 hrs    ooooooooooooooooooxx    81.77%
+Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.63%
+Writing        04 hrs    ooxxxxxxxxxxxxxxxxxx    09.37%
 Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    01.23%
 ```
 <!-- END_SECTION:weektime -->
@@ -57,9 +57,9 @@ Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    01.23%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [grf-crypto-mgr](https://github.com/Casual-Ragnarok/grf-crypto-mgr) | 非公开 | GRF 加解密管理器 | 49 | 2026-07-17 01:43:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 85 | 2026-07-19 02:40:15 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [grf-crypto-mgr](https://github.com/Casual-Ragnarok/grf-crypto-mgr) | 非公开 | GRF 加解密管理器 | 139 | 2026-07-19 00:55:36  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 36 | 2026-07-16 16:14:22  |
-| [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 84 | 2026-07-12 22:10:30  |
 | [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 39 | 2026-07-12 02:11:39  |
 | [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 10 | 2026-07-06 00:03:55  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 公开 | 仙境 RO 传说 - 单机服务端（支持联机） | 391 | 2026-07-05 14:09:03  |
