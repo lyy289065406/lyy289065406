@@ -57,7 +57,7 @@ Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    01.23%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 87 | 2026-07-19 07:59:31 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 88 | 2026-07-25 13:53:01 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [grf-crypto-mgr](https://github.com/Casual-Ragnarok/grf-crypto-mgr) | 非公开 | GRF 加解密管理器 | 139 | 2026-07-19 00:55:36  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 36 | 2026-07-16 16:14:22  |
 | [ragexe-diff](https://github.com/Casual-Ragnarok/ragexe-diff) | 非公开 | RO 客户端 Ragexe diff 工具与存档（Nemo & Warp） | 39 | 2026-07-12 02:11:39  |
