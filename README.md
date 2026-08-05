@@ -44,7 +44,7 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    35 hrs    ooooooooooooooooooxx    86.61%
+Programming    35 hrs    ooooooooooooooooooxx    86.62%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    05.59%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    06.83%
 Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    00.97%
@@ -57,8 +57,8 @@ Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    00.97%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 92 | 2026-08-04 00:51:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 25 | 2026-08-03 20:42:36  |
+| [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 28 | 2026-08-04 17:10:36 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 92 | 2026-08-04 00:51:47  |
 | [pay-system](https://github.com/EXP-Codes/pay-system) | 非公开 | 使用 AI + NocoBase CLI 构建的支付系统 | 17092 | 2026-07-26 09:22:26  |
 | [grf-crypto-mgr](https://github.com/Casual-Ragnarok/grf-crypto-mgr) | 非公开 | GRF 加解密管理器 | 139 | 2026-07-19 00:55:36  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 36 | 2026-07-16 16:14:22  |
