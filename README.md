@@ -46,7 +46,7 @@
 ```text
 Programming    35 hrs    ooooooooooooooooooxx    86.87%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    05.66%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    06.50%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    06.51%
 Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    00.97%
 ```
 <!-- END_SECTION:weektime -->
@@ -57,7 +57,7 @@ Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    00.97%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 67 | 2026-08-23 16:54:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 68 | 2026-08-25 01:09:21 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [skills](https://github.com/Visuals-AI/skills) | 非公开 | 自用 AI Skill 合集 | 92 | 2026-08-04 00:51:47  |
 | [pay-system](https://github.com/EXP-Codes/pay-system) | 非公开 | 使用 AI + NocoBase CLI 构建的支付系统 | 17092 | 2026-07-26 09:22:26  |
 | [grf-crypto-mgr](https://github.com/Casual-Ragnarok/grf-crypto-mgr) | 非公开 | GRF 加解密管理器 | 139 | 2026-07-19 00:55:36  |
@@ -82,7 +82,7 @@ Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    00.97%
 | [articles](https://github.com/lyy289065406/articles) | [从零开始搭建 AI 环境](https://exp-blog.com/ai/ai-env/) | 2026-05-05 01:32:24  |
 | [articles](https://github.com/lyy289065406/articles) | [如何使用 AI 一键规划旅行行程](https://exp-blog.com/travel/ru-he-shi-yong-ai-yi-jian-gui-hua-lu-xing-xing-cheng/) | 2026-01-02 01:32:09  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『关键时刻』](https://re0zero.top/mdbook/book/markdown/ch/chapter100/34.html) | 2026-08-23 17:24:35 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [『白羊座』](https://re0zero.top/mdbook/book/markdown/ch/chapter100/35.html) | 2026-08-24 17:36:42 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
