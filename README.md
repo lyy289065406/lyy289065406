@@ -44,8 +44,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    35 hrs    ooooooooooooooooooxx    86.81%
-Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    05.77%
+Programming    35 hrs    ooooooooooooooooooxx    86.82%
+Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    05.76%
 Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    06.46%
 Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    00.96%
 ```
@@ -82,7 +82,7 @@ Playing        01 hrs    ooxxxxxxxxxxxxxxxxxx    00.96%
 | [articles](https://github.com/lyy289065406/articles) | [从零开始搭建 AI 环境](https://exp-blog.com/ai/ai-env/) | 2026-05-05 01:32:24  |
 | [articles](https://github.com/lyy289065406/articles) | [如何使用 AI 一键规划旅行行程](https://exp-blog.com/travel/ru-he-shi-yong-ai-yi-jian-gui-hua-lu-xing-xing-cheng/) | 2026-01-02 01:32:09  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『大蠢货』](https://re0zero.top/mdbook/book/markdown/ch/chapter100/36.html) | 2026-09-14 20:49:48 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [『执行者』](https://re0zero.top/mdbook/book/markdown/ch/chapter100/37.html) | 2026-09-24 20:21:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
