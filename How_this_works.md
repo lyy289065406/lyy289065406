@@ -21,7 +21,9 @@
 
 ### 最近动态
 
-通过 [GraphQL](https://developer.github.com/v4/) 接口提取最近 commit 的 TOP3 repo 列表。
+通过 GraphQL 的 `viewer.repositories` 查询个人拥有、直接协作和通过组织成员身份可访问的仓库（`OWNER`、`COLLABORATOR`、`ORGANIZATION_MEMBER`），逐页读取并按 `pushedAt` 降序排列。跳过 Fork、空仓库及配置排除项，展示数量由 `app.activity_num` 决定。
+
+组织 Owner 不需要逐个添加为仓库协作者。此列表展示仓库最近推送动态，不等同于本人的贡献记录；不再使用仅返回贡献仓库的 `repositoriesContributedTo`。查询范围仍受 Actions 中 `GRAPHQL_TOKEN` 的仓库访问权限及组织 SSO 授权限制。
 
 
 ### 最近文章

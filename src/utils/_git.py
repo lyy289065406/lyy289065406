@@ -11,7 +11,7 @@ from src.bean.repo import *
 from src.utils.graphql_client import _GraphqlClient
 
 
-def query_repos(github_token, iter=100, proxy=''):
+def query_repos(github_token, iter=25, proxy=''):
     repos = []
     client = _GraphqlClient(endpoint=settings.github['graphql'])
     has_next_page = True
@@ -23,7 +23,7 @@ def query_repos(github_token, iter=100, proxy=''):
             proxy=proxy
         )
         # log.debug(data)
-        _repos = data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]
+        _repos = data["data"]["viewer"]["repositories"]["nodes"]
         for _repo in _repos :
             if _repo["isFork"] :
                 continue
@@ -46,7 +46,7 @@ def query_repos(github_token, iter=100, proxy=''):
                 repo.add_topic(topic["topic"]["name"])
             repos.append(repo)
         
-        pageInfo = data["data"]["viewer"]["repositoriesContributedTo"]["pageInfo"]
+        pageInfo = data["data"]["viewer"]["repositories"]["pageInfo"]
         has_next_page = pageInfo["hasNextPage"]
         next_cursor = pageInfo["endCursor"]
     return repos
@@ -57,7 +57,7 @@ def _to_graphql_repoinfo(next_cursor, iter):
     return """
 query {
   viewer {
-    repositoriesContributedTo(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, contributionTypes: [COMMIT], includeUserRepositories: true, after: NEXT) {
+    repositories(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, affiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER], after: NEXT) {
       pageInfo {
         hasNextPage
         endCursor
