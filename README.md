@@ -45,7 +45,7 @@
 <!-- BGN_SECTION:weektime -->
 ```text
 Programming    25 hrs    ooooooooooooooxxxxxx    60.44%
-Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.22%
+Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.23%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    04.99%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.35%
 ```
@@ -57,14 +57,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.35%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [Epassword](https://github.com/EXP-Tools/Epassword) | 公开 | 基于 Electron 的本地密码管理器，以加密 Excel 保存密码，支持 OTP、Chrome 自动填充、加密分享、导入导出及本机 API，兼容 Windows 与 macOS。 | 25 | 2026-09-26 17:14:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 4 | 2026-09-30 23:07:25 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [Epassword](https://github.com/EXP-Tools/Epassword) | 公开 | 基于 Electron 的本地密码管理器，以加密 Excel 保存密码，支持 OTP、Chrome 自动填充、加密分享、导入导出及本机 API，兼容 Windows 与 macOS。 | 25 | 2026-09-26 17:14:54  |
 | [account-mgr](https://github.com/EXP-Codes/account-mgr) | 公开 | 帐密管理工具（已归档，请迁移到新仓库） | 35 | 2026-09-26 13:03:38  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 36 | 2026-07-16 16:14:22  |
 | [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | 公开 | Github Pages 在线音乐播放器 | 15 | 2026-01-05 14:40:04  |
 | [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | 非公开 | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 61 | 2025-10-26 13:42:01  |
 | [vscode-web-docker](https://github.com/EXP-Tools/vscode-web-docker) | 公开 | docker 一键部署 vscode-web ：使用浏览器远程开发 | 49 | 2025-03-03 17:08:38  |
 | [onekey-ubuntu](https://github.com/EXP-Tools/onekey-ubuntu) | 公开 | ubuntu 一键装机脚本 | 61 | 2025-02-25 16:29:00  |
-| [onekey-mysql](https://github.com/EXP-Codes/onekey-mysql) | 公开 | 一键 注册/反注册/启动/停止 mysql 脚本 | 18 | 2025-01-06 09:14:34  |
 <!-- END_SECTION:activity -->
 
 
