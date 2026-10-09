@@ -44,9 +44,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.40%
-Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.25%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.02%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.39%
+Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.26%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.03%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.33%
 ```
 <!-- END_SECTION:weektime -->
@@ -57,7 +57,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.33%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 26 | 2026-10-08 01:16:56 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 32 | 2026-10-09 01:52:30 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [Epassword](https://github.com/EXP-Tools/Epassword) | 公开 | 基于 Electron 的本地密码管理器，以加密 Excel 保存密码，支持 OTP、Chrome 自动填充、加密分享、导入导出及本机 API，兼容 Windows 与 macOS。 | 25 | 2026-09-26 17:14:54  |
 | [account-mgr](https://github.com/EXP-Codes/account-mgr) | 公开 | 帐密管理工具（已归档，请迁移到新仓库） | 35 | 2026-09-26 13:03:38  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 36 | 2026-07-16 16:14:22  |
@@ -82,7 +82,7 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.33%
 | [articles](https://github.com/lyy289065406/articles) | [从零开始搭建 AI 环境](https://exp-blog.com/ai/ai-env/) | 2026-05-05 01:32:24  |
 | [articles](https://github.com/lyy289065406/articles) | [如何使用 AI 一键规划旅行行程](https://exp-blog.com/travel/ru-he-shi-yong-ai-yi-jian-gui-hua-lu-xing-xing-cheng/) | 2026-01-02 01:32:09  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『兄弟姐妹』](https://re0zero.top/mdbook/book/markdown/ch/chapter100/28_5.html) | 2026-10-08 06:02:11 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [『兄弟姐妹』](https://re0zero.top/mdbook/book/markdown/ch/chapter100/28_5.html) | 2026-10-08 23:43:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
