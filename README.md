@@ -44,9 +44,9 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.20%
+Programming    25 hrs    ooooooooooooooxxxxxx    60.19%
 Learning       03 hrs    ooxxxxxxxxxxxxxxxxxx    07.50%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.06%
+Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.07%
 Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.24%
 ```
 <!-- END_SECTION:weektime -->
@@ -57,8 +57,8 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.24%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 226 | 2026-10-13 17:53:12 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 38 | 2026-10-12 01:05:43  |
+| [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 39 | 2026-10-15 17:38:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 228 | 2026-10-15 17:36:00  |
 | [Epassword](https://github.com/EXP-Tools/Epassword) | 公开 | 基于 Electron 的本地密码管理器，以加密 Excel 保存密码，支持 OTP、Chrome 自动填充、加密分享、导入导出及本机 API，兼容 Windows 与 macOS。 | 25 | 2026-09-26 17:14:54  |
 | [account-mgr](https://github.com/EXP-Codes/account-mgr) | 公开 | 帐密管理工具（已归档，请迁移到新仓库） | 35 | 2026-09-26 13:03:38  |
 | [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 36 | 2026-07-16 16:14:22  |
