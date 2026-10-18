@@ -2,10 +2,10 @@
 
 <!--BGN_SECTION:github-readme-stats-->
 <!-- a href="https://exp-blog.com" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyy289065406&hide=HTML,CSS,TSQL&theme=great-gatsby" alt="EXP's Top Langs" />
+  <img height="190" align="center" src="https://expm02-github-readme-stats.hf.space/api/top-langs/?username=lyy289065406&hide=HTML,CSS,TSQL&theme=great-gatsby" alt="EXP's Top Langs" />
 </a -->
 <!-- a href="https://exp-blog.com" target="_blank">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=lyy289065406&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
+  <img height="190" align="center" src="https://expm02-github-readme-stats.hf.space/api?username=lyy289065406&count_private=true&show_icons=true&theme=nightowl" alt="EXP's github stats" />
 </a -->
 
 <a href="https://exp-blog.com" target="_blank">
