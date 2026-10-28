@@ -56,6 +56,7 @@ class QueryReposTest(unittest.TestCase):
         self.assertIn("defaultBranchRef", query)
         self.assertIn("repositories", query)
         self.assertIn("affiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER]", query)
+        self.assertIn("ownerAffiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER]", query)
         self.assertNotIn("repositoriesContributedTo", query)
         self.assertIn("visibility", query)
         self.assertNotIn('object(expression:', query)

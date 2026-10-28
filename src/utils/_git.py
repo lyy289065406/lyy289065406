@@ -57,7 +57,7 @@ def _to_graphql_repoinfo(next_cursor, iter):
     return """
 query {
   viewer {
-    repositories(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, affiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER], after: NEXT) {
+    repositories(first: ITER, orderBy: {field: PUSHED_AT, direction: DESC}, affiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER], ownerAffiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER], after: NEXT) {
       pageInfo {
         hasNextPage
         endCursor
