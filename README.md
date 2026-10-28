@@ -44,10 +44,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    25 hrs    ooooooooooooooxxxxxx    60.17%
-Learning       04 hrs    ooxxxxxxxxxxxxxxxxxx    07.52%
-Writing        03 hrs    ooxxxxxxxxxxxxxxxxxx    05.06%
-Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.24%
+Programming    22 hrs    ooooooooooooxxxxxxxx    54.01%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.12%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.45%
+Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.42%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -57,14 +57,14 @@ Playing        11 hrs    ooooooxxxxxxxxxxxxxx    27.24%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 45 | 2026-10-25 12:18:29 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 14 | 2026-10-28 00:56:54 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 45 | 2026-10-25 12:18:29  |
 | [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 234 | 2026-10-25 12:16:33  |
-| [Epassword](https://github.com/EXP-Tools/Epassword) | 公开 | 基于 Electron 的本地密码管理器，以加密 Excel 保存密码，支持 OTP、Chrome 自动填充、加密分享、导入导出及本机 API，兼容 Windows 与 macOS。 | 25 | 2026-09-26 17:14:54  |
-| [account-mgr](https://github.com/EXP-Codes/account-mgr) | 公开 | 帐密管理工具（已归档，请迁移到新仓库） | 35 | 2026-09-26 13:03:38  |
-| [py-transgpt](https://github.com/EXP-Codes/py-transgpt) | 公开 | python 长文本/多平台翻译器（目前支持 baidu、tencent、chatgpt） | 36 | 2026-07-16 16:14:22  |
-| [github-pages-music-player](https://github.com/EXP-Tools/github-pages-music-player) | 公开 | Github Pages 在线音乐播放器 | 15 | 2026-01-05 14:40:04  |
-| [hexo-matery-docker](https://github.com/EXP-Docs/hexo-matery-docker) | 非公开 | docker 一键部署 Hexo 博客 ：matery 主题（此仓库用于构建镜像） | 61 | 2025-10-26 13:42:01  |
-| [vscode-web-docker](https://github.com/EXP-Tools/vscode-web-docker) | 公开 | docker 一键部署 vscode-web ：使用浏览器远程开发 | 49 | 2025-03-03 17:08:38  |
+| [renovation-shortlist](https://github.com/Visuals-AI/renovation-shortlist) | 公开 | 装修选商短名单排名 | 21 | 2026-10-25 12:14:36  |
+| [ro-repo-relation](https://github.com/Casual-Ragnarok/ro-repo-relation) | 公开 | RO 仓库关系梳理 | 15 | 2026-10-22 01:32:00  |
+| [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 22 | 2026-10-22 01:26:15  |
+| [cro-patch-grf](https://github.com/Casual-Ragnarok/cro-patch-grf) | 公开 | 随缘仙境补丁 - GRF 资源包下载（已加密） | 53 | 2026-10-21 02:43:27  |
+| [ro-effects](https://github.com/Casual-Ragnarok/ro-effects) | 公开 | RO 各个特效演示清单 | 10 | 2026-10-21 02:43:24  |
 <!-- END_SECTION:activity -->
 
 
