@@ -55,7 +55,8 @@ jobs:
               page = query('''query($cursor: String) {
                 viewer { repositories(first: 25, after: $cursor,
                   orderBy: {field: PUSHED_AT, direction: DESC},
-                  affiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER]) {
+                  affiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER],
+                  ownerAffiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER]) {
                   nodes { nameWithOwner }
                   pageInfo { hasNextPage endCursor }
                 } }
