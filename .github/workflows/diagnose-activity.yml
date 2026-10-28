@@ -1,0 +1,74 @@
+name: Diagnose activity access
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check target access and repository listing
+        env:
+          GH_TOKEN: ${{ secrets.GRAPHQL_TOKEN }}
+        shell: python
+        run: |
+          import json
+          import os
+          import urllib.request
+
+          token = os.environ.get('GH_TOKEN', '')
+          if not token:
+              raise SystemExit('GRAPHQL_TOKEN is missing')
+
+          def query(text, variables=None):
+              request = urllib.request.Request(
+                  'https://api.github.com/graphql',
+                  data=json.dumps({'query': text, 'variables': variables or {}}).encode(),
+                  headers={'Authorization': 'Bearer ' + token, 'Content-Type': 'application/json'},
+              )
+              with urllib.request.urlopen(request, timeout=60) as response:
+                  return json.load(response)
+
+          result = query('''query {
+            viewer { login }
+            repository(owner: "EXP-Games", name: "rich4-online") {
+              isFork pushedAt defaultBranchRef {
+                target { ... on Commit { history(first: 1) { totalCount } } }
+              }
+            }
+          }''')
+          print('Expected token account:', result.get('data', {}).get('viewer', {}).get('login') == 'lyy289065406')
+          target = (result.get('data') or {}).get('repository')
+          print('Direct repository access:', target is not None)
+          print('Direct query error types:', [e.get('type', 'UNKNOWN') for e in result.get('errors', [])])
+          if target:
+              print('Fork:', target['isFork'])
+              print('Has default branch:', target['defaultBranchRef'] is not None)
+              print('Has readable history:', bool((target.get('defaultBranchRef') or {}).get('target', {}).get('history')))
+
+          cursor = None
+          found = False
+          count = 0
+          while True:
+              page = query('''query($cursor: String) {
+                viewer { repositories(first: 25, after: $cursor,
+                  orderBy: {field: PUSHED_AT, direction: DESC},
+                  affiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER]) {
+                  nodes { nameWithOwner }
+                  pageInfo { hasNextPage endCursor }
+                } }
+              }''', {'cursor': cursor})
+              if page.get('errors'):
+                  print('Listing query error types:', [e.get('type', 'UNKNOWN') for e in page['errors']])
+                  raise SystemExit('Repository listing returned GraphQL errors')
+              connection = page['data']['viewer']['repositories']
+              for node in connection['nodes']:
+                  count += 1
+                  found |= node['nameWithOwner'].lower() == 'exp-games/rich4-online'
+              if not connection['pageInfo']['hasNextPage']:
+                  break
+              cursor = connection['pageInfo']['endCursor']
+          print('Repositories scanned:', count)
+          print('Target present in viewer.repositories:', found)
