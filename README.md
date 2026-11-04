@@ -57,14 +57,14 @@ Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.42%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 14 | 2026-11-03 05:23:33 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 14 | 2026-11-04 05:55:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [pay-gateway](https://github.com/EXP-Codes/pay-gateway) | 非公开 | 个人收款系统 - 后台网关 | 29 | 2026-11-04 01:14:35  |
+| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | 非公开 | RO 自助系统： 道具魔物翻译、查询 | 157 | 2026-11-03 12:19:01  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 公开 | 站点功能组件 | 95 | 2026-11-02 05:36:19  |
 | [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 47 | 2026-11-01 16:21:21  |
 | [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 236 | 2026-11-01 16:19:00  |
 | [renovation-shortlist](https://github.com/Visuals-AI/renovation-shortlist) | 非公开 | 装修选商短名单排名 | 21 | 2026-10-25 12:14:36  |
 | [ro-repo-relation](https://github.com/Casual-Ragnarok/ro-repo-relation) | 公开 | RO 仓库关系梳理 | 15 | 2026-10-22 01:32:00  |
-| [ragnarok-clients](https://github.com/Casual-Ragnarok/ragnarok-clients) | 公开 | ragnarok 历年完整客户端 | 22 | 2026-10-22 01:26:15  |
-| [cro-patch-grf](https://github.com/Casual-Ragnarok/cro-patch-grf) | 公开 | 随缘仙境补丁 - GRF 资源包下载（已加密） | 53 | 2026-10-21 02:43:27  |
 <!-- END_SECTION:activity -->
 
 
