@@ -46,7 +46,7 @@
 ```text
 Programming    22 hrs    ooooooooooooxxxxxxxx    54.01%
 Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.12%
-Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.45%
+Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.46%
 Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.41%
 ```
 <!-- END_SECTION:weektime -->
@@ -57,8 +57,8 @@ Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.41%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 14 | 2026-11-05 05:36:17 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | 非公开 | RO 自助系统： 道具魔物翻译、查询 | 160 | 2026-11-05 05:04:01  |
+| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 14 | 2026-11-06 05:53:47 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | 非公开 | RO 自助系统： 道具魔物翻译、查询 | 162 | 2026-11-05 11:10:17  |
 | [pay-gateway](https://github.com/EXP-Codes/pay-gateway) | 非公开 | 个人收款系统 - 后台网关 | 29 | 2026-11-04 01:14:35  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 公开 | 站点功能组件 | 95 | 2026-11-02 05:36:19  |
 | [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 47 | 2026-11-01 16:21:21  |
