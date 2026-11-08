@@ -44,10 +44,10 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    22 hrs    ooooooooooooxxxxxxxx    54.09%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.08%
+Programming    22 hrs    ooooooooooooxxxxxxxx    54.10%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.09%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.45%
-Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.37%
+Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.36%
 ```
 <!-- END_SECTION:weektime -->
 
@@ -57,14 +57,14 @@ Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.37%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 264 | 2026-11-07 04:34:26 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 313 | 2026-11-08 06:56:46 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [rich4-online-release](https://github.com/EXP-Games/rich4-online-release) | 公开 | 大富翁4 联机版 | 16 | 2026-11-08 02:51:43  |
+| [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 48 | 2026-11-07 08:08:50  |
+| [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 237 | 2026-11-07 08:06:53  |
 | [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | 非公开 | RO 自助系统： 道具魔物翻译、查询 | 162 | 2026-11-05 11:10:17  |
 | [pay-gateway](https://github.com/EXP-Codes/pay-gateway) | 非公开 | 个人收款系统 - 后台网关 | 29 | 2026-11-04 01:14:35  |
 | [site-package](https://github.com/EXP-Tools/site-package) | 公开 | 站点功能组件 | 95 | 2026-11-02 05:36:19  |
-| [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 47 | 2026-11-01 16:21:21  |
-| [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 236 | 2026-11-01 16:19:00  |
 | [renovation-shortlist](https://github.com/Visuals-AI/renovation-shortlist) | 非公开 | 装修选商短名单排名 | 21 | 2026-10-25 12:14:36  |
-| [ro-repo-relation](https://github.com/Casual-Ragnarok/ro-repo-relation) | 公开 | RO 仓库关系梳理 | 15 | 2026-10-22 01:32:00  |
 <!-- END_SECTION:activity -->
 
 
@@ -82,7 +82,7 @@ Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.37%
 | [articles](https://github.com/lyy289065406/articles) | [从零开始搭建 AI 环境](https://exp-blog.com/ai/ai-env/) | 2026-05-05 01:32:24  |
 | [articles](https://github.com/lyy289065406/articles) | [如何使用 AI 一键规划旅行行程](https://exp-blog.com/travel/ru-he-shi-yong-ai-yi-jian-gui-hua-lu-xing-xing-cheng/) | 2026-01-02 01:32:09  |
 | [articles](https://github.com/lyy289065406/articles) | [Switch RetroArch 万能模拟器安装使用笔记](https://exp-blog.com/game/switch/retroarch-sop/) | 2025-11-01 07:51:43  |
-| [re0-web](https://github.com/re-zero-khis/re0-web) | [『一起干吧』](https://re0zero.top/mdbook/book/markdown/ch/chapter100/40.html) | 2026-11-06 22:01:49 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [re0-web](https://github.com/re-zero-khis/re0-web) | [『一起干吧』](https://re0zero.top/mdbook/book/markdown/ch/chapter100/40.html) | 2026-11-08 02:12:22 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 <!-- END_SECTION:article -->
 
 
