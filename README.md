@@ -44,7 +44,7 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    22 hrs    ooooooooooooxxxxxxxx    54.12%
+Programming    22 hrs    ooooooooooooxxxxxxxx    54.13%
 Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.08%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.45%
 Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.35%
@@ -57,8 +57,8 @@ Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.35%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 354 | 2026-11-10 07:35:45 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [rich4-online-release](https://github.com/EXP-Games/rich4-online-release) | 公开 | 大富翁4 联机版 | 20 | 2026-11-08 11:10:30  |
+| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 382 | 2026-11-11 05:39:10 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [rich4-online-release](https://github.com/EXP-Games/rich4-online-release) | 公开 | 大富翁4 联机版 | 20 | 2026-11-11 01:50:12  |
 | [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 48 | 2026-11-07 08:08:50  |
 | [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 237 | 2026-11-07 08:06:53  |
 | [ro-selfsys](https://github.com/Casual-Ragnarok/ro-selfsys) | 非公开 | RO 自助系统： 道具魔物翻译、查询 | 162 | 2026-11-05 11:10:17  |
