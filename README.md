@@ -44,8 +44,8 @@
 ### ⏰  This week I spent my free time on
 <!-- BGN_SECTION:weektime -->
 ```text
-Programming    22 hrs    ooooooooooooxxxxxxxx    54.00%
-Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.14%
+Programming    22 hrs    ooooooooooooxxxxxxxx    54.01%
+Learning       09 hrs    ooooooxxxxxxxxxxxxxx    21.13%
 Writing        02 hrs    ooxxxxxxxxxxxxxxxxxx    03.46%
 Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.40%
 ```
@@ -57,8 +57,8 @@ Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.40%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 32 | 2026-11-16 07:10:16 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
-| [rich4-online-release](https://github.com/EXP-Games/rich4-online-release) | 公开 | 大富翁4 联机版 | 27 | 2026-11-16 04:10:03  |
+| [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 49 | 2026-11-17 16:49:39 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [rich4-online-release](https://github.com/EXP-Games/rich4-online-release) | 公开 | 大富翁4 联机版 | 30 | 2026-11-16 23:06:26  |
 | [ro-single-server](https://github.com/Casual-Ragnarok/ro-single-server) | 公开 | 仙境 RO 传说 - 单机服务端（支持联机） | 392 | 2026-11-16 01:24:16  |
 | [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 48 | 2026-11-07 08:08:50  |
 | [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 237 | 2026-11-07 08:06:53  |
