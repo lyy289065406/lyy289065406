@@ -57,7 +57,7 @@ Playing        09 hrs    ooooooxxxxxxxxxxxxxx    21.40%
 <!-- BGN_SECTION:activity -->
 | repo | visibility | description | commit count | push time |
 |:------|:------|:------|:------|:------|
-| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 非公开 | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2026-11-26 01:22:03 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
+| [casual-ro-server-docker](https://github.com/Casual-Ragnarok/casual-ro-server-docker) | 非公开 | 仙境 RO 传说 - 随缘仙境服务端（docker） | 2204 | 2026-11-27 01:28:14 ![news](https://github.com/lyy289065406/lyy289065406/blob/master/imgs/new.gif) |
 | [house-design-showcase](https://github.com/Visuals-AI/house-design-showcase) | 公开 | 全屋设计需求和模型展示 | 49 | 2026-11-24 02:41:37  |
 | [house-design](https://github.com/Visuals-AI/house-design) | 非公开 | AI 室内设计 | 238 | 2026-11-24 02:39:03  |
 | [rich4-online](https://github.com/EXP-Games/rich4-online) | 非公开 | 大富翁4 多人联机版（原版重制） | 49 | 2026-11-17 16:49:39  |
